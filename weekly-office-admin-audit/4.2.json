@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "4.2",
+  "section": "PAPERWORK & DOCUMENTATION",
+  "question": "Are any deficient PTSAs being addressed each morning by the Clayco Project Team?  (Include pictures of five BAD/DEFICIENT PTSAs that have been corrected/addressed from the last week)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "4.3",
+  "field_id": "67901ace-311b-4aa5-9b87-165a69efefa0",
+  "value_type": "toggleVal"
+}

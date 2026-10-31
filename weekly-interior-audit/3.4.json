@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "3.4",
+  "section": "EQUIPMENT",
+  "question": "Is all other equipment onsite properly inspected before work starts each day and free of visible leaks, damage or other unsafe conditions?  (Include pictures of at least five additional equipment inspections)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "3.5",
+  "field_id": "3fbd264b-8183-4bf5-9940-095cbf5f7eba",
+  "value_type": "toggleVal"
+}

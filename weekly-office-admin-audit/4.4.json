@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "4.4",
+  "section": "PAPERWORK & DOCUMENTATION",
+  "question": "Are all subcontractors submitting Toolbox Talks they are conducting with their crews each week? (Include five pictures/PDFs of completed sub TBTs from this week)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "4.5",
+  "field_id": "77c90fec-491b-4885-a606-d959fb071238",
+  "value_type": "toggleVal"
+}

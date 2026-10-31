@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "2.7",
+  "section": "FALL PROTECTION",
+  "question": "Are all aerial lifts properly inspected before use each day?  (Include at least five pictures/PDFs of aerial lift inspections from this week)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "2.8",
+  "field_id": "eccceb31-bdce-489e-9600-d1b53719a2ca",
+  "value_type": "toggleVal"
+}

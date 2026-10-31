@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "7.5",
+  "section": "STRETCH & FLEX AND TOOLBOX TALKS",
+  "question": "Can everyone in the crowd see and hear what is being said in both S&F and TBT - adequate lighting and speaker system?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "7.6",
+  "field_id": "0d2276e9-a4b0-4521-80a8-8ead08d690d2",
+  "value_type": "toggleVal"
+}

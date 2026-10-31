@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "3.1",
+  "section": "EQUIPMENT",
+  "question": "Are any cranes in use onsite?  If YES, identify how many, their general purpose and location in the notes.  (Include pictures of each crane)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "3.2",
+  "field_id": "add67da0-63a2-4f8d-9e30-0e6386bff06a",
+  "value_type": "toggleVal"
+}

@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "6.1",
+  "section": "SUBCONTRACTOR SAFETY",
+  "question": "Is your project currently active with at least one subcontractor performing work onsite?  (In the Notes, provide an approximate count of the number of subcontractor companies onsite AND the total number of people onstie - subs + Clayco)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "6.2",
+  "field_id": "2bffd766-4594-435a-898f-f049580993f6",
+  "value_type": "toggleVal"
+}

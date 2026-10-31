@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "1.1",
+  "section": "GENERAL CONDITIONS",
+  "question": "Is the area free of trash, materials and other debris on the ground?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "1.2",
+  "field_id": "afd5bf52-8ae0-4c05-b54d-7204b13b8bca",
+  "value_type": "toggleVal"
+}

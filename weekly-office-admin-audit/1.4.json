@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "1.4",
+  "section": "TRAILER",
+  "question": "Is the trailer identified by signage?  Is all appropriate signage displayed inside and outside the trailer in an organized manner? (Include pictures of signage in and around the trailer)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "2.1",
+  "field_id": "f9964910-0ffd-4f47-9a9e-e26f156fd114",
+  "value_type": "toggleVal"
+}

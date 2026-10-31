@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "1.3",
+  "section": "TRAILER",
+  "question": "Is there at least one fire extinguisher staged in the trailer that is inspected and accessible?  (Include a picture of the fire extinguisher)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "1.4",
+  "field_id": "49ecc91e-51f0-4d80-b433-f388a28cb9e3",
+  "value_type": "toggleVal"
+}

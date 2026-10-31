@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "7.6",
+  "section": "STRETCH & FLEX AND TOOLBOX TALKS",
+  "question": "Is there anything that needs to be done to improve how S&F and/or TBTs are conducted?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "end",
+  "field_id": "ec7a59ed-7761-4982-86f8-82c7dbd578fc",
+  "value_type": "toggleVal"
+}

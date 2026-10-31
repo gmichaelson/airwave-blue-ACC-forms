@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "1.4",
+  "section": "GENERAL CONDITIONS",
+  "question": "Are walking and working areas kept clear of trash and other slip/trip hazards - standing water, ice, mud, etc?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "1.5",
+  "field_id": "cbd48892-2dc0-4a73-a32f-5c79dc1917ca",
+  "value_type": "toggleVal"
+}

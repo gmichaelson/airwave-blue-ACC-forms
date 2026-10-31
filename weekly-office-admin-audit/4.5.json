@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "4.5",
+  "section": "PAPERWORK & DOCUMENTATION",
+  "question": "Are all subcontractors performing hot work, ground disturbance or roof work completing appropriate Safe Work Permits for that activity? (Include five pictures/PDFs of completed Safe Work Permits from this week)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "4.6",
+  "field_id": "3f004696-7613-4f2b-8e29-87c7619a910e",
+  "value_type": "toggleVal"
+}

@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "2.6",
+  "section": "FALL PROTECTION",
+  "question": "Are any aerial lifts in use?  If YES, are they being properly used by people with training on file?  (In the notes, identify approximately how many aerial lifts are being used on site)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "2.7",
+  "field_id": "80bd4c21-296f-470d-9524-df4af5ead89d",
+  "value_type": "toggleVal"
+}

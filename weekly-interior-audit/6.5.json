@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "6.5",
+  "section": "TOOLS",
+  "question": "Do all drills - except hammer drills - with a chuck of 1/2\" or greater have auto-stop or anti-rotation features?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "end",
+  "field_id": "63b5577d-c249-4899-b945-19f6daa8b573",
+  "value_type": "toggleVal"
+}

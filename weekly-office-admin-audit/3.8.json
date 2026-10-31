@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "3.8",
+  "section": "INCIDENT PREPAREDNESS",
+  "question": "Is the SDS Binder available to all and current with all chemicals onsite represented in the binder? (Include a picture of the SDS Binder)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "3.9",
+  "field_id": "04d633e0-a825-4ae1-b9fa-36bfb90f4724",
+  "value_type": "toggleVal"
+}

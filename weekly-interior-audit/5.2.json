@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "5.2",
+  "section": "ELECTRICAL SAFETY",
+  "question": "Are all extension cords in good shape and properly protected - elevated at least 7' off the ground by non-conductive material and/rolled up and stored if not in use?  (Include at least five pictures of extension cords)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "5.3",
+  "field_id": "6920f1d4-5576-4783-8dc1-8ffb665476d4",
+  "value_type": "toggleVal"
+}

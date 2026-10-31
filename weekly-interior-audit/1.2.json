@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "1.2",
+  "section": "GENERAL CONDITIONS",
+  "question": "Is there an adequate amount of trash cans placed around the area?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "1.3",
+  "field_id": "51cab026-764c-4480-aae5-d05fd6768121",
+  "value_type": "toggleVal"
+}

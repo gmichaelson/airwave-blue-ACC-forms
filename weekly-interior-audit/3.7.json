@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "3.7",
+  "section": "EQUIPMENT",
+  "question": "Is all mobile, motorized equipment outfitted with functioning back up alarms, horns, lights, mirrors and signals?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "3.8",
+  "field_id": "d2ed7ec6-a3c7-474e-bfe9-5bc519ead7bf",
+  "value_type": "toggleVal"
+}

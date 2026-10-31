@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "5.3",
+  "section": "SUBCONTRACTOR ONBOARDING DOCUMENTATION",
+  "question": "Is everyone currently working onsite marked in GREEN in the OK TO WORK column of the Insurance Log for the project? (If any are RED, list them in the notes.  Include a picture/PDF of the current Insurance Log)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "5.4",
+  "field_id": "92c3bcd8-9ac5-4a12-9fcc-6b523acb99c6",
+  "value_type": "toggleVal"
+}

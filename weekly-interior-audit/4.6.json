@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "4.6",
+  "section": "FIRE SAFETY",
+  "question": "Are any fuel storage areas properly protected by appropriate secondary and spill containment?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "5.1",
+  "field_id": "082f29ec-71e5-4321-b0fc-f2f6a8a1b8fb",
+  "value_type": "toggleVal"
+}

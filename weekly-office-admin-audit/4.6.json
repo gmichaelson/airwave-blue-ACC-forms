@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "4.6",
+  "section": "PAPERWORK & DOCUMENTATION",
+  "question": "Are crews completing inspections for the equipment they are using, prior to starting work?  (Include five pictures/PDFs of equipment inspections from this week)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "4.7",
+  "field_id": "eb2e4ef5-095c-4992-9875-8c95ac492989",
+  "value_type": "toggleVal"
+}

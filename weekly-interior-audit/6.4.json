@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "6.4",
+  "section": "TOOLS",
+  "question": "Are any hand-held bandsaws used onsite dual-trigger?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "6.5",
+  "field_id": "75229d3a-e00a-4a8e-a354-f9eead578447",
+  "value_type": "toggleVal"
+}

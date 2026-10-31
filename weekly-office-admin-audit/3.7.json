@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "3.7",
+  "section": "INCIDENT PREPAREDNESS",
+  "question": "Is the Nurse's area set up, stocked and in good order?  (Include picture of the Nurse's area)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "3.8",
+  "field_id": "b8fc4573-1e95-41fe-93b4-99389caf6f9b",
+  "value_type": "toggleVal"
+}

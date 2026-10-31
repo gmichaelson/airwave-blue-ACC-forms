@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "5.1",
+  "section": "SUBCONTRACTOR ONBOARDING DOCUMENTATION",
+  "question": "Is the subcontractor onboarding matrix/log up to date? (Include a picture/PDF of the current matrix)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "5.2",
+  "field_id": "cb8ae8fb-c0c5-4173-a269-24c819c01545",
+  "value_type": "toggleVal"
+}

@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "3.1",
+  "section": "INCIDENT PREPAREDNESS",
+  "question": "Is a copy of the Incident Reporting Checklist posted in an accessible location? (Include a picture of the checklist)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "3.2",
+  "field_id": "bc427a67-86de-4448-ba4e-b2792de43486",
+  "value_type": "toggleVal"
+}

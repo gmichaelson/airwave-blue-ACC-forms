@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "2.2",
+  "section": "ORIENTATION AREA",
+  "question": "Are stickers, wallet cards, T-shirts and other handouts organized and well-stocked to provide material for workers participating in orientation?  (Include pictures of material storage/organization)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "2.3",
+  "field_id": "78eee6d8-4992-4bd2-9c30-0f1943d0ed82",
+  "value_type": "toggleVal"
+}

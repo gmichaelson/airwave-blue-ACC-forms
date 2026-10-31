@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "1.5",
+  "section": "GENERAL CONDITIONS",
+  "question": "Are materials and tools in storage and work areas properly protected?  All materials on dunnage; steel members on 6x6 dunnage; pipe and rolling stock chocked, etc.",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "1.6",
+  "field_id": "7efdc467-0abd-46f3-8d0b-a22cbe807f5f",
+  "value_type": "toggleVal"
+}

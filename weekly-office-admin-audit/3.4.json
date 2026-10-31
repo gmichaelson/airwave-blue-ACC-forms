@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "3.4",
+  "section": "INCIDENT PREPAREDNESS",
+  "question": "Is a copy of the project's Emergency Action Plan (EAP) posted in an accessible location? (Include a picture of the EAP and list the last revision date in the Notes)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "3.5",
+  "field_id": "7d17d84f-3154-4d80-b230-54fa211629e9",
+  "value_type": "toggleVal"
+}

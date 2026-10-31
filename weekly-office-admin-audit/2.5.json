@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "2.5",
+  "section": "ORIENTATION AREA",
+  "question": "Is the site-specific orientation slide deck up to date and in use? (Identify the date of last revision of the deck in the notes)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "2.6",
+  "field_id": "1a8ab8ea-abbd-4a10-8bf2-faae4532b0d3",
+  "value_type": "toggleVal"
+}

@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "6.1",
+  "section": "TOOLS",
+  "question": "Are all tools being used in an appropriate manner with all safeguards in place and operational?  (Include at least five pictures of workers using tools)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "6.2",
+  "field_id": "e71476db-7dea-4c2e-826a-1ca468bb40a9",
+  "value_type": "toggleVal"
+}

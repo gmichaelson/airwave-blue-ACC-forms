@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "2.4",
+  "section": "FALL PROTECTION",
+  "question": "Are all guard rails/cables set up properly?  Top rail 42\" +/-3\" from deck, mid rail half the distance from deck to top rail, toe board; constructed to withstand 200lbs force; 3 cable clamps applied properly.",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "2.5",
+  "field_id": "5be81426-071e-4e41-b61b-7d912d05925b",
+  "value_type": "toggleVal"
+}

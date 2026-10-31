@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "6.3",
+  "section": "SUBCONTRACTOR SAFETY",
+  "question": "If you have any subcontractors with 25-74 people onsite, do each of those subs have at least ONE full time safety representative onsite that meets the requirements laid out in the S&H Code? (If you do not have any of these subs, select N/A)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "6.4",
+  "field_id": "2b9ad453-81f1-4e7d-8212-9b3f9683901a",
+  "value_type": "toggleVal"
+}

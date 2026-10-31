@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "6.2",
+  "section": "SUBCONTRACTOR SAFETY",
+  "question": "Do you have any subcontractors that currently have 25-74 people working onsite - including tiered subs?  If YES, list those companies in the Notes.",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "6.3",
+  "field_id": "454e2a5d-8ef6-427c-a137-28da938c641f",
+  "value_type": "toggleVal"
+}

@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "3.9",
+  "section": "INCIDENT PREPAREDNESS",
+  "question": "Are recent Safety Alerts posted in a spot where they are easy to read and accessible for workers to review?  (Include a picture of the posted Safety Alerts)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "4.1",
+  "field_id": "36a95fdb-fc31-44ee-aec7-8e86471c441a",
+  "value_type": "toggleVal"
+}

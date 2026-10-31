@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "5.1",
+  "section": "ELECTRICAL SAFETY",
+  "question": "Are all cords in good shape and properly protected with GFCI protection at their source of power?  (Include at least five pictures of cords in use)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "5.2",
+  "field_id": "54dac32b-a808-48b7-8cac-19df7b5c58e7",
+  "value_type": "toggleVal"
+}

@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "7.2",
+  "section": "STRETCH & FLEX AND TOOLBOX TALKS",
+  "question": "Are all Clayco employees participating in S&F each day?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "7.3",
+  "field_id": "e9a0eb9a-585e-40e8-a858-c3cc76382bf1",
+  "value_type": "toggleVal"
+}

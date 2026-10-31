@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "3.3",
+  "section": "EQUIPMENT",
+  "question": "Are all cranes outfitted with a controlled access zone to protect the swing radius and load exclusion zone?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "3.4",
+  "field_id": "d0b0d54e-fb79-415d-bccd-96a7e5db61b9",
+  "value_type": "toggleVal"
+}

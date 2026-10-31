@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "4.3",
+  "section": "FIRE SAFETY",
+  "question": "Are all flammable materials properly stored in appropriate locations?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "4.4",
+  "field_id": "e29fb201-a3c2-4ac0-9a33-b5fcd234a465",
+  "value_type": "toggleVal"
+}

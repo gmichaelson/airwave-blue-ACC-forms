@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "4.3",
+  "section": "PAPERWORK & DOCUMENTATION",
+  "question": "Are all subcontractors submitting weekly Safety Audits? (Include five pictures/PDFs of completed audits from this week)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "4.4",
+  "field_id": "c623c9d3-bd34-4b30-bddc-99e79c7e0768",
+  "value_type": "toggleVal"
+}

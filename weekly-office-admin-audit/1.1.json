@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "number": "1.1",
+  "section": "TRAILER",
+  "question": "Is the interior of the Safety Trailer being kept clean and organized? (Include interior pictures of the Safety Trailer in its current state)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "1.2",
+  "field_id": "e74968cf-74c5-4911-830d-16adafaecb09",
+  "value_type": "toggleVal"
+}

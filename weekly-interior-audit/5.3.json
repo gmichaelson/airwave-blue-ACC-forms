@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "number": "5.3",
+  "section": "ELECTRICAL SAFETY",
+  "question": "Are all cords properly marked with this month's inspection color markings?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "5.4",
+  "field_id": "cabdf21b-f4a6-44d2-adc7-65a9da77640a",
+  "value_type": "toggleVal"
+}

@@ -1,0 +1,14 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "number": "3.6",
+  "section": "Tilt Wall",
+  "question": "Misc. Tilt Wall",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "4.1",
+  "field_id": "655e649d-a36b-4a3b-9d12-a4e8b79712b4",
+  "value_type": "textVal"
+}

@@ -1,0 +1,14 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "number": "4.4",
+  "section": "MEP",
+  "question": "Waste",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "4.5",
+  "field_id": "71a2d2c2-4d60-40b3-b6d4-14dc96c80789",
+  "value_type": "textVal"
+}

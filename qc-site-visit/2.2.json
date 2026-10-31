@@ -1,0 +1,14 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "number": "2.2",
+  "section": "Drywall",
+  "question": "Misc. drywall info",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "2.3",
+  "field_id": "94340af6-1d28-498a-81d4-8f3fdcf7c105",
+  "value_type": "textVal"
+}

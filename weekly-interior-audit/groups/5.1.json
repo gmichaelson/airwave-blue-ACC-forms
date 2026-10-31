@@ -5,27 +5,36 @@
   "questions": [
     {
       "number": "5.1",
-      "question": "Are all cords in good shape and properly protected with GFCI protection at their source of power?  (Include at least five pictures of cords in use)",
-      "callout": null,
+      "question": "Are all cords in good shape with GFCI protection at the power source?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "5.2",
-      "question": "Are all extension cords in good shape and properly protected - elevated at least 7' off the ground by non-conductive material and/rolled up and stored if not in use?  (Include at least five pictures of extension cords)",
-      "callout": null,
+      "question": "Are extension cords in good shape, raised at least 7 feet on non-conductive supports, or rolled up when not in use?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "5.3",
-      "question": "Are all cords properly marked with this month's inspection color markings?",
-      "callout": null,
+      "question": "Are all cords marked with this month's inspection color?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "5.4"

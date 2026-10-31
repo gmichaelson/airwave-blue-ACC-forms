@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Interior Audit",
   "number": "5.4",
   "section": "ELECTRICAL SAFETY",
-  "question": "Are construction power skids identified, protected and do they have a clearance around them of at least 36\" on all sides?",
-  "callout": null,
+  "question": "Are construction power skids marked, protected, and clear for 36 inches on all sides?",
+  "acc_question": "Are construction power skids identified, protected and do they have a clearance around them of at least 36\" on all sides?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "5.5",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "5.5",
   "field_id": "5c61b9af-7527-4805-b9fd-877ba31346f9",
   "value_type": "toggleVal"
 }

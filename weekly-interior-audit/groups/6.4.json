@@ -5,19 +5,25 @@
   "questions": [
     {
       "number": "6.4",
-      "question": "Are any hand-held bandsaws used onsite dual-trigger?",
-      "callout": null,
+      "question": "Are all hand-held bandsaws on site dual-trigger?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "6.5",
-      "question": "Do all drills - except hammer drills - with a chuck of 1/2\" or greater have auto-stop or anti-rotation features?",
-      "callout": null,
+      "question": "Do all drills with a half inch or larger chuck, except hammer drills, have auto-stop or anti-rotation?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "end"

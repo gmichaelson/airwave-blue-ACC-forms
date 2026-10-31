@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Interior Audit",
   "number": "3.2",
   "section": "EQUIPMENT",
-  "question": "Are all cranes up to date on all inspections?  (Include pictures/PDFs of inspections for each)",
-  "callout": null,
+  "question": "Are all crane inspections up to date?",
+  "acc_question": "Are all cranes up to date on all inspections?  (Include pictures/PDFs of inspections for each)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "3.3",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "3.3",
   "field_id": "4f06ff0a-c140-4dd7-9ea7-69e9a13f3e8b",
   "value_type": "toggleVal"
 }

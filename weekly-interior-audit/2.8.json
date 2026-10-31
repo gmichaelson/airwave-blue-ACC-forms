@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Interior Audit",
   "number": "2.8",
   "section": "FALL PROTECTION",
-  "question": "Is anyone using personal fall arrest equipment?  If YES, has it been properly inspected and does it properly fit the worker? (Include pictures of workers properly set up in and using their fall protection equipment)",
-  "callout": null,
+  "question": "Is anyone using personal fall arrest gear, and is it inspected and fitted properly?",
+  "acc_question": "Is anyone using personal fall arrest equipment?  If YES, has it been properly inspected and does it properly fit the worker? (Include pictures of workers properly set up in and using their fall protection equipment)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "2.9",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "2.9",
   "field_id": "fb0aa6bc-3bd8-44ee-8a50-1248375dd81c",
   "value_type": "toggleVal"
 }

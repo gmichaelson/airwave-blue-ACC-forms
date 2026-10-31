@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Interior Audit",
   "number": "1.3",
   "section": "GENERAL CONDITIONS",
-  "question": "Are trash cans emptied regularly to avoid piles/spilling out of trash?",
-  "callout": null,
+  "question": "Are the trash cans emptied often enough that they don't pile up or spill?",
+  "acc_question": "Are trash cans emptied regularly to avoid piles/spilling out of trash?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "1.4",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "1.4",
   "field_id": "a618527e-1f45-4bb5-aca5-841cc871fdd7",
   "value_type": "toggleVal"
 }

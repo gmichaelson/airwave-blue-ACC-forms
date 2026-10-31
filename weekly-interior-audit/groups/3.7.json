@@ -5,27 +5,36 @@
   "questions": [
     {
       "number": "3.7",
-      "question": "Is all mobile, motorized equipment outfitted with functioning back up alarms, horns, lights, mirrors and signals?",
-      "callout": null,
+      "question": "Does all mobile equipment have working backup alarms, horns, lights, mirrors, and signals?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "3.8",
-      "question": "Is all mobile, motorized equipment outfitted with an appropriate fire extinguisher, easily accessible by the operator?",
-      "callout": null,
+      "question": "Does all mobile equipment have a fire extinguisher the operator can reach?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "3.9",
-      "question": "Are all aerial lifts operated on firm, level surface with crush protection over the controls, as appropriate?  (Include at least five pictures of separate aerial lifts in operation)",
-      "callout": null,
+      "question": "Are aerial lifts used on firm, level ground with crush protection over the controls?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "4.1"

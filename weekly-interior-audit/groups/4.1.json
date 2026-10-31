@@ -5,27 +5,36 @@
   "questions": [
     {
       "number": "4.1",
-      "question": "Are fire extinguishers properly staged around the site - at the stair landing of each floor, within 25'-75' of flammable storage areas, within 100' of any work area, on all mobile equipment?  (Include pictures of at least five fire extinguishers from around site)",
-      "callout": null,
+      "question": "Are fire extinguishers staged properly: at each stair landing, 25 to 75 feet from flammable storage, within 100 feet of any work, and on all mobile equipment?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "4.2",
-      "question": "Are all fire extinguishers inspected monthly and properly tagged/labelled showing up to date monthly inspections?  (Include at least five pictures of inspection tags from extinguishers around site)",
-      "callout": null,
+      "question": "Are all fire extinguishers inspected monthly and tagged as current?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "4.3",
-      "question": "Are all flammable materials properly stored in appropriate locations?",
-      "callout": null,
+      "question": "Are all flammable materials stored in the right places?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "4.4"

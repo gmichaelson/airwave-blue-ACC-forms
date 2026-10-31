@@ -5,27 +5,38 @@
   "questions": [
     {
       "number": "2.1",
-      "question": "Is anyone working six feet or more off the ground or a lower level (including work in aerial lifts)?  If YES, identify the type of work and locations of elevated work.",
-      "callout": null,
+      "question": "Is anyone working 6 feet or more above a lower level, including in aerial lifts?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "Yes": "What type of work, and where?"
+      },
+      "only_if": null
     },
     {
       "number": "2.2",
-      "question": "Is any change in elevation of 19\" or more protected with a ramp, stairs, warning line or other means of protecting people from stepping off the edge?",
-      "callout": null,
+      "question": "Are elevation changes of 19 inches or more protected with a ramp, stairs, warning line, or other means?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "2.3",
-      "question": "Are all open holes, 2\" or greater in size properly covered, secured and signed?",
-      "callout": null,
+      "question": "Are all open holes 2 inches or larger covered, secured, and signed?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "2.4"

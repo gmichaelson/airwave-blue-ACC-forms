@@ -5,27 +5,38 @@
   "questions": [
     {
       "number": "5.4",
-      "question": "Are construction power skids identified, protected and do they have a clearance around them of at least 36\" on all sides?",
-      "callout": null,
+      "question": "Are construction power skids marked, protected, and clear for 36 inches on all sides?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "5.5",
-      "question": "Is all live electrical equipment marked with appropriate identification, information and warning labels, including electrical rooms?",
-      "callout": null,
+      "question": "Is all live electrical equipment, including electrical rooms, labeled with identification and warnings?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "5.6",
-      "question": "Is a LOTO program in place for the project with Controlling and Authorizing Energy Marshals and a centralized LOTO Station in operation? (Include pictures of the LOTO Station and identify who the Energy Marshals are in the notes)",
-      "callout": null,
+      "question": "Is there a LOTO program with Controlling and Authorizing Energy Marshals and a central LOTO station?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "Yes": "Who are the Energy Marshals?"
+      },
+      "only_if": null
     }
   ],
   "next": "6.1"

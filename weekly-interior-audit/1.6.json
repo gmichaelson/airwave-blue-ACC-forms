@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Interior Audit",
   "number": "1.6",
   "section": "GENERAL CONDITIONS",
-  "question": "Is lighting adequate for the work being performed?  (Include pictures of lighting in various areas)",
-  "callout": null,
+  "question": "Is the lighting adequate for the work?",
+  "acc_question": "Is lighting adequate for the work being performed?  (Include pictures of lighting in various areas)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "1.7",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "1.7",
   "field_id": "6a915f4e-219c-4f55-b877-b30979b1bd2a",
   "value_type": "toggleVal"
 }

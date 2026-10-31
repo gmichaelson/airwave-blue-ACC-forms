@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Interior Audit",
   "number": "4.4",
   "section": "FIRE SAFETY",
-  "question": "Are flammable storage areas set up properly - protected from vehicle/equipment impact, fire extinguisher within 25'-75', NO SMOKING signs posted, area free of fuel and ignition sources?",
-  "callout": null,
+  "question": "Are flammable storage areas protected from vehicles, with an extinguisher 25 to 75 feet away, No Smoking signs, and no ignition sources?",
+  "acc_question": "Are flammable storage areas set up properly - protected from vehicle/equipment impact, fire extinguisher within 25'-75', NO SMOKING signs posted, area free of fuel and ignition sources?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "4.5",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "4.5",
   "field_id": "516036da-b703-4049-afc9-ae33da89523b",
   "value_type": "toggleVal"
 }

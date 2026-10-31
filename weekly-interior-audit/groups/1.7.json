@@ -5,11 +5,16 @@
   "questions": [
     {
       "number": "1.7",
-      "question": "Are conditions appropriate to require monitoring of carbon monoxide levels?  If YES, include pictures and notes that describe actions taken to monitor and mitigate CO hazards and exposure, as well as a picture/PDF of the CO monitoring log.",
-      "callout": null,
+      "question": "Do conditions call for carbon monoxide monitoring?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "Yes": "What's being done to monitor and reduce carbon monoxide?"
+      },
+      "only_if": null
     }
   ],
   "next": "2.1"

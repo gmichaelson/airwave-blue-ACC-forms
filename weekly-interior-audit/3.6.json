@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Interior Audit",
   "number": "3.6",
   "section": "EQUIPMENT",
-  "question": "Is anyone operating mobile, motorized equipment using a seatbelt during operation of the equipment?",
-  "callout": null,
+  "question": "Are operators of mobile equipment wearing seatbelts?",
+  "acc_question": "Is anyone operating mobile, motorized equipment using a seatbelt during operation of the equipment?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "3.7",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "3.7",
   "field_id": "86b2e32f-1f91-47e0-a556-75f5a22bef35",
   "value_type": "toggleVal"
 }

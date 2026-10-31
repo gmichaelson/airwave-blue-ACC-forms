@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Interior Audit",
   "number": "6.2",
   "section": "TOOLS",
-  "question": "Are all knives being used onsite of the automatic self-retractive blade type?",
-  "callout": null,
+  "question": "Are all knives on site the automatic self-retracting type?",
+  "acc_question": "Are all knives being used onsite of the automatic self-retractive blade type?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "6.3",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "6.3",
   "field_id": "be8c960b-5d94-4362-8efe-8dee57fb2c35",
   "value_type": "toggleVal"
 }

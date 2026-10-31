@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Interior Audit",
   "number": "4.5",
   "section": "FIRE SAFETY",
-  "question": "Are all flammable storage cabinets grounded and are they within capacity for their size?",
-  "callout": null,
+  "question": "Are flammable storage cabinets grounded and within capacity?",
+  "acc_question": "Are all flammable storage cabinets grounded and are they within capacity for their size?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "4.6",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "4.6",
   "field_id": "3841acce-df3d-4321-8725-1a8c24f00a89",
   "value_type": "toggleVal"
 }

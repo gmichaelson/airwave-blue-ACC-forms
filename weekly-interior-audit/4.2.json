@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Interior Audit",
   "number": "4.2",
   "section": "FIRE SAFETY",
-  "question": "Are all fire extinguishers inspected monthly and properly tagged/labelled showing up to date monthly inspections?  (Include at least five pictures of inspection tags from extinguishers around site)",
-  "callout": null,
+  "question": "Are all fire extinguishers inspected monthly and tagged as current?",
+  "acc_question": "Are all fire extinguishers inspected monthly and properly tagged/labelled showing up to date monthly inspections?  (Include at least five pictures of inspection tags from extinguishers around site)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "4.3",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "4.3",
   "field_id": "f56aaad9-d10e-46e8-bc87-604b981daa31",
   "value_type": "toggleVal"
 }

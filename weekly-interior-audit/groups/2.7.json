@@ -5,27 +5,36 @@
   "questions": [
     {
       "number": "2.7",
-      "question": "Are all aerial lifts properly inspected before use each day?  (Include at least five pictures/PDFs of aerial lift inspections from this week)",
-      "callout": null,
+      "question": "Are all aerial lifts inspected before use each day?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "2.8",
-      "question": "Is anyone using personal fall arrest equipment?  If YES, has it been properly inspected and does it properly fit the worker? (Include pictures of workers properly set up in and using their fall protection equipment)",
-      "callout": null,
+      "question": "Is anyone using personal fall arrest gear, and is it inspected and fitted properly?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "2.9",
-      "question": "Is fall protection equipment appropriate for the situation?",
-      "callout": null,
+      "question": "Is the fall protection equipment right for the situation?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "3.1"

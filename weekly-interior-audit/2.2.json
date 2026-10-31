@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Interior Audit",
   "number": "2.2",
   "section": "FALL PROTECTION",
-  "question": "Is any change in elevation of 19\" or more protected with a ramp, stairs, warning line or other means of protecting people from stepping off the edge?",
-  "callout": null,
+  "question": "Are elevation changes of 19 inches or more protected with a ramp, stairs, warning line, or other means?",
+  "acc_question": "Is any change in elevation of 19\" or more protected with a ramp, stairs, warning line or other means of protecting people from stepping off the edge?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "2.3",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "2.3",
   "field_id": "dd0ea4b1-55bc-4136-9902-df8b26a51960",
   "value_type": "toggleVal"
 }

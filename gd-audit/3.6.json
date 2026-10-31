@@ -10,7 +10,10 @@
   "say_if": null,
   "more_info": null,
   "follow_up": null,
-  "only_if": null,
+  "only_if": {
+    "number": "2.13",
+    "answer": "Level 2"
+  },
   "next": "3.7",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."

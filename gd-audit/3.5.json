@@ -12,7 +12,10 @@
   "follow_up": {
     "Yes": "How far is the closest utility?"
   },
-  "only_if": null,
+  "only_if": {
+    "number": "2.13",
+    "answer": "Level 2"
+  },
   "next": "3.6",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."

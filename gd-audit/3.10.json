@@ -10,7 +10,10 @@
   "say_if": null,
   "more_info": null,
   "follow_up": null,
-  "only_if": null,
+  "only_if": {
+    "number": "2.13",
+    "answer": "Level 2"
+  },
   "next": "4.1",
   "acc_rules": null,
   "field_id": "6f9b4d55-7036-4500-87fd-dbf3137983f4",

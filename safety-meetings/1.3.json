@@ -2,7 +2,7 @@
   "form": "Safety - Meetings",
   "number": "1.3",
   "section": "Safety Meetings",
-  "question": "Topic of meeting",
+  "question": "Topic, first list: work rules, PPE, ergonomics, housekeeping, fall protection, tool safety, equipment safety, air quality, weather, or other.",
   "acc_question": "Topic of meeting",
   "answer_type": "one_or_more_options",
   "options": [

@@ -5,7 +5,7 @@
   "questions": [
     {
       "number": "1.2",
-      "question": "Type of meeting",
+      "question": "What type of meeting was it? Toolbox talk, safety committee, stand down, sub annual refresher, or other?",
       "answer_type": "one_or_more_options",
       "options": [
         "Toolbox Talk",

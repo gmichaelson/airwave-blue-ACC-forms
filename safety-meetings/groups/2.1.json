@@ -5,11 +5,13 @@
   "questions": [
     {
       "number": "2.1",
-      "question": "Attach a copy of the meeting script or agenda and include any notes about the discussion topic",
+      "question": "Any notes about what was discussed?",
       "answer_type": "text",
       "options": null,
       "required": false,
-      "say_if": null,
+      "say_if": {
+        "any": "The form needs the sign-in sheet and the meeting agenda attached. Take pictures of them with the photo button."
+      },
       "more_info": "NOTE: IF YOU SELECTED \"OTHER\" FOR THE TOPIC IN QUESTION 1.3, BE SURE TO ENTER THE TOPIC OF YOUR MEETING HERE WHEN YOU UPLOAD YOUR SCRIPT/AGENDA (THIS IS ESPECIALLY IMPORTANT FOR TBT)",
       "follow_up": null,
       "only_if": null

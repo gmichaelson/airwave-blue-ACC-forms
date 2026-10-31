@@ -5,7 +5,7 @@
   "questions": [
     {
       "number": "1.1",
-      "question": "Date of the meeting",
+      "question": "What day was the meeting? Say today if it was today.",
       "answer_type": "date",
       "options": null,
       "required": true,

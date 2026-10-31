@@ -2,7 +2,7 @@
   "form": "Safety - Meetings",
   "number": "1.1",
   "section": "Safety Meetings",
-  "question": "Date of the meeting",
+  "question": "What day was the meeting? Say today if it was today.",
   "acc_question": "Date of the meeting",
   "answer_type": "date",
   "options": null,

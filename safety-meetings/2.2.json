@@ -2,7 +2,7 @@
   "form": "Safety - Meetings",
   "number": "2.2",
   "section": "Agenda",
-  "question": "Attach the sign in sheet(s) from this meeting",
+  "question": "Anything to note about the sign-in sheets, like how many people signed? Say skip if not.",
   "acc_question": "Attach the sign in sheet(s) from this meeting",
   "answer_type": "text",
   "options": null,

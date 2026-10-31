@@ -5,7 +5,7 @@
   "questions": [
     {
       "number": "2.2",
-      "question": "Attach the sign in sheet(s) from this meeting",
+      "question": "Anything to note about the sign-in sheets, like how many people signed? Say skip if not.",
       "answer_type": "text",
       "options": null,
       "required": false,

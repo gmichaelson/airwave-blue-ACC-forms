@@ -6,26 +6,35 @@
     {
       "number": "4.7",
       "question": "PVC markers installed for located utilities and newly installed utilities?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "4.8",
       "question": "If fall protection is required, is it in place and being used properly?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "4.9",
       "question": "Has the competent person inspected the excavation prior to beginning work?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "4.10"

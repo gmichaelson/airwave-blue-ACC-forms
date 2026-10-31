@@ -6,26 +6,35 @@
     {
       "number": "2.5",
       "question": "Is a photo of the as-builts/site utility map with excavation area identified attached to the permit?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "2.6",
       "question": "Are photos of the layout of excavation and known utilities attached utilizing proper utility layout colors with paint or flags?",
-      "callout": "White: Proposed excavation\nPink: Temporary survey markings\nRed: Electric (powerlines, cables, conduit, lighting cables)\nYellow: Gas, oil, steam, petroleum or gaseous materials\nOrange: Communication, alarm, signal lines, cables, conduits\nBlue: Potable water\nPurple: Reclaimed water, irrigation and slurry lines\nGreen: Sewer and drain lines",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": "White: Proposed excavation\nPink: Temporary survey markings\nRed: Electric (powerlines, cables, conduit, lighting cables)\nYellow: Gas, oil, steam, petroleum or gaseous materials\nOrange: Communication, alarm, signal lines, cables, conduits\nBlue: Potable water\nPurple: Reclaimed water, irrigation and slurry lines\nGreen: Sewer and drain lines",
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "2.7",
       "question": "Has 811 or other utility locate company been contacted?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "2.8"

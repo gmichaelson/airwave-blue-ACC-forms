@@ -3,14 +3,18 @@
   "number": "4.4",
   "section": "Ground Disturbance Field Observations",
   "question": "Access/Egress within 25' of workers?",
-  "callout": null,
+  "acc_question": "Access/Egress within 25' of workers?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "4.5",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."
   ],
-  "next": "4.5",
   "field_id": "7d14b794-6139-403e-b6cb-01e8fbe37a39",
   "value_type": "toggleVal"
 }

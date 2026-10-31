@@ -3,12 +3,16 @@
   "number": "3.2",
   "section": "Level 2 Permit",
   "question": "Method of identification?",
-  "callout": null,
+  "acc_question": "Method of identification?",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "3.3",
+  "acc_rules": null,
   "field_id": "46e9cc17-a306-42d6-9f3f-6832a319af22",
   "value_type": "textVal"
 }

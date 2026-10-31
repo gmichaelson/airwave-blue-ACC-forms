@@ -3,14 +3,18 @@
   "number": "4.3",
   "section": "Ground Disturbance Field Observations",
   "question": "Area properly barricaded to protect from personnel and equipment?",
-  "callout": null,
+  "acc_question": "Area properly barricaded to protect from personnel and equipment?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "4.4",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."
   ],
-  "next": "4.4",
   "field_id": "11cec159-53df-4a44-8575-a6959de8354d",
   "value_type": "toggleVal"
 }

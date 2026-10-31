@@ -3,14 +3,18 @@
   "number": "2.8",
   "section": "Permit Review",
   "question": "Has a walk of the activity been conducted with all affected subs who have utilities in the area?",
-  "callout": null,
+  "acc_question": "Has a walk of the activity been conducted with all affected subs who have utilities in the area?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "2.9",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."
   ],
-  "next": "2.9",
   "field_id": "73a2ad95-e6aa-4483-89be-ec00d62aec0b",
   "value_type": "toggleVal"
 }

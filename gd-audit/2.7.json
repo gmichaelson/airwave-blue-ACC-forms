@@ -3,14 +3,18 @@
   "number": "2.7",
   "section": "Permit Review",
   "question": "Has 811 or other utility locate company been contacted?",
-  "callout": null,
+  "acc_question": "Has 811 or other utility locate company been contacted?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "2.8",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."
   ],
-  "next": "2.8",
   "field_id": "94b7a230-6b37-4853-b7b7-da49fc8c4397",
   "value_type": "toggleVal"
 }

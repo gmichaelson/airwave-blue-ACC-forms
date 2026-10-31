@@ -3,14 +3,18 @@
   "number": "3.3",
   "section": "Level 2 Permit",
   "question": "Is the distance from ground disturbance activity to utilities identified?",
-  "callout": null,
+  "acc_question": "Is the distance from ground disturbance activity to utilities identified?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "3.4",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."
   ],
-  "next": "3.4",
   "field_id": "d5fc8c46-ea50-4626-819d-0e487a880938",
   "value_type": "toggleVal"
 }

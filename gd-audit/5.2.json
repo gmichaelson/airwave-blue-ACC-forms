@@ -3,12 +3,16 @@
   "number": "5.2",
   "section": "Excavation Protection",
   "question": "What is the depth of the excavation?",
-  "callout": "- Excavations greater than 19' in depth require an engineered plan\n- Air monitoring to be done in excavations 4' and deeper",
+  "acc_question": "What is the depth of the excavation?",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": "- Excavations greater than 19' in depth require an engineered plan\n- Air monitoring to be done in excavations 4' and deeper",
+  "follow_up": null,
+  "only_if": null,
   "next": "5.3",
+  "acc_rules": null,
   "field_id": "ba795566-ab8a-4c60-ae83-2ea59d5fa14f",
   "value_type": "textVal"
 }

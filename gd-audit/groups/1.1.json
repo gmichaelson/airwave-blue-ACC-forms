@@ -6,18 +6,26 @@
     {
       "number": "1.1",
       "question": "Is there active ground disturbance activity currently in process onsite?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "1.2",
       "question": "If yes, is a completed and approved permit in place?",
-      "callout": "If no, stop work immediately",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": {
+        "No": "Stop work immediately"
+      },
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "1.3"

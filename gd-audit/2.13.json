@@ -3,15 +3,19 @@
   "number": "2.13",
   "section": "Permit Review",
   "question": "Is the Ground Disturbance activity level 1 or level 2?",
-  "callout": null,
+  "acc_question": "Is the Ground Disturbance activity level 1 or level 2?",
   "answer_type": "one_option",
   "options": [
     "Level 1",
     "Level 2"
   ],
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "3.1",
+  "acc_rules": null,
   "field_id": "15752798-f197-43e3-8ac3-13fc3af56c4a",
   "value_type": "choiceVal"
 }

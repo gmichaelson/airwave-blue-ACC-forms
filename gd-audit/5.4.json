@@ -3,14 +3,18 @@
   "number": "5.4",
   "section": "Excavation Protection",
   "question": "Tabulated data for trench box received?",
-  "callout": null,
+  "acc_question": "Tabulated data for trench box received?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "5.5",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."
   ],
-  "next": "5.5",
   "field_id": "738b9689-d603-4902-aebd-988be6a4d4ee",
   "value_type": "toggleVal"
 }

@@ -6,26 +6,35 @@
     {
       "number": "5.4",
       "question": "Tabulated data for trench box received?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "5.5",
       "question": "If protection is in use, is it installed per the manufacturer's specifications?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "5.6",
       "question": "Adequate access and egress available?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "5.7"

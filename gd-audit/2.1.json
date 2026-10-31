@@ -3,7 +3,7 @@
   "number": "2.1",
   "section": "Permit Review",
   "question": "What type of activity is this permit opened for?",
-  "callout": "Should only be one activity per permit",
+  "acc_question": "What type of activity is this permit opened for?",
   "answer_type": "one_option",
   "options": [
     "Trenching/Digging",
@@ -14,8 +14,12 @@
     "Fence post driving"
   ],
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": "Should only be one activity per permit",
+  "follow_up": null,
+  "only_if": null,
   "next": "2.2",
+  "acc_rules": null,
   "field_id": "a34d70cd-4bbc-4cf5-ad59-8ef325c892ef",
   "value_type": "choiceVal"
 }

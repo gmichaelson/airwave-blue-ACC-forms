@@ -6,26 +6,35 @@
     {
       "number": "3.6",
       "question": "Has the regional safety manager, operations manager, and other appropriate parties reviewed and approved the permitted activity?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "3.7",
       "question": "Have utility shut off locations been identified?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "3.8",
       "question": "Are utility protection methods in place, if needed?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "3.9"

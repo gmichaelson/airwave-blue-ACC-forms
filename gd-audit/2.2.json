@@ -3,14 +3,18 @@
   "number": "2.2",
   "section": "Permit Review",
   "question": "Is each portion of the activity section completed?",
-  "callout": null,
+  "acc_question": "Is each portion of the activity section completed?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "2.3",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."
   ],
-  "next": "2.3",
   "field_id": "4ee348e8-2e1a-45aa-8af7-5dd5bfd1381b",
   "value_type": "toggleVal"
 }

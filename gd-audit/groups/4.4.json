@@ -6,26 +6,35 @@
     {
       "number": "4.4",
       "question": "Access/Egress within 25' of workers?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "4.5",
       "question": "Spoils and other materials minimum of 4' from edge of excavation?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "4.6",
       "question": "Copy of permit posted at excavation location?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "4.7"

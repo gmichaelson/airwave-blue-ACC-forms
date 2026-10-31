@@ -6,10 +6,13 @@
     {
       "number": "1.3",
       "question": "How many separate ground disturbance activities are currently in progress?",
-      "callout": null,
       "answer_type": "number",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "2.1"

@@ -3,14 +3,18 @@
   "number": "5.7",
   "section": "Excavation Protection",
   "question": "Is excavation adequately protected at the end of each shift?",
-  "callout": null,
+  "acc_question": "Is excavation adequately protected at the end of each shift?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "end",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."
   ],
-  "next": "end",
   "field_id": "d3aaf322-8590-4165-86b2-e7f6b1bb88d9",
   "value_type": "toggleVal"
 }

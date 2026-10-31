@@ -3,14 +3,18 @@
   "number": "4.5",
   "section": "Ground Disturbance Field Observations",
   "question": "Spoils and other materials minimum of 4' from edge of excavation?",
-  "callout": null,
+  "acc_question": "Spoils and other materials minimum of 4' from edge of excavation?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "4.6",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."
   ],
-  "next": "4.6",
   "field_id": "f8c02d7c-3a72-4241-a676-9b1a15de27a3",
   "value_type": "toggleVal"
 }

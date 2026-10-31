@@ -3,12 +3,16 @@
   "number": "3.10",
   "section": "Level 2 Permit",
   "question": "Have emergency contacts other than 9-1-1 been identified?",
-  "callout": null,
+  "acc_question": "Have emergency contacts other than 9-1-1 been identified?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "4.1",
+  "acc_rules": null,
   "field_id": "6f9b4d55-7036-4500-87fd-dbf3137983f4",
   "value_type": "toggleVal"
 }

@@ -6,10 +6,13 @@
     {
       "number": "3.10",
       "question": "Have emergency contacts other than 9-1-1 been identified?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "4.1"

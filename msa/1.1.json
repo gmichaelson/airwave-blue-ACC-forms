@@ -3,12 +3,16 @@
   "number": "1.1",
   "section": "MSA",
   "question": "List the names of all team members participating in this walk.  MUST INCLUDE A PICTURE OF THE TEAM POSED TOGETHER FOR THIS WALK WITH THIS ITEM.",
-  "callout": null,
+  "acc_question": "List the names of all team members participating in this walk.  MUST INCLUDE A PICTURE OF THE TEAM POSED TOGETHER FOR THIS WALK WITH THIS ITEM.",
   "answer_type": "text",
   "options": null,
   "required": true,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "1.2",
+  "acc_rules": null,
   "field_id": "d62a78aa-de38-4c3a-a9ec-7398b276add6",
   "value_type": "textVal"
 }

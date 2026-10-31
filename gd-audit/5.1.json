@@ -3,12 +3,16 @@
   "number": "5.1",
   "section": "Excavation Protection",
   "question": "What soil type is the excavation?",
-  "callout": "Clayco classifies all soil as Type C (1 1/2 : 1)unless otherwise determined by a geotechnical engineer and a report is on file",
+  "acc_question": "What soil type is the excavation?",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": "Clayco classifies all soil as Type C (1 1/2 : 1)unless otherwise determined by a geotechnical engineer and a report is on file",
+  "follow_up": null,
+  "only_if": null,
   "next": "5.2",
+  "acc_rules": null,
   "field_id": "38dce748-971f-47b8-91a3-a1bc10eeeb6f",
   "value_type": "textVal"
 }

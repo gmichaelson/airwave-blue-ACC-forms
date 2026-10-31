@@ -6,10 +6,13 @@
     {
       "number": "5.2",
       "question": "What is the depth of the excavation?",
-      "callout": "- Excavations greater than 19' in depth require an engineered plan\n- Air monitoring to be done in excavations 4' and deeper",
       "answer_type": "text",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": "- Excavations greater than 19' in depth require an engineered plan\n- Air monitoring to be done in excavations 4' and deeper",
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "5.3"

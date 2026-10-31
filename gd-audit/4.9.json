@@ -3,14 +3,18 @@
   "number": "4.9",
   "section": "Ground Disturbance Field Observations",
   "question": "Has the competent person inspected the excavation prior to beginning work?",
-  "callout": null,
+  "acc_question": "Has the competent person inspected the excavation prior to beginning work?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "4.10",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."
   ],
-  "next": "4.10",
   "field_id": "f0eb81cc-e0a9-4614-b3ba-4dd72db9c934",
   "value_type": "toggleVal"
 }

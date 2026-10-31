@@ -6,26 +6,37 @@
     {
       "number": "3.3",
       "question": "Is the distance from ground disturbance activity to utilities identified?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "3.4",
       "question": "Are photos of the identified utilities attached to the permit?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "3.5",
       "question": "Is the activity within the HOT Zone (within 15' of live utility)? If yes, what is the distance from the closest utility to the ground disturbance activity?",
-      "callout": null,
       "answer_type": "yes_no_na",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "Yes": "How far is the closest utility?"
+      },
+      "only_if": null
     }
   ],
   "next": "3.6"

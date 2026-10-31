@@ -3,15 +3,19 @@
   "number": "1.3",
   "section": "MSA",
   "question": "Housekeeping & Slips, Trips and Falls",
-  "callout": "Is trashed picked up off the ground?  Are trash cans emptied to the dumpster daily/when full?  Are storing/staging areas orderly?  Cords up off the ground?  Are walkways and walking paths clear and free of hazards?  Are there designated walkways where equipment/vehicle traffic is in the same area?  Are hazards like mud, water, snow and ice cleared or contained by warning lines?  Are signs or markers in place identifying trip hazards, changes in elevation or other hazards that can not be eliminated?",
+  "acc_question": "Housekeeping & Slips, Trips and Falls",
   "answer_type": "one_option",
   "options": [
     "Compliant",
     "Non-Compliant"
   ],
   "required": true,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": "Is trashed picked up off the ground?  Are trash cans emptied to the dumpster daily/when full?  Are storing/staging areas orderly?  Cords up off the ground?  Are walkways and walking paths clear and free of hazards?  Are there designated walkways where equipment/vehicle traffic is in the same area?  Are hazards like mud, water, snow and ice cleared or contained by warning lines?  Are signs or markers in place identifying trip hazards, changes in elevation or other hazards that can not be eliminated?",
+  "follow_up": null,
+  "only_if": null,
   "next": "1.4",
+  "acc_rules": null,
   "field_id": "36ec77f5-10f6-4447-9af4-3ddcfb14dbd6",
   "value_type": "choiceVal"
 }

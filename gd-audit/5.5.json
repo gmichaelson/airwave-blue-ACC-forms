@@ -3,14 +3,18 @@
   "number": "5.5",
   "section": "Excavation Protection",
   "question": "If protection is in use, is it installed per the manufacturer's specifications?",
-  "callout": null,
+  "acc_question": "If protection is in use, is it installed per the manufacturer's specifications?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "5.6",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."
   ],
-  "next": "5.6",
   "field_id": "61c578d7-de9a-4be8-bafb-dec35f00c229",
   "value_type": "toggleVal"
 }

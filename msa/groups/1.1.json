@@ -6,10 +6,13 @@
     {
       "number": "1.1",
       "question": "List the names of all team members participating in this walk.  MUST INCLUDE A PICTURE OF THE TEAM POSED TOGETHER FOR THIS WALK WITH THIS ITEM.",
-      "callout": null,
       "answer_type": "text",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "1.2"

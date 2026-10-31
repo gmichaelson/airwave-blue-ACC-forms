@@ -6,7 +6,6 @@
     {
       "number": "5.3",
       "question": "What type of protection is in use?",
-      "callout": null,
       "answer_type": "one_option",
       "options": [
         "Sloping",
@@ -16,7 +15,11 @@
         "Trench Box",
         "Other (if other, enter protection type in notes)"
       ],
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "5.4"

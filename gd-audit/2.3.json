@@ -3,14 +3,18 @@
   "number": "2.3",
   "section": "Permit Review",
   "question": "Has the daily review been completed by Clayco and the subcontractor?",
-  "callout": null,
+  "acc_question": "Has the daily review been completed by Clayco and the subcontractor?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "2.4",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."
   ],
-  "next": "2.4",
   "field_id": "ec70d4f0-b887-4fff-8231-cfe5cc820eb5",
   "value_type": "toggleVal"
 }

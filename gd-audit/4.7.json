@@ -3,14 +3,18 @@
   "number": "4.7",
   "section": "Ground Disturbance Field Observations",
   "question": "PVC markers installed for located utilities and newly installed utilities?",
-  "callout": null,
+  "acc_question": "PVC markers installed for located utilities and newly installed utilities?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "4.8",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."
   ],
-  "next": "4.8",
   "field_id": "e8675345-3fc2-438a-87fd-93d1c7613244",
   "value_type": "toggleVal"
 }

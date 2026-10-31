@@ -3,14 +3,20 @@
   "number": "1.2",
   "section": "Ground Disturbance",
   "question": "If yes, is a completed and approved permit in place?",
-  "callout": "If no, stop work immediately",
+  "acc_question": "If yes, is a completed and approved permit in place?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": false,
+  "say_if": {
+    "No": "Stop work immediately"
+  },
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "1.3",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."
   ],
-  "next": "1.3",
   "field_id": "e6f01393-5089-4af8-a492-10b89f556518",
   "value_type": "toggleVal"
 }

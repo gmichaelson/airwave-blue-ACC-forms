@@ -3,14 +3,20 @@
   "number": "3.5",
   "section": "Level 2 Permit",
   "question": "Is the activity within the HOT Zone (within 15' of live utility)? If yes, what is the distance from the closest utility to the ground disturbance activity?",
-  "callout": null,
+  "acc_question": "Is the activity within the HOT Zone (within 15' of live utility)? If yes, what is the distance from the closest utility to the ground disturbance activity?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": {
+    "Yes": "How far is the closest utility?"
+  },
+  "only_if": null,
+  "next": "3.6",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."
   ],
-  "next": "3.6",
   "field_id": "9b7d56c2-0cf2-431d-a876-48524d315bef",
   "value_type": "toggleVal"
 }

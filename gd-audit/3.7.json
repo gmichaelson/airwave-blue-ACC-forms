@@ -3,14 +3,18 @@
   "number": "3.7",
   "section": "Level 2 Permit",
   "question": "Have utility shut off locations been identified?",
-  "callout": null,
+  "acc_question": "Have utility shut off locations been identified?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "3.8",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."
   ],
-  "next": "3.8",
   "field_id": "0cdefc3b-f163-4dfb-8355-22c3cbdfeee2",
   "value_type": "toggleVal"
 }

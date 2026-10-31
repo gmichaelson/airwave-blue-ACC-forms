@@ -3,14 +3,18 @@
   "number": "4.2",
   "section": "Ground Disturbance Field Observations",
   "question": "Equipment inspections completed?",
-  "callout": null,
+  "acc_question": "Equipment inspections completed?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "4.3",
   "acc_rules": [
     "If No: ACC needs a linked issue for this answer."
   ],
-  "next": "4.3",
   "field_id": "5b736ba1-9d52-415e-ae6e-395e98f004a6",
   "value_type": "toggleVal"
 }

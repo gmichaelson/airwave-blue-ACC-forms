@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "number": "3.2",
+  "section": "SIGNAGE",
+  "question": "Is the project entrance set up with appropriate signage?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "3.3",
+  "field_id": "aa0102b7-f997-43a8-8056-a836b60e42d8",
+  "value_type": "toggleVal"
+}

@@ -1,0 +1,20 @@
+{
+  "form": "Safety - Meetings",
+  "number": "1.2",
+  "section": "Safety Meetings",
+  "question": "Type of meeting",
+  "callout": null,
+  "answer_type": "one_or_more_options",
+  "options": [
+    "Toolbox Talk",
+    "Safety Committee",
+    "Stand Down",
+    "Sub Annual Refresher",
+    "Other"
+  ],
+  "required": true,
+  "acc_rules": null,
+  "next": "1.3",
+  "field_id": "c7861063-601a-4d3b-8354-54522fc26e69",
+  "value_type": "arrayVal"
+}

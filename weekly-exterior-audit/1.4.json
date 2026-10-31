@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "1.4",
+  "section": "HOUSEKEEPING, STORAGE & STAGING",
+  "question": "Are walking and working areas kept clear of trash and other slip/trip hazards - standing water, ice, mud, etc?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "1.5",
+  "field_id": "261a384b-a34a-4359-b84d-846954c4f359",
+  "value_type": "toggleVal"
+}

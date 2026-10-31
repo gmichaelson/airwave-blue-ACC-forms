@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "number": "4.2",
+  "section": "RESTROOM FACILITIES",
+  "question": "Are facilities kept clean and well-stocked?  (Upload at pictures of the insides of five separate restroom facilities)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "4.3",
+  "field_id": "8dbc2ca4-4636-428d-b129-49f527e26277",
+  "value_type": "toggleVal"
+}

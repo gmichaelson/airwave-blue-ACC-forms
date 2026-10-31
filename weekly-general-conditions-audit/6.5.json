@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "number": "6.5",
+  "section": "CORDS AND TOOLS",
+  "question": "Are cutting tools - saws, grinders - being used with the material properly secured?  (Include pictures of cutting stations)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "6.6",
+  "field_id": "fb279d20-c478-4a96-8c7b-a27a6e8a40ca",
+  "value_type": "toggleVal"
+}

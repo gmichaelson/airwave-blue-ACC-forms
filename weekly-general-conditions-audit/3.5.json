@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "number": "3.5",
+  "section": "SIGNAGE",
+  "question": "Is appropriate signage displayed around the site?  (Upload at least five pictures of site signage, other than what has been shown earlier in the audit)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "4.1",
+  "field_id": "c054c12d-8ab4-4ae5-912c-031a7a09747f",
+  "value_type": "toggleVal"
+}

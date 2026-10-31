@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "number": "4.3",
+  "section": "RESTROOM FACILITIES",
+  "question": "Are hand washing/sanitizing stations available at all restroom facilities? (Upload pictures of these stations)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "5.1",
+  "field_id": "ccb2e1be-c7ad-4134-a0d9-7aa0f47f9589",
+  "value_type": "toggleVal"
+}

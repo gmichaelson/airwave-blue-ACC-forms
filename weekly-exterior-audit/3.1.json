@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "3.1",
+  "section": "FALL PROTECTION",
+  "question": "Is anyone working six feet or more off the ground or a lower level (including work in aerial lifts)?  If YES, identify the type of work and locations of elevated work.",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "3.2",
+  "field_id": "34a19694-12a4-4d56-b5bc-d87e418f2f9f",
+  "value_type": "toggleVal"
+}

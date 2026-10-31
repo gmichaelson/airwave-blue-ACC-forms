@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "number": "1.5",
+  "section": "GENERAL CONSIDERATIONS",
+  "question": "Are fire extinguishers properly staged around the site - at the stair landing of each floor, within 25'-75' of flammable storage areas, within 100' of any work area, on all mobile equipment?  (Include pictures of at least five fire extinguishers from around site)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "1.6",
+  "field_id": "1fee0911-16ff-4352-a724-0965158bd3c6",
+  "value_type": "toggleVal"
+}

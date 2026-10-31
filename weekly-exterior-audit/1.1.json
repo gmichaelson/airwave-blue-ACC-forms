@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "1.1",
+  "section": "HOUSEKEEPING, STORAGE & STAGING",
+  "question": "Is the area free of trash, materials and other debris on the ground?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "1.2",
+  "field_id": "497c88c8-810c-4b7b-ba23-045e75a02b59",
+  "value_type": "toggleVal"
+}

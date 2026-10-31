@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "4.9",
+  "section": "GROUND DISTURBANCE",
+  "question": "Is snow fencing or other hard barricade in place around the excavation for protection when it is unattended/overnight?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "5.1",
+  "field_id": "5e8c81f2-6e05-4248-9290-ab90db47d5ac",
+  "value_type": "toggleVal"
+}

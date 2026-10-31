@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "5.9",
+  "section": "EQUIPMENT",
+  "question": "Are all aerial lifts operated on firm, level surface with crush protection over the controls, as appropriate?  (Include at least five pictures of separate aerial lifts in operation)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "end",
+  "field_id": "53ee84f4-6a45-4710-af94-9f99cfecb4bd",
+  "value_type": "toggleVal"
+}

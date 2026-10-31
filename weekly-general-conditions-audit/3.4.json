@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "number": "3.4",
+  "section": "SIGNAGE",
+  "question": "Is the OSHA Board posted in a visible area with all material being clean, legible and up to date?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "3.5",
+  "field_id": "303762a2-7ac9-4bb5-b26a-f3b2656997cd",
+  "value_type": "toggleVal"
+}

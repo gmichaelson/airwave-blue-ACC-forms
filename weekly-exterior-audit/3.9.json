@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "3.9",
+  "section": "FALL PROTECTION",
+  "question": "Is fall protection equipment appropriate for the situation?  Lanyards - Type 1 for anchor above D-Ring, Type 2 for anchor above or below D-Ring.  Sharp or leading edge protection.  Proper length or type.",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "4.1",
+  "field_id": "cf97f3ae-53cd-47b2-8bdf-a32bdbd8db68",
+  "value_type": "toggleVal"
+}

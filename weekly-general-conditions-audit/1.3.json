@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "number": "1.3",
+  "section": "GENERAL CONSIDERATIONS",
+  "question": "Are all eyewash stations inspected regularly?  (Upload pictures of eyewas station inspection tags)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "1.4",
+  "field_id": "15c6cc39-dd09-4bc6-90a2-33b7a2310dd6",
+  "value_type": "toggleVal"
+}

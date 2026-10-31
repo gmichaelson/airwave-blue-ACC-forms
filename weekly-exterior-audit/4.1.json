@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "4.1",
+  "section": "GROUND DISTURBANCE",
+  "question": "Is there any active ground disturbance activities onsite?  If YES, identify how many different operations and general locations in the notes.",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "4.2",
+  "field_id": "9f671e0c-71e1-474b-8290-89c31de7b29b",
+  "value_type": "toggleVal"
+}

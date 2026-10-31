@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "1.5",
+  "section": "HOUSEKEEPING, STORAGE & STAGING",
+  "question": "Are laydown areas for staging materials  established and marked off?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "1.6",
+  "field_id": "fa770487-b49a-4901-a57a-5edd4aa54a3f",
+  "value_type": "toggleVal"
+}

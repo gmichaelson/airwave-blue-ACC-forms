@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "number": "6.6",
+  "section": "CORDS AND TOOLS",
+  "question": "Are any hand-held bandsaws used onsite dual-trigger?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "6.7",
+  "field_id": "8b608f63-c471-4bf5-8f98-96583acce0b6",
+  "value_type": "toggleVal"
+}

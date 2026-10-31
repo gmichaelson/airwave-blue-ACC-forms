@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "number": "7.1",
+  "section": "CHILL ZONES/WARM ZONES",
+  "question": "Is the weather currently warm enough to require the use of Chill Zones - 80+ degrees with heat index?  (If YES, include pictures of at least one Chill Zone and identify how many are currently available in the notes.)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "7.2",
+  "field_id": "877b2576-db51-4750-92e5-c342e54d5ccd",
+  "value_type": "toggleVal"
+}

@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "2.4",
+  "section": "ROADWAYS, TRAFFIC CONTROL & WALK PATHS",
+  "question": "Is lighting adequate in all areas for safe walking and driving at all times of day?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "2.5",
+  "field_id": "2377957c-3ed0-4a07-8c10-71ba5bf8ae68",
+  "value_type": "toggleVal"
+}

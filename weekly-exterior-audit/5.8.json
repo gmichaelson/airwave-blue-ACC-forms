@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "5.8",
+  "section": "EQUIPMENT",
+  "question": "Is all mobile, motorized equipment outfitted with an appropriate fire extinguisher, easily accessible by the operator?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "5.9",
+  "field_id": "c9ab3586-fc47-4a00-bad8-1cbcadd6e362",
+  "value_type": "toggleVal"
+}

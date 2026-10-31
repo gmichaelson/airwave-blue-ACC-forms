@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "number": "5.4",
+  "section": "PERSONAL PROTECTIVE EQUIPMENT (PPE)",
+  "question": "Is everyone wearing gloves from the Clayco Glove Guide that are appropriate for their task? (Be sure to identify with notes and pictures those that do not have appropriate gloves)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "5.5",
+  "field_id": "2a6afc71-62b7-4173-84b6-54b6fdb8c5b3",
+  "value_type": "toggleVal"
+}

@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "2.5",
+  "section": "ROADWAYS, TRAFFIC CONTROL & WALK PATHS",
+  "question": "Are there areas where spotters are in use to guide vehicles and equipment?  If YES, include pictures of spotters at work and describe how spotters are identified in the notes.",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "2.6",
+  "field_id": "1fd246fd-ba0a-40ca-a54e-49f1470183e0",
+  "value_type": "toggleVal"
+}

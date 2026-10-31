@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "4.2",
+  "section": "GROUND DISTURBANCE",
+  "question": "Is the Site Utility Map posted in the office and up to date?  (Include a picture/PDF of the Site Utility Map)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "4.3",
+  "field_id": "2f73826c-3218-4bcb-b72f-8141452d3213",
+  "value_type": "toggleVal"
+}

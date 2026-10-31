@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "number": "1.8",
+  "section": "GENERAL CONSIDERATIONS",
+  "question": "Are any fuel storage areas properly protected by appropriate secondary and spill containment?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "1.9",
+  "field_id": "2567661e-3c6c-43a6-837a-23b23a79a5f6",
+  "value_type": "toggleVal"
+}

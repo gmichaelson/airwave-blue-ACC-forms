@@ -1,0 +1,14 @@
+{
+  "form": "Safety - Meetings",
+  "number": "1.1",
+  "section": "Safety Meetings",
+  "question": "Date of the meeting",
+  "callout": null,
+  "answer_type": "date",
+  "options": null,
+  "required": true,
+  "acc_rules": null,
+  "next": "1.2",
+  "field_id": "bf17da01-1edc-c24e-2a3c-20e04d6c6af8",
+  "value_type": "dateVal"
+}

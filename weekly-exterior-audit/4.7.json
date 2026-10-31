@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "4.7",
+  "section": "GROUND DISTURBANCE",
+  "question": "Does every trench box or shoring system have tabulated data available onsite?  (Include pictures of tabulated data for each system)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "4.8",
+  "field_id": "6c7d4811-204f-4f34-8098-d4b25c26e671",
+  "value_type": "toggleVal"
+}

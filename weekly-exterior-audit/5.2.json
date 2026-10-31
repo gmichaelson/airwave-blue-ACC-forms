@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "5.2",
+  "section": "EQUIPMENT",
+  "question": "Are all cranes up to date on all inspections?  (Include pictures/PDFs of inspections for each)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "5.3",
+  "field_id": "be660ca3-540b-4e62-bdd3-4b209d66ed94",
+  "value_type": "toggleVal"
+}

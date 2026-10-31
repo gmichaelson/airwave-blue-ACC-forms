@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "5.5",
+  "section": "EQUIPMENT",
+  "question": "Do all workers have training certificates on file for the equipment they are operating and have appropriate stickers on their helmet?  (Include pictures of at least five workers displaying training stickers)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "5.6",
+  "field_id": "01b6e488-3e1f-4cd6-9be2-1368f2137962",
+  "value_type": "toggleVal"
+}

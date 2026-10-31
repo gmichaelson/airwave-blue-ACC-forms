@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "number": "5.5",
+  "section": "PERSONAL PROTECTIVE EQUIPMENT (PPE)",
+  "question": "Are workers performing tasks that create flying debris wearing foam-lined glasses/goggles and face shields?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "5.6",
+  "field_id": "ce086fab-059c-4ef6-90ba-df67057056e0",
+  "value_type": "toggleVal"
+}

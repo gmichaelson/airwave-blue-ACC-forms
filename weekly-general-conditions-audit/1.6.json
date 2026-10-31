@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "number": "1.6",
+  "section": "GENERAL CONSIDERATIONS",
+  "question": "Are all fire extinguishers inspected monthly and properly tagged/labelled showing up to date monthly inspections?  (Include at least five pictures of inspection tags from extinguishers around site)",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "1.7",
+  "field_id": "fbe66f30-dd11-441b-9a96-794536005e68",
+  "value_type": "toggleVal"
+}

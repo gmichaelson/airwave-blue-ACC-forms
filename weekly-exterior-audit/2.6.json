@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "2.6",
+  "section": "ROADWAYS, TRAFFIC CONTROL & WALK PATHS",
+  "question": "Is there any work being done in active roadways?  If YES, include pictures of the work and describe how the Traffic Control Plan is being followed to provide protection for workers in the roadway.",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "2.7",
+  "field_id": "f6b6ec75-647b-43fd-a5a1-ec155f31bbde",
+  "value_type": "toggleVal"
+}

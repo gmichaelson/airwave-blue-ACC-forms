@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "3.5",
+  "section": "FALL PROTECTION",
+  "question": "Are any scaffolds in use?  If YES, are inspection tags in place and properly signed and is the scaffold in proper use?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "3.6",
+  "field_id": "9b4ffba9-bef0-46f6-9922-48dc68347105",
+  "value_type": "toggleVal"
+}

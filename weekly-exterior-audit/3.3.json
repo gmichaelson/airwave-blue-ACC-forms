@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "3.3",
+  "section": "FALL PROTECTION",
+  "question": "Are all open holes, 2\" or greater in size properly covered, secured and signed?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "3.4",
+  "field_id": "b62a23a7-a3e3-4292-a583-c3957f274003",
+  "value_type": "toggleVal"
+}

@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "number": "2.2",
+  "section": "DOCUMENTATION",
+  "question": "Is there a protected means of making blank forms available to crews and are the blank forms well-stocked?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "2.3",
+  "field_id": "d6d22829-4187-41b9-b70a-a06196e2366d",
+  "value_type": "toggleVal"
+}

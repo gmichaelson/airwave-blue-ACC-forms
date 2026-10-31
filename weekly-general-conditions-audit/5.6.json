@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "number": "5.6",
+  "section": "PERSONAL PROTECTIVE EQUIPMENT (PPE)",
+  "question": "Is anyone working with sheet metal or other material with extremely sharp edges working with cut-rated sleeves to protect their arms?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "6.1",
+  "field_id": "260ca32a-b07a-4ef6-9b32-35e5af138469",
+  "value_type": "toggleVal"
+}

@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "2.7",
+  "section": "ROADWAYS, TRAFFIC CONTROL & WALK PATHS",
+  "question": "Is there a clear path for emergency services to access and drive around the site?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "3.1",
+  "field_id": "03b14216-9079-46aa-843a-0520e5dc5658",
+  "value_type": "toggleVal"
+}

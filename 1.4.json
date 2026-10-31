@@ -1,0 +1,18 @@
+{
+  "form": "Safety - Meetings",
+  "number": "1.4",
+  "section": "Safety Meetings",
+  "question": "Topic of meeting",
+  "callout": "NOTE - IF YOU SELECT \"OTHER\" AS THE TOPIC, PLEASE ENTER THE ACTUAL TOPIC OF THE MEETING IN THE QUESTION 2.1 WHERE YOU UPLOAD THE AGENDA OF THE MEETING. (THIS IS ESPECIALLY IMPORTANT FOR TOOLBOX TALKS)",
+  "answer_type": "one_or_more_options",
+  "options": [
+    "Holiday",
+    "Safety Alert",
+    "Other"
+  ],
+  "required": true,
+  "acc_rules": null,
+  "next": "2.1",
+  "field_id": "d91f9ca2-923c-a928-84f8-cc85f65898c6",
+  "value_type": "arrayVal"
+}

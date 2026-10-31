@@ -1,0 +1,17 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "number": "3.2",
+  "section": "FALL PROTECTION",
+  "question": "Is any change in elevation of 19\" or more protected with a ramp, stairs, warning line or other means of protecting people from stepping off the edge?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": [
+    "If Yes: ACC needs a photo for this answer.",
+    "If No: ACC needs a photo for this answer."
+  ],
+  "next": "3.3",
+  "field_id": "51b6d00a-90df-4a05-b735-fb625c522a30",
+  "value_type": "toggleVal"
+}

@@ -43,6 +43,10 @@
       "questions": [
         "1.7"
       ]
+    },
+    {
+      "group": "finish",
+      "questions": []
     }
   ]
 }

@@ -32,6 +32,10 @@
       "questions": [
         "2.2"
       ]
+    },
+    {
+      "group": "finish",
+      "questions": []
     }
   ]
 }

@@ -11,7 +11,7 @@
   "more_info": "The signature itself is done in ACC by the Clayco representative. Store the name here.",
   "follow_up": null,
   "only_if": null,
-  "next": "end",
+  "next": "finish",
   "acc_rules": null,
   "field_id": "e47864bf-9641-42e9-a69b-aa8d8ebc0742",
   "value_type": "svgVal"

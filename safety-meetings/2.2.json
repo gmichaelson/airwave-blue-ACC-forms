@@ -11,7 +11,7 @@
   "more_info": null,
   "follow_up": null,
   "only_if": null,
-  "next": "end",
+  "next": "finish",
   "acc_rules": null,
   "field_id": "1725b9eb-c750-871e-8c40-325869923e16",
   "value_type": "textVal"

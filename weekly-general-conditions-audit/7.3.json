@@ -13,7 +13,7 @@
     "Yes": "How many Warm Zones are set up?"
   },
   "only_if": null,
-  "next": "end",
+  "next": "finish",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."

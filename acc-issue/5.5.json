@@ -43,7 +43,7 @@
   "more_info": null,
   "follow_up": null,
   "only_if": null,
-  "next": "end",
+  "next": "finish",
   "acc_rules": null,
   "field_id": "17ad9fc3-42f6-5fd0-a25d-568f8e7f8424",
   "value_type": "list"

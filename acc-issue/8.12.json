@@ -14,7 +14,7 @@
     "number": "8.7",
     "answer": "Yes, rework is above $1000"
   },
-  "next": "end",
+  "next": "finish",
   "acc_rules": null,
   "field_id": "2c3c358f-effb-5658-9bcf-2972ad23e7e8",
   "value_type": "numeric"

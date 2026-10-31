@@ -11,7 +11,7 @@
   "more_info": null,
   "follow_up": null,
   "only_if": null,
-  "next": "end",
+  "next": "finish",
   "acc_rules": null,
   "field_id": "dueDate",
   "value_type": "standard"

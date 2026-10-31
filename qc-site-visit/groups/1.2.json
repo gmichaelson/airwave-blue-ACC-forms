@@ -6,10 +6,13 @@
     {
       "number": "1.2",
       "question": "Joint Condition and Caulking",
-      "callout": null,
       "answer_type": "text",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "1.3"

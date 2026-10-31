@@ -6,10 +6,13 @@
     {
       "number": "10.1",
       "question": "Clayco Representative",
-      "callout": null,
       "answer_type": "signature",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "end"

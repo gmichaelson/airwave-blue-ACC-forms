@@ -6,10 +6,13 @@
     {
       "number": "1.5",
       "question": "correct number of cylinders being made (4X8s or 6X12s) and at the specified frequency",
-      "callout": null,
       "answer_type": "text",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "1.6"

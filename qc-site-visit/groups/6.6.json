@@ -6,10 +6,13 @@
     {
       "number": "6.6",
       "question": "Roof hatch",
-      "callout": null,
       "answer_type": "text",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "6.7"

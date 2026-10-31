@@ -6,10 +6,13 @@
     {
       "number": "4.4",
       "question": "Waste",
-      "callout": null,
       "answer_type": "text",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "4.5"

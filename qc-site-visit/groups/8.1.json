@@ -6,10 +6,13 @@
     {
       "number": "8.1",
       "question": "Soil condition",
-      "callout": null,
       "answer_type": "text",
       "options": null,
-      "required": false
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "8.2"

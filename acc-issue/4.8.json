@@ -1,0 +1,21 @@
+{
+  "form": "ACC Issue",
+  "number": "4.8",
+  "section": "Details for Warranty",
+  "question": "Is it ops or non-ops?",
+  "acc_question": "Ops vs Non-Ops",
+  "answer_type": "one_option",
+  "options": [
+    "Ops",
+    "Non-Ops"
+  ],
+  "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "end",
+  "acc_rules": null,
+  "field_id": "2ef2ad32-acd8-5f27-b8b2-29e940245b1d",
+  "value_type": "list"
+}

@@ -1,0 +1,18 @@
+{
+  "form": "ACC Issue",
+  "number": "7.2",
+  "section": "Details for Clayco Operations",
+  "question": "When does it need to be fixed by? Say skip if there's no date.",
+  "acc_question": "Due date",
+  "answer_type": "date",
+  "options": null,
+  "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "end",
+  "acc_rules": null,
+  "field_id": "dueDate",
+  "value_type": "standard"
+}

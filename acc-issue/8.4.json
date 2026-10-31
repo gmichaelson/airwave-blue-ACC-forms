@@ -1,0 +1,18 @@
+{
+  "form": "ACC Issue",
+  "number": "8.4",
+  "section": "Details for Quality Issue > PAYB",
+  "question": "When does it need to be fixed by? Say skip if there's no date.",
+  "acc_question": "Due date",
+  "answer_type": "date",
+  "options": null,
+  "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "8.5",
+  "acc_rules": null,
+  "field_id": "dueDate",
+  "value_type": "standard"
+}

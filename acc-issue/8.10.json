@@ -1,0 +1,21 @@
+{
+  "form": "ACC Issue",
+  "number": "8.10",
+  "section": "Details for Quality Issue > PAYB",
+  "question": "What's the architect or engineer cost? Say skip if you don't know.",
+  "acc_question": "A/E Cost",
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": {
+    "number": "8.7",
+    "answer": "Yes, rework is above $1000"
+  },
+  "next": "8.11",
+  "acc_rules": null,
+  "field_id": "f284c1f6-5591-53aa-beb9-fa271cb3bf32",
+  "value_type": "text"
+}

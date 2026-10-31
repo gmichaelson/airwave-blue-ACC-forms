@@ -1,0 +1,21 @@
+{
+  "form": "ACC Issue",
+  "number": "3.10",
+  "section": "Details for Commissioning",
+  "question": "What's the owner cost? Say skip if you don't know.",
+  "acc_question": "Owner Cost",
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": {
+    "number": "3.6",
+    "answer": "Yes, rework is above $1000"
+  },
+  "next": "3.11",
+  "acc_rules": null,
+  "field_id": "80709080-8a50-5378-b85c-1475bb22d872",
+  "value_type": "text"
+}

@@ -1,0 +1,27 @@
+{
+  "form": "ACC Issue",
+  "number": "1.4",
+  "section": "Issue",
+  "question": "Which kind of warranty issue is it?",
+  "acc_question": "Subtype",
+  "answer_type": "one_option",
+  "options": [
+    "Warranty",
+    "1 Year Warranty Walk"
+  ],
+  "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": {
+    "number": "1.2",
+    "answer": "Warranty"
+  },
+  "next": {
+    "Warranty": "4.1",
+    "1 Year Warranty Walk": "4.1"
+  },
+  "acc_rules": null,
+  "field_id": "issueSubtypeId",
+  "value_type": "standard"
+}

@@ -1,0 +1,29 @@
+{
+  "form": "ACC Issue",
+  "number": "1.7",
+  "section": "Issue",
+  "question": "Which kind of rework issue is it?",
+  "acc_question": "Subtype",
+  "answer_type": "one_option",
+  "options": [
+    "Design",
+    "Product",
+    "Workmanship"
+  ],
+  "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": {
+    "number": "1.2",
+    "answer": "Rework"
+  },
+  "next": {
+    "Design": "5.1",
+    "Product": "5.1",
+    "Workmanship": "5.1"
+  },
+  "acc_rules": null,
+  "field_id": "issueSubtypeId",
+  "value_type": "standard"
+}

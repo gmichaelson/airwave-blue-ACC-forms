@@ -1,0 +1,27 @@
+{
+  "form": "ACC Issue",
+  "number": "1.5",
+  "section": "Issue",
+  "question": "Which kind of coordination issue is it?",
+  "acc_question": "Subtype",
+  "answer_type": "one_option",
+  "options": [
+    "Coordination",
+    "Clash"
+  ],
+  "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": {
+    "number": "1.2",
+    "answer": "Coordination"
+  },
+  "next": {
+    "Coordination": "5.1",
+    "Clash": "5.1"
+  },
+  "acc_rules": null,
+  "field_id": "issueSubtypeId",
+  "value_type": "standard"
+}

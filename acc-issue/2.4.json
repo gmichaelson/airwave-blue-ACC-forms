@@ -1,0 +1,22 @@
+{
+  "form": "ACC Issue",
+  "number": "2.4",
+  "section": "Details for Safety",
+  "question": "How urgent is it? High, medium, or low?",
+  "acc_question": "Priority Rating",
+  "answer_type": "one_option",
+  "options": [
+    "HIGH - complete immediately",
+    "MEDIUM - complete within 48 hours",
+    "LOW - complete within week"
+  ],
+  "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "end",
+  "acc_rules": null,
+  "field_id": "4b3f543b-d60f-5b03-bd7b-c34a062c2359",
+  "value_type": "list"
+}

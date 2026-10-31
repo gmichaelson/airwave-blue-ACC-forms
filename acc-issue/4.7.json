@@ -1,0 +1,18 @@
+{
+  "form": "ACC Issue",
+  "number": "4.7",
+  "section": "Details for Warranty",
+  "question": "When was it identified? Say today if it was today.",
+  "acc_question": "Date Identified (YYYY-MM-DD)",
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "4.8",
+  "acc_rules": null,
+  "field_id": "f62b8c1f-abe0-589e-ba03-911db9a3df3d",
+  "value_type": "text"
+}

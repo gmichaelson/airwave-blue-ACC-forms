@@ -1,0 +1,18 @@
+{
+  "form": "ACC Issue",
+  "number": "3.1",
+  "section": "Details for Commissioning",
+  "question": "Who's responsible for fixing it? A company or a person.",
+  "acc_question": "Assigned to",
+  "answer_type": "text",
+  "options": null,
+  "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "3.2",
+  "acc_rules": null,
+  "field_id": "assignedTo",
+  "value_type": "standard"
+}

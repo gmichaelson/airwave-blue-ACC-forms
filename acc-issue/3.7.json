@@ -1,0 +1,21 @@
+{
+  "form": "ACC Issue",
+  "number": "3.7",
+  "section": "Details for Commissioning",
+  "question": "What's the Clayco cost? Say skip if you don't know.",
+  "acc_question": "Clayco Cost",
+  "answer_type": "number",
+  "options": null,
+  "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": {
+    "number": "3.6",
+    "answer": "Yes, rework is above $1000"
+  },
+  "next": "3.8",
+  "acc_rules": null,
+  "field_id": "edd5684f-ba7c-5f52-823a-118e028a9644",
+  "value_type": "numeric"
+}

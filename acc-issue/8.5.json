@@ -1,0 +1,21 @@
+{
+  "form": "ACC Issue",
+  "number": "8.5",
+  "section": "Details for Quality Issue > PAYB",
+  "question": "Does it go against the contract requirements?",
+  "acc_question": "Is this issue a Non-Conformance?",
+  "answer_type": "one_option",
+  "options": [
+    "Yes, it deviated from contract requirements.",
+    "No, it adhered to contract requirements."
+  ],
+  "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "8.6",
+  "acc_rules": null,
+  "field_id": "151b3238-314d-5915-995a-598be1238d23",
+  "value_type": "list"
+}

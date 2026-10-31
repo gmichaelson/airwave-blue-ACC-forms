@@ -1,0 +1,18 @@
+{
+  "form": "ACC Issue",
+  "number": "5.2",
+  "section": "Details for Coordination, Rework, and Architect-Engineer design or observation",
+  "question": "Where is it? Building, area, and anything nearby that helps find it.",
+  "acc_question": "Location details",
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "5.3",
+  "acc_rules": null,
+  "field_id": "locationDetails",
+  "value_type": "standard"
+}

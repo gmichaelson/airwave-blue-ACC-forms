@@ -1,0 +1,18 @@
+{
+  "form": "ACC Issue",
+  "number": "1.1",
+  "section": "Issue",
+  "question": "What is the issue?",
+  "acc_question": "Title and Description",
+  "answer_type": "text",
+  "options": null,
+  "required": true,
+  "say_if": null,
+  "more_info": "Title = 2 to 6 words from the answer (max 100 characters). Description = the full answer.",
+  "follow_up": null,
+  "only_if": null,
+  "next": "1.2",
+  "acc_rules": null,
+  "field_id": "title, description",
+  "value_type": "standard"
+}

@@ -1,0 +1,21 @@
+{
+  "form": "ACC Issue",
+  "number": "3.8",
+  "section": "Details for Commissioning",
+  "question": "What's the subcontractor cost? Say skip if you don't know.",
+  "acc_question": "Subcontractor Cost",
+  "answer_type": "number",
+  "options": null,
+  "required": false,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": {
+    "number": "3.6",
+    "answer": "Yes, rework is above $1000"
+  },
+  "next": "3.9",
+  "acc_rules": null,
+  "field_id": "a2cd4499-8d43-5036-979f-13dab761adae",
+  "value_type": "numeric"
+}

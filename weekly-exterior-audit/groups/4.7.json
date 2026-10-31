@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "group": "4.7",
+  "section": "GROUND DISTURBANCE",
+  "questions": [
+    {
+      "number": "4.7",
+      "question": "Does every trench box or shoring system have tabulated data available onsite?  (Include pictures of tabulated data for each system)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "4.8",
+      "question": "Are any excavations 6' or deeper?  If YES, are appropriate fall protection methods in place to protect involved workers and passersby?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "4.9",
+      "question": "Is snow fencing or other hard barricade in place around the excavation for protection when it is unattended/overnight?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "5.1"
+}

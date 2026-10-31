@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "group": "1.1",
+  "section": "HOUSEKEEPING, STORAGE & STAGING",
+  "questions": [
+    {
+      "number": "1.1",
+      "question": "Is the area free of trash, materials and other debris on the ground?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "1.2",
+      "question": "Is there an adequate amount of trash cans placed around the area?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "1.3",
+      "question": "Are trash cans emptied regularly to avoid piles/spilling out of trash?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "1.4"
+}

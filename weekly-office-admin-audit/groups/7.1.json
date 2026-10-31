@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "group": "7.1",
+  "section": "STRETCH & FLEX AND TOOLBOX TALKS",
+  "questions": [
+    {
+      "number": "7.1",
+      "question": "Are all subcontractor workers onsite participating in Stretch & Flex each day?  (List the time and location of S&F in the Notes)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "7.2",
+      "question": "Are all Clayco employees participating in S&F each day?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "7.3",
+      "question": "Is at least one site-wide Toolbox Talk held each week? (List the time and location of TBTs in the Notes.  Include a picture/PDF of the latest TBT)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "7.4"
+}

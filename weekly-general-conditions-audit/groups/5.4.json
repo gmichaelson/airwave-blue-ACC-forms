@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "group": "5.4",
+  "section": "PERSONAL PROTECTIVE EQUIPMENT (PPE)",
+  "questions": [
+    {
+      "number": "5.4",
+      "question": "Is everyone wearing gloves from the Clayco Glove Guide that are appropriate for their task? (Be sure to identify with notes and pictures those that do not have appropriate gloves)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "5.5",
+      "question": "Are workers performing tasks that create flying debris wearing foam-lined glasses/goggles and face shields?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "5.6",
+      "question": "Is anyone working with sheet metal or other material with extremely sharp edges working with cut-rated sleeves to protect their arms?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "6.1"
+}

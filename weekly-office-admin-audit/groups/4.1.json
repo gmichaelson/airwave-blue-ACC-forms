@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "group": "4.1",
+  "section": "PAPERWORK & DOCUMENTATION",
+  "questions": [
+    {
+      "number": "4.1",
+      "question": "Are all crews completing good quality PTSAs each day for the scope of work they are performing?  Are they completed and reviewed with the crew by the foreman and signed by all workers on the crew?  (Include pictures of five GOOD PTSAs from the last week)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "4.2",
+      "question": "Are any deficient PTSAs being addressed each morning by the Clayco Project Team?  (Include pictures of five BAD/DEFICIENT PTSAs that have been corrected/addressed from the last week)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "4.3",
+      "question": "Are all subcontractors submitting weekly Safety Audits? (Include five pictures/PDFs of completed audits from this week)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "4.4"
+}

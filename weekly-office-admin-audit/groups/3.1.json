@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "group": "3.1",
+  "section": "INCIDENT PREPAREDNESS",
+  "questions": [
+    {
+      "number": "3.1",
+      "question": "Is a copy of the Incident Reporting Checklist posted in an accessible location? (Include a picture of the checklist)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "3.2",
+      "question": "Is a copy of the OSHA Inspection Checklist posted in an accessible location? (Include a picture of the checklist)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "3.3",
+      "question": "Is a copy of the Government Agency Inspection Checklist posted in an accessible location? (Upload a picture of the checklist)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "3.4"
+}

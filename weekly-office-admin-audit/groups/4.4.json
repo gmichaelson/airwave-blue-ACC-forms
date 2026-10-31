@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "group": "4.4",
+  "section": "PAPERWORK & DOCUMENTATION",
+  "questions": [
+    {
+      "number": "4.4",
+      "question": "Are all subcontractors submitting Toolbox Talks they are conducting with their crews each week? (Include five pictures/PDFs of completed sub TBTs from this week)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "4.5",
+      "question": "Are all subcontractors performing hot work, ground disturbance or roof work completing appropriate Safe Work Permits for that activity? (Include five pictures/PDFs of completed Safe Work Permits from this week)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "4.6",
+      "question": "Are crews completing inspections for the equipment they are using, prior to starting work?  (Include five pictures/PDFs of equipment inspections from this week)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "4.7"
+}

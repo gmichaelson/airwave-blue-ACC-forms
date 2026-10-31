@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "group": "2.1",
+  "section": "ORIENTATION AREA",
+  "questions": [
+    {
+      "number": "2.1",
+      "question": "Is the orientation area clean/well organized and set up with adequate space for people to sit and view the screen comfortably?  (Include picture of orientation area)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "2.2",
+      "question": "Are stickers, wallet cards, T-shirts and other handouts organized and well-stocked to provide material for workers participating in orientation?  (Include pictures of material storage/organization)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "2.3",
+      "question": "Is the Work Rules Acknowledgement QR code printed and available to be scanned by workers at the start of orientation?  (Include picture of printed QR sheets)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "2.4"
+}

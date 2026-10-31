@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "group": "3.7",
+  "section": "INCIDENT PREPAREDNESS",
+  "questions": [
+    {
+      "number": "3.7",
+      "question": "Is the Nurse's area set up, stocked and in good order?  (Include picture of the Nurse's area)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "3.8",
+      "question": "Is the SDS Binder available to all and current with all chemicals onsite represented in the binder? (Include a picture of the SDS Binder)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "3.9",
+      "question": "Are recent Safety Alerts posted in a spot where they are easy to read and accessible for workers to review?  (Include a picture of the posted Safety Alerts)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "4.1"
+}

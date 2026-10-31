@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "group": "5.1",
+  "section": "SUBCONTRACTOR ONBOARDING DOCUMENTATION",
+  "questions": [
+    {
+      "number": "5.1",
+      "question": "Is the subcontractor onboarding matrix/log up to date? (Include a picture/PDF of the current matrix)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "5.2",
+      "question": "Are the five most recent subs to start onsite listed on the onboarding matrix? (List the last five subs in the notes)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "5.3",
+      "question": "Is everyone currently working onsite marked in GREEN in the OK TO WORK column of the Insurance Log for the project? (If any are RED, list them in the notes.  Include a picture/PDF of the current Insurance Log)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "5.4"
+}

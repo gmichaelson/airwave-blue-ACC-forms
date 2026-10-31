@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "group": "5.4",
+  "section": "ELECTRICAL SAFETY",
+  "questions": [
+    {
+      "number": "5.4",
+      "question": "Are construction power skids identified, protected and do they have a clearance around them of at least 36\" on all sides?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "5.5",
+      "question": "Is all live electrical equipment marked with appropriate identification, information and warning labels, including electrical rooms?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "5.6",
+      "question": "Is a LOTO program in place for the project with Controlling and Authorizing Energy Marshals and a centralized LOTO Station in operation? (Include pictures of the LOTO Station and identify who the Energy Marshals are in the notes)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "6.1"
+}

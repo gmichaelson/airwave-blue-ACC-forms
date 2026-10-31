@@ -1,0 +1,16 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "group": "2.7",
+  "section": "ROADWAYS, TRAFFIC CONTROL & WALK PATHS",
+  "questions": [
+    {
+      "number": "2.7",
+      "question": "Is there a clear path for emergency services to access and drive around the site?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "3.1"
+}

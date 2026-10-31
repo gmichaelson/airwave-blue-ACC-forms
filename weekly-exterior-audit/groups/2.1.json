@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "group": "2.1",
+  "section": "ROADWAYS, TRAFFIC CONTROL & WALK PATHS",
+  "questions": [
+    {
+      "number": "2.1",
+      "question": "Is the site Traffic Plan in place and up to date?  (Include a picture/PDF of the plan).",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "2.2",
+      "question": "Are walk paths designated and separated from driving lanes and kept clear of slip/trip hazards?  (Include pictures of walk paths from around site)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "2.3",
+      "question": "Are roadways/drive lanes kept clear and in good shape?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "2.4"
+}

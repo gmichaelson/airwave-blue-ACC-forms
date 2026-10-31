@@ -1,0 +1,16 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "group": "1.7",
+  "section": "GENERAL CONDITIONS",
+  "questions": [
+    {
+      "number": "1.7",
+      "question": "Are conditions appropriate to require monitoring of carbon monoxide levels?  If YES, include pictures and notes that describe actions taken to monitor and mitigate CO hazards and exposure, as well as a picture/PDF of the CO monitoring log.",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "2.1"
+}

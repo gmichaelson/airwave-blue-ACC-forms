@@ -1,0 +1,16 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "group": "1.7",
+  "section": "HOUSEKEEPING, STORAGE & STAGING",
+  "questions": [
+    {
+      "number": "1.7",
+      "question": "Is at least one fire extinguisher staged near each laydown area?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "2.1"
+}

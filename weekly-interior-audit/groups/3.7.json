@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "group": "3.7",
+  "section": "EQUIPMENT",
+  "questions": [
+    {
+      "number": "3.7",
+      "question": "Is all mobile, motorized equipment outfitted with functioning back up alarms, horns, lights, mirrors and signals?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "3.8",
+      "question": "Is all mobile, motorized equipment outfitted with an appropriate fire extinguisher, easily accessible by the operator?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "3.9",
+      "question": "Are all aerial lifts operated on firm, level surface with crush protection over the controls, as appropriate?  (Include at least five pictures of separate aerial lifts in operation)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "4.1"
+}

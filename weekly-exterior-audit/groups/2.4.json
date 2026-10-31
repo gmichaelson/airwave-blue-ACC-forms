@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "group": "2.4",
+  "section": "ROADWAYS, TRAFFIC CONTROL & WALK PATHS",
+  "questions": [
+    {
+      "number": "2.4",
+      "question": "Is lighting adequate in all areas for safe walking and driving at all times of day?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "2.5",
+      "question": "Are there areas where spotters are in use to guide vehicles and equipment?  If YES, include pictures of spotters at work and describe how spotters are identified in the notes.",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "2.6",
+      "question": "Is there any work being done in active roadways?  If YES, include pictures of the work and describe how the Traffic Control Plan is being followed to provide protection for workers in the roadway.",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "2.7"
+}

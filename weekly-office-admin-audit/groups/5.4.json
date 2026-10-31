@@ -1,0 +1,24 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "group": "5.4",
+  "section": "SUBCONTRACTOR ONBOARDING DOCUMENTATION",
+  "questions": [
+    {
+      "number": "5.4",
+      "question": "Are all subcontractors and tiered subs included and information current on the project's Competent Person List? (Include a picture of the list)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "5.5",
+      "question": "Are all subcontractors and tiered subs included and information current on the project's Safety Representative List? (Include a picture of the list)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "6.1"
+}

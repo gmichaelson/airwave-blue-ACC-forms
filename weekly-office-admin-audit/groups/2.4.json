@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "group": "2.4",
+  "section": "ORIENTATION AREA",
+  "questions": [
+    {
+      "number": "2.4",
+      "question": "Is there an alternative method available for people to complete their Work Rules Acknowledgement in WorkSafe, if they can't/won't use their phone - extra phone, tablet or computer?  (Include a picture of the backup device)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "2.5",
+      "question": "Is the site-specific orientation slide deck up to date and in use? (Identify the date of last revision of the deck in the notes)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "2.6",
+      "question": "Is there a good selection of hands-on/demonstration material available and well-organized for use in orientations (knives, PPE, barricades, tools, etc)?  (Include pictures of these items)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "2.7"
+}

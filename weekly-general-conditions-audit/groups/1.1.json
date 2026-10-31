@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "group": "1.1",
+  "section": "GENERAL CONSIDERATIONS",
+  "questions": [
+    {
+      "number": "1.1",
+      "question": "Is lighting around the site adequate for conditions - inside and outdoors - at all times of day?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "1.2",
+      "question": "Are eyewash stations staged at appropriate locations around the site, filled, and secured against tampering?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "1.3",
+      "question": "Are all eyewash stations inspected regularly?  (Upload pictures of eyewas station inspection tags)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "1.4"
+}

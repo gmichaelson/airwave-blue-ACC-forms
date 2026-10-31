@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "group": "6.1",
+  "section": "CORDS AND TOOLS",
+  "questions": [
+    {
+      "number": "6.1",
+      "question": "Are all tools being used in an appropriate manner with all safeguards in place and operational?  (Include at least five pictures of workers using tools)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "6.2",
+      "question": "Are all knives being used onsite of the automatic self-retractive blade type?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "6.3",
+      "question": "Are all cords in good shape and properly protected with GFCI protection at their source of power?  (Include at least five pictures of cords in use)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "6.4"
+}

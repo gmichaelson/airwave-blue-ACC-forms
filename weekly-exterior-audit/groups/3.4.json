@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "group": "3.4",
+  "section": "FALL PROTECTION",
+  "questions": [
+    {
+      "number": "3.4",
+      "question": "Are all guard rails/cables set up properly?  Top rail 42\" +/-3\" from deck, mid rail half the distance from deck to top rail, toe board; constructed to withstand 200lbs force; 3 cable clamps applied properly.",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "3.5",
+      "question": "Are any scaffolds in use?  If YES, are inspection tags in place and properly signed and is the scaffold in proper use?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "3.6",
+      "question": "Are any aerial lifts in use?  If YES, are they being properly used by people with training on file?  (In the notes, identify approximately how many aerial lifts are being used on site)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "3.7"
+}

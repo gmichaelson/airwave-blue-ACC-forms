@@ -1,0 +1,24 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "group": "3.4",
+  "section": "SIGNAGE",
+  "questions": [
+    {
+      "number": "3.4",
+      "question": "Is the OSHA Board posted in a visible area with all material being clean, legible and up to date?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "3.5",
+      "question": "Is appropriate signage displayed around the site?  (Upload at least five pictures of site signage, other than what has been shown earlier in the audit)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "4.1"
+}

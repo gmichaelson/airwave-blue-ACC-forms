@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "group": "2.1",
+  "section": "DOCUMENTATION",
+  "questions": [
+    {
+      "number": "2.1",
+      "question": "Is the PTSA Board erected in an accessible location with clipboards or other means of holding/displaying PTSAs for each sub/crew?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "2.2",
+      "question": "Is there a protected means of making blank forms available to crews and are the blank forms well-stocked?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "2.3",
+      "question": "Is there an accessible location for crews to submit completed documents?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "3.1"
+}

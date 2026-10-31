@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "group": "3.4",
+  "section": "INCIDENT PREPAREDNESS",
+  "questions": [
+    {
+      "number": "3.4",
+      "question": "Is a copy of the project's Emergency Action Plan (EAP) posted in an accessible location? (Include a picture of the EAP and list the last revision date in the Notes)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "3.5",
+      "question": "Is a copy of the Emergency Contact Phone Number List posted in an accessible location? (Include a picture of the list)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "3.6",
+      "question": "Is the First Aid Kit fully stocked and all items within the appropriate expiration date? (Include a picture of the first aid kit)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "3.7"
+}

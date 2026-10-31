@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "group": "4.4",
+  "section": "FIRE SAFETY",
+  "questions": [
+    {
+      "number": "4.4",
+      "question": "Are flammable storage areas set up properly - protected from vehicle/equipment impact, fire extinguisher within 25'-75', NO SMOKING signs posted, area free of fuel and ignition sources?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "4.5",
+      "question": "Are all flammable storage cabinets grounded and are they within capacity for their size?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "4.6",
+      "question": "Are any fuel storage areas properly protected by appropriate secondary and spill containment?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "5.1"
+}

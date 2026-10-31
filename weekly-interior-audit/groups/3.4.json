@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "group": "3.4",
+  "section": "EQUIPMENT",
+  "questions": [
+    {
+      "number": "3.4",
+      "question": "Is all other equipment onsite properly inspected before work starts each day and free of visible leaks, damage or other unsafe conditions?  (Include pictures of at least five additional equipment inspections)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "3.5",
+      "question": "Do all workers have training certificates on file for the equipment they are operating and have appropriate stickers on their helmet?  (Include pictures of at least five workers displaying training stickers)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "3.6",
+      "question": "Is anyone operating mobile, motorized equipment using a seatbelt during operation of the equipment?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "3.7"
+}

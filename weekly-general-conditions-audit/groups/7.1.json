@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "group": "7.1",
+  "section": "CHILL ZONES/WARM ZONES",
+  "questions": [
+    {
+      "number": "7.1",
+      "question": "Is the weather currently warm enough to require the use of Chill Zones - 80+ degrees with heat index?  (If YES, include pictures of at least one Chill Zone and identify how many are currently available in the notes.)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "7.2",
+      "question": "Are Chill Zones properly setup/stocked - water, shade, seats for rest?  (Include pictures of these items as well as Chill Zone & Heat Stress signage and other items added to enhance the Chill Zone)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "7.3",
+      "question": "Is the weather currently cold enough to require the use of Warm Zones?  (If YES, include pictures of at least one Warm Zone and identify how many are currently available in the notes.)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "end"
+}

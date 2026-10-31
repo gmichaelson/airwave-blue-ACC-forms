@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "group": "1.7",
+  "section": "GENERAL CONSIDERATIONS",
+  "questions": [
+    {
+      "number": "1.7",
+      "question": "Are all flammable materials properly stored in appropriate locations?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "1.8",
+      "question": "Are any fuel storage areas properly protected by appropriate secondary and spill containment?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "1.9",
+      "question": "Are all flammable storage cabinets grounded and are they within capacity for their size?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "2.1"
+}

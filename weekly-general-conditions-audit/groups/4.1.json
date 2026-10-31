@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "group": "4.1",
+  "section": "RESTROOM FACILITIES",
+  "questions": [
+    {
+      "number": "4.1",
+      "question": "Are there enough facilities available to account for at least one restroom per ten people onsite?  (List the number of people and the number of facilities currently onsite)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "4.2",
+      "question": "Are facilities kept clean and well-stocked?  (Upload at pictures of the insides of five separate restroom facilities)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "4.3",
+      "question": "Are hand washing/sanitizing stations available at all restroom facilities? (Upload pictures of these stations)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "5.1"
+}

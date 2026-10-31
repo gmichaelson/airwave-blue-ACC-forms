@@ -1,0 +1,16 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "group": "1.4",
+  "section": "TRAILER",
+  "questions": [
+    {
+      "number": "1.4",
+      "question": "Is the trailer identified by signage?  Is all appropriate signage displayed inside and outside the trailer in an organized manner? (Include pictures of signage in and around the trailer)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "2.1"
+}

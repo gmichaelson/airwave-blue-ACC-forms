@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "group": "3.1",
+  "section": "SIGNAGE",
+  "questions": [
+    {
+      "number": "3.1",
+      "question": "Is a sign posted at the project entrance showing the address of the project?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "3.2",
+      "question": "Is the project entrance set up with appropriate signage?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "3.3",
+      "question": "Are there signs posted at muster/gathering points identifying them as such?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "3.4"
+}

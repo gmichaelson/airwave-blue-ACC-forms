@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "group": "1.4",
+  "section": "HOUSEKEEPING, STORAGE & STAGING",
+  "questions": [
+    {
+      "number": "1.4",
+      "question": "Are walking and working areas kept clear of trash and other slip/trip hazards - standing water, ice, mud, etc?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "1.5",
+      "question": "Are laydown areas for staging materials  established and marked off?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "1.6",
+      "question": "Are materials in laydown areas stored properly?  All materials on dunnage; steel members on 6x6 dunnage; pipe and rolling stock chocked, etc.",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "1.7"
+}

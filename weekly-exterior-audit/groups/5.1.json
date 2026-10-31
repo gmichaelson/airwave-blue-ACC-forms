@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "group": "5.1",
+  "section": "EQUIPMENT",
+  "questions": [
+    {
+      "number": "5.1",
+      "question": "Are any cranes in use onsite?  If YES, identify how many, their general purpose and location in the notes.  (Include pictures of each crane)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "5.2",
+      "question": "Are all cranes up to date on all inspections?  (Include pictures/PDFs of inspections for each)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "5.3",
+      "question": "Are all cranes outfitted with a controlled access zone to protect the swing radius and load exclusion zone?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "5.4"
+}

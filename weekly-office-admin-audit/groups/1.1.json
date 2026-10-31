@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "group": "1.1",
+  "section": "TRAILER",
+  "questions": [
+    {
+      "number": "1.1",
+      "question": "Is the interior of the Safety Trailer being kept clean and organized? (Include interior pictures of the Safety Trailer in its current state)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "1.2",
+      "question": "Is the exterior of the Safety Trailer being kept clean and free of trash, debris or other clutter? (Include exterior pictures of the Safety Trailer in its current state)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "1.3",
+      "question": "Is there at least one fire extinguisher staged in the trailer that is inspected and accessible?  (Include a picture of the fire extinguisher)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "1.4"
+}

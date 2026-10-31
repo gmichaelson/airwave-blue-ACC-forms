@@ -1,0 +1,32 @@
+{
+  "form": "SAFETY - WEEKLY - Exterior Audit",
+  "group": "4.4",
+  "section": "GROUND DISTURBANCE",
+  "questions": [
+    {
+      "number": "4.4",
+      "question": "Are all spoil piles set back at least 4' from the edge of any excavation?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "4.5",
+      "question": "Are all excavations set with proper access in a protected area that is no more than 25' from any worker?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "4.6",
+      "question": "Are excavation walls properly protected by appropriate sloping, shoring or trench box?  (Include pictures of all protective methods in use)",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "4.7"
+}

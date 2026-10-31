@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Exterior Audit",
   "number": "4.6",
   "section": "GROUND DISTURBANCE",
-  "question": "Are excavation walls properly protected by appropriate sloping, shoring or trench box?  (Include pictures of all protective methods in use)",
-  "callout": null,
+  "question": "Are excavation walls protected by sloping, shoring, or a trench box?",
+  "acc_question": "Are excavation walls properly protected by appropriate sloping, shoring or trench box?  (Include pictures of all protective methods in use)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "4.7",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "4.7",
   "field_id": "9431528e-629c-44ff-8ae9-f406090ad2a5",
   "value_type": "toggleVal"
 }

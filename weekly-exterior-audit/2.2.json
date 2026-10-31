@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Exterior Audit",
   "number": "2.2",
   "section": "ROADWAYS, TRAFFIC CONTROL & WALK PATHS",
-  "question": "Are walk paths designated and separated from driving lanes and kept clear of slip/trip hazards?  (Include pictures of walk paths from around site)",
-  "callout": null,
+  "question": "Are walk paths marked and separated from traffic?",
+  "acc_question": "Are walk paths designated and separated from driving lanes and kept clear of slip/trip hazards?  (Include pictures of walk paths from around site)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "2.3",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "2.3",
   "field_id": "605fe47f-cdbb-4717-b18a-58c203d7e935",
   "value_type": "toggleVal"
 }

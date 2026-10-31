@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Exterior Audit",
   "number": "2.1",
   "section": "ROADWAYS, TRAFFIC CONTROL & WALK PATHS",
-  "question": "Is the site Traffic Plan in place and up to date?  (Include a picture/PDF of the plan).",
-  "callout": null,
+  "question": "Is a traffic plan in place?",
+  "acc_question": "Is the site Traffic Plan in place and up to date?  (Include a picture/PDF of the plan).",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "2.2",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "2.2",
   "field_id": "c73220fc-4c31-466a-ad39-13c57c6974c7",
   "value_type": "toggleVal"
 }

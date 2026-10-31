@@ -6,7 +6,6 @@
     {
       "number": "1.3",
       "question": "Topic of meeting",
-      "callout": "NOTE - IF YOU SELECT \"OTHER\" AS THE TOPIC, PLEASE ENTER THE ACTUAL TOPIC OF THE MEETING IN THE QUESTION 2.1 WHERE YOU UPLOAD THE AGENDA OF THE MEETING. (THIS IS ESPECIALLY IMPORTANT FOR TOOLBOX TALKS)",
       "answer_type": "one_or_more_options",
       "options": [
         "Work Rules",
@@ -20,7 +19,11 @@
         "Weather",
         "Other"
       ],
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": "NOTE - IF YOU SELECT \"OTHER\" AS THE TOPIC, PLEASE ENTER THE ACTUAL TOPIC OF THE MEETING IN THE QUESTION 2.1 WHERE YOU UPLOAD THE AGENDA OF THE MEETING. (THIS IS ESPECIALLY IMPORTANT FOR TOOLBOX TALKS)",
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "1.4"

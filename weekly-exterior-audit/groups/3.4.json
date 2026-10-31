@@ -5,27 +5,38 @@
   "questions": [
     {
       "number": "3.4",
-      "question": "Are all guard rails/cables set up properly?  Top rail 42\" +/-3\" from deck, mid rail half the distance from deck to top rail, toe board; constructed to withstand 200lbs force; 3 cable clamps applied properly.",
-      "callout": null,
+      "question": "Are guard rails and cables set up properly: top rail at 42 inches plus or minus 3, mid rail, toe board, 200 pound rating, and 3 cable clamps?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "3.5",
-      "question": "Are any scaffolds in use?  If YES, are inspection tags in place and properly signed and is the scaffold in proper use?",
-      "callout": null,
+      "question": "Are any scaffolds in use, with signed inspection tags and used properly?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "3.6",
-      "question": "Are any aerial lifts in use?  If YES, are they being properly used by people with training on file?  (In the notes, identify approximately how many aerial lifts are being used on site)",
-      "callout": null,
+      "question": "Are aerial lifts in use by people with training on file?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "Yes": "About how many aerial lifts are on site?"
+      },
+      "only_if": null
     }
   ],
   "next": "3.7"

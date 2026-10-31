@@ -6,10 +6,13 @@
     {
       "number": "1.1",
       "question": "Date of the meeting",
-      "callout": null,
       "answer_type": "date",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "1.2"

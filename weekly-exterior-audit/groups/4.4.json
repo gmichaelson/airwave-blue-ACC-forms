@@ -5,27 +5,36 @@
   "questions": [
     {
       "number": "4.4",
-      "question": "Are all spoil piles set back at least 4' from the edge of any excavation?",
-      "callout": null,
+      "question": "Are spoils at least 4 feet back from the edge?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "4.5",
-      "question": "Are all excavations set with proper access in a protected area that is no more than 25' from any worker?",
-      "callout": null,
+      "question": "Is there access and egress within 25 feet of workers?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "4.6",
-      "question": "Are excavation walls properly protected by appropriate sloping, shoring or trench box?  (Include pictures of all protective methods in use)",
-      "callout": null,
+      "question": "Are excavation walls protected by sloping, shoring, or a trench box?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "4.7"

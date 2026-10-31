@@ -5,27 +5,36 @@
   "questions": [
     {
       "number": "5.4",
-      "question": "Is all other equipment onsite properly inspected before work starts each day and free of visible leaks, damage or other unsafe conditions?  (Include pictures of at least five additional equipment inspections)",
-      "callout": null,
+      "question": "Is all other equipment inspected each day and free of leaks or damage?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "5.5",
-      "question": "Do all workers have training certificates on file for the equipment they are operating and have appropriate stickers on their helmet?  (Include pictures of at least five workers displaying training stickers)",
-      "callout": null,
+      "question": "Do operators have training certificates on file and stickers on their helmets?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "5.6",
-      "question": "Is anyone operating mobile, motorized equipment using a seatbelt during operation of the equipment?",
-      "callout": null,
+      "question": "Are operators of mobile equipment wearing seatbelts?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "5.7"

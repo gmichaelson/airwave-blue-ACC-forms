@@ -5,27 +5,38 @@
   "questions": [
     {
       "number": "5.1",
-      "question": "Are any cranes in use onsite?  If YES, identify how many, their general purpose and location in the notes.  (Include pictures of each crane)",
-      "callout": null,
+      "question": "Are any cranes in use?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "Yes": "How many, what are they doing, and where?"
+      },
+      "only_if": null
     },
     {
       "number": "5.2",
-      "question": "Are all cranes up to date on all inspections?  (Include pictures/PDFs of inspections for each)",
-      "callout": null,
+      "question": "Are all crane inspections up to date?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "5.3",
-      "question": "Are all cranes outfitted with a controlled access zone to protect the swing radius and load exclusion zone?",
-      "callout": null,
+      "question": "Does each crane have a controlled access zone for the swing radius and load?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "5.4"

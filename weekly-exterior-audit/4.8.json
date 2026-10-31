@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Exterior Audit",
   "number": "4.8",
   "section": "GROUND DISTURBANCE",
-  "question": "Are any excavations 6' or deeper?  If YES, are appropriate fall protection methods in place to protect involved workers and passersby?",
-  "callout": null,
+  "question": "Do excavations 6 feet or deeper have fall protection?",
+  "acc_question": "Are any excavations 6' or deeper?  If YES, are appropriate fall protection methods in place to protect involved workers and passersby?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "4.9",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "4.9",
   "field_id": "adbcb437-06e1-42df-ad98-630daac70d8d",
   "value_type": "toggleVal"
 }

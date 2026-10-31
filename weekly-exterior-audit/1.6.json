@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Exterior Audit",
   "number": "1.6",
   "section": "HOUSEKEEPING, STORAGE & STAGING",
-  "question": "Are materials in laydown areas stored properly?  All materials on dunnage; steel members on 6x6 dunnage; pipe and rolling stock chocked, etc.",
-  "callout": null,
+  "question": "Are materials stored properly: on dunnage, steel on 6x6 dunnage, and pipe and rolling stock chocked?",
+  "acc_question": "Are materials in laydown areas stored properly?  All materials on dunnage; steel members on 6x6 dunnage; pipe and rolling stock chocked, etc.",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "1.7",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "1.7",
   "field_id": "e6b5c022-310b-4b84-b636-3bae5cc92d1d",
   "value_type": "toggleVal"
 }

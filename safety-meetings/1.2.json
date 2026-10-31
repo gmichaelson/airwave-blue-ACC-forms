@@ -3,7 +3,7 @@
   "number": "1.2",
   "section": "Safety Meetings",
   "question": "Type of meeting",
-  "callout": null,
+  "acc_question": "Type of meeting",
   "answer_type": "one_or_more_options",
   "options": [
     "Toolbox Talk",
@@ -13,8 +13,12 @@
     "Other"
   ],
   "required": true,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "1.3",
+  "acc_rules": null,
   "field_id": "c7861063-601a-4d3b-8354-54522fc26e69",
   "value_type": "arrayVal"
 }

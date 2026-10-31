@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Exterior Audit",
   "number": "4.5",
   "section": "GROUND DISTURBANCE",
-  "question": "Are all excavations set with proper access in a protected area that is no more than 25' from any worker?",
-  "callout": null,
+  "question": "Is there access and egress within 25 feet of workers?",
+  "acc_question": "Are all excavations set with proper access in a protected area that is no more than 25' from any worker?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "4.6",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "4.6",
   "field_id": "09b8b508-8494-41ad-b21e-c8b34ea31fad",
   "value_type": "toggleVal"
 }

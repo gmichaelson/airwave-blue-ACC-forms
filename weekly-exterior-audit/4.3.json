@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Exterior Audit",
   "number": "4.3",
   "section": "GROUND DISTURBANCE",
-  "question": "Are completed Ground Disturbance Permits in place for all operations?  (Include pictures/PDFs of all active permits)",
-  "callout": null,
+  "question": "Are ground disturbance permits in place for all operations?",
+  "acc_question": "Are completed Ground Disturbance Permits in place for all operations?  (Include pictures/PDFs of all active permits)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "4.4",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "4.4",
   "field_id": "992abfda-26b0-4ee4-89fa-8d9faa38d86a",
   "value_type": "toggleVal"
 }

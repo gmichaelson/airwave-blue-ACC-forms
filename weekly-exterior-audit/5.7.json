@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Exterior Audit",
   "number": "5.7",
   "section": "EQUIPMENT",
-  "question": "Is all mobile, motorized equipment outfitted with functioning back up alarms, horns, lights, mirrors and signals?",
-  "callout": null,
+  "question": "Does all mobile equipment have working backup alarms, horns, lights, mirrors, and signals?",
+  "acc_question": "Is all mobile, motorized equipment outfitted with functioning back up alarms, horns, lights, mirrors and signals?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "5.8",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "5.8",
   "field_id": "fa016583-d139-4fd9-a1bb-0aa04a6e6608",
   "value_type": "toggleVal"
 }

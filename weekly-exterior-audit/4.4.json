@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Exterior Audit",
   "number": "4.4",
   "section": "GROUND DISTURBANCE",
-  "question": "Are all spoil piles set back at least 4' from the edge of any excavation?",
-  "callout": null,
+  "question": "Are spoils at least 4 feet back from the edge?",
+  "acc_question": "Are all spoil piles set back at least 4' from the edge of any excavation?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "4.5",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "4.5",
   "field_id": "fb3d4d87-a077-4c4c-b859-8bdc8289ea78",
   "value_type": "toggleVal"
 }

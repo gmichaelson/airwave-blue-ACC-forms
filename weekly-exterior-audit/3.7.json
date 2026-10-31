@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Exterior Audit",
   "number": "3.7",
   "section": "FALL PROTECTION",
-  "question": "Are all aerial lifts properly inspected before use each day?  (Include at least five pictures/PDFs of aerial lift inspections from this week)",
-  "callout": null,
+  "question": "Are all aerial lifts inspected before use each day?",
+  "acc_question": "Are all aerial lifts properly inspected before use each day?  (Include at least five pictures/PDFs of aerial lift inspections from this week)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "3.8",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "3.8",
   "field_id": "c9bdb728-7684-4536-9814-471ef10a246e",
   "value_type": "toggleVal"
 }

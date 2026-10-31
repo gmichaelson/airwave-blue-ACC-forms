@@ -5,27 +5,36 @@
   "questions": [
     {
       "number": "1.4",
-      "question": "Are walking and working areas kept clear of trash and other slip/trip hazards - standing water, ice, mud, etc?",
-      "callout": null,
+      "question": "Are walking and working areas clear of slip and trip hazards like trash, standing water, ice, or mud?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "1.5",
-      "question": "Are laydown areas for staging materials  established and marked off?",
-      "callout": null,
+      "question": "Are laydown areas set up and marked?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "1.6",
-      "question": "Are materials in laydown areas stored properly?  All materials on dunnage; steel members on 6x6 dunnage; pipe and rolling stock chocked, etc.",
-      "callout": null,
+      "question": "Are materials stored properly: on dunnage, steel on 6x6 dunnage, and pipe and rolling stock chocked?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "1.7"

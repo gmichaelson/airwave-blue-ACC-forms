@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Exterior Audit",
   "number": "1.7",
   "section": "HOUSEKEEPING, STORAGE & STAGING",
-  "question": "Is at least one fire extinguisher staged near each laydown area?",
-  "callout": null,
+  "question": "Is there a fire extinguisher near each laydown area?",
+  "acc_question": "Is at least one fire extinguisher staged near each laydown area?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "2.1",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "2.1",
   "field_id": "8e6d2aab-f072-410c-92b0-677bb3c60caf",
   "value_type": "toggleVal"
 }

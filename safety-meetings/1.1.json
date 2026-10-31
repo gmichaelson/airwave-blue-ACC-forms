@@ -3,12 +3,16 @@
   "number": "1.1",
   "section": "Safety Meetings",
   "question": "Date of the meeting",
-  "callout": null,
+  "acc_question": "Date of the meeting",
   "answer_type": "date",
   "options": null,
   "required": true,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "1.2",
+  "acc_rules": null,
   "field_id": "bf17da01-1edc-c24e-2a3c-20e04d6c6af8",
   "value_type": "dateVal"
 }

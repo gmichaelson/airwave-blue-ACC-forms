@@ -3,12 +3,16 @@
   "number": "2.2",
   "section": "Agenda",
   "question": "Attach the sign in sheet(s) from this meeting",
-  "callout": null,
+  "acc_question": "Attach the sign in sheet(s) from this meeting",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "end",
+  "acc_rules": null,
   "field_id": "1725b9eb-c750-871e-8c40-325869923e16",
   "value_type": "textVal"
 }

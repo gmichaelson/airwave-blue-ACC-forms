@@ -2,24 +2,10 @@
   "form": "ACC Issue",
   "group": "finish",
   "section": "Finish",
-  "questions": [
-    {
-      "number": "finish",
-      "question": "Anything else to add?",
-      "answer_type": "text",
-      "options": null,
-      "required": false,
-      "say_if": null,
-      "more_info": null,
-      "follow_up": null,
-      "only_if": null
-    }
-  ],
+  "questions": [],
   "finish": [
-    "If the Tech adds something, add it to Description in professional wording, save, and ask \"Anything else?\" Repeat until the Tech says no or that's it.",
-    "Call update_job with the line `Status: Complete` (exactly that, nothing after it) and `Current question: done`.",
-    "Send one message: the Data table (every field read from the Job description, in a table), a blank line, then the closing line \"Got it. The issue is saved in this job.\" Never send a summary instead of the table.",
-    "Stop. The form is finished."
+    "The questions are done. Call update_job with exactly `Status: Complete` and `Current question: done`.",
+    "Say the form's closing line. No summary, no data table unless the Tech asks."
   ],
   "next": "done"
 }

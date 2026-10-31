@@ -3,12 +3,16 @@
   "number": "6.1",
   "section": "Roof",
   "question": "Access",
-  "callout": null,
+  "acc_question": "Access",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "6.2",
+  "acc_rules": null,
   "field_id": "8953da52-f779-4c58-9aff-78b975519f3e",
   "value_type": "textVal"
 }

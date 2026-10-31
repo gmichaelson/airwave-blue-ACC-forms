@@ -3,12 +3,16 @@
   "number": "4.3",
   "section": "MEP",
   "question": "Water",
-  "callout": null,
+  "acc_question": "Water",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "4.4",
+  "acc_rules": null,
   "field_id": "60c4b4d8-4e63-430b-a855-1512c5da2112",
   "value_type": "textVal"
 }

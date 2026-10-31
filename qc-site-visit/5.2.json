@@ -3,12 +3,16 @@
   "number": "5.2",
   "section": "Docs, Doors and Windows",
   "question": "Joints around dock levelers",
-  "callout": null,
+  "acc_question": "Joints around dock levelers",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "5.3",
+  "acc_rules": null,
   "field_id": "ffa82310-7d98-4fb8-93aa-9df07068cebe",
   "value_type": "textVal"
 }

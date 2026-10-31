@@ -3,12 +3,16 @@
   "number": "6.4",
   "section": "Roof",
   "question": "General condition",
-  "callout": null,
+  "acc_question": "General condition",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "6.5",
+  "acc_rules": null,
   "field_id": "2c1de78d-8425-4871-af63-ea02901a1ac9",
   "value_type": "textVal"
 }

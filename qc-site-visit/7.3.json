@@ -3,12 +3,16 @@
   "number": "7.3",
   "section": "Structural Steel",
   "question": "Decking",
-  "callout": null,
+  "acc_question": "Decking",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "7.4",
+  "acc_rules": null,
   "field_id": "570df4ba-39fe-481c-8293-d0a2d8ddcd52",
   "value_type": "textVal"
 }

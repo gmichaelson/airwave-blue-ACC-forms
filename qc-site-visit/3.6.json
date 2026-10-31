@@ -3,12 +3,16 @@
   "number": "3.6",
   "section": "Tilt Wall",
   "question": "Misc. Tilt Wall",
-  "callout": null,
+  "acc_question": "Misc. Tilt Wall",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "4.1",
+  "acc_rules": null,
   "field_id": "655e649d-a36b-4a3b-9d12-a4e8b79712b4",
   "value_type": "textVal"
 }

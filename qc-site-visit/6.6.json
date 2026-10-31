@@ -3,12 +3,16 @@
   "number": "6.6",
   "section": "Roof",
   "question": "Roof hatch",
-  "callout": null,
+  "acc_question": "Roof hatch",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "6.7",
+  "acc_rules": null,
   "field_id": "5ea68118-33ba-45b9-8a7b-fde2c310ee27",
   "value_type": "textVal"
 }

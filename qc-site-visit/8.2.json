@@ -3,12 +3,16 @@
   "number": "8.2",
   "section": "Site Condition, Soil",
   "question": "General site condition",
-  "callout": null,
+  "acc_question": "General site condition",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "9.1",
+  "acc_rules": null,
   "field_id": "90cbe61d-cfb1-4ae6-96e1-47cc9b160441",
   "value_type": "textVal"
 }

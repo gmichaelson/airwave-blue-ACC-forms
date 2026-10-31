@@ -3,12 +3,16 @@
   "number": "5.4",
   "section": "Docs, Doors and Windows",
   "question": "Door jams",
-  "callout": null,
+  "acc_question": "Door jams",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "5.5",
+  "acc_rules": null,
   "field_id": "efe18862-30b8-4dce-a60a-b8ada13125b2",
   "value_type": "textVal"
 }

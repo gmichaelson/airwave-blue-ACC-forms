@@ -3,12 +3,16 @@
   "number": "5.7",
   "section": "Docs, Doors and Windows",
   "question": "Misc. doors",
-  "callout": null,
+  "acc_question": "Misc. doors",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "6.1",
+  "acc_rules": null,
   "field_id": "5fb500d2-7645-4887-95af-9f69dff9208b",
   "value_type": "textVal"
 }

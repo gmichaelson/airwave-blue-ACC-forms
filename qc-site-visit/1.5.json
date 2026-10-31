@@ -3,12 +3,16 @@
   "number": "1.5",
   "section": "Concrete",
   "question": "correct number of cylinders being made (4X8s or 6X12s) and at the specified frequency",
-  "callout": null,
+  "acc_question": "correct number of cylinders being made (4X8s or 6X12s) and at the specified frequency",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "1.6",
+  "acc_rules": null,
   "field_id": "f0a00b1a-4c4f-4522-b8f5-3f35dc96d839",
   "value_type": "textVal"
 }

@@ -3,12 +3,16 @@
   "number": "3.4",
   "section": "Tilt Wall",
   "question": "Reveal condition",
-  "callout": null,
+  "acc_question": "Reveal condition",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "3.5",
+  "acc_rules": null,
   "field_id": "0313f35f-317c-4271-9293-6d2caadb3753",
   "value_type": "textVal"
 }

@@ -3,12 +3,16 @@
   "number": "7.4",
   "section": "Structural Steel",
   "question": "Misc. structural steel",
-  "callout": null,
+  "acc_question": "Misc. structural steel",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "8.1",
+  "acc_rules": null,
   "field_id": "0d74cb0a-6277-4bd5-bbf7-8f68ac2e4b4d",
   "value_type": "textVal"
 }

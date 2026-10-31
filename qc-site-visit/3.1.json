@@ -3,12 +3,16 @@
   "number": "3.1",
   "section": "Tilt Wall",
   "question": "Surface condition",
-  "callout": null,
+  "acc_question": "Surface condition",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "3.2",
+  "acc_rules": null,
   "field_id": "eb4e5e09-c2c2-4d65-bc06-081fea57a9f6",
   "value_type": "textVal"
 }

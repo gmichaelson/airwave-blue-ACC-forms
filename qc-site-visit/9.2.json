@@ -3,12 +3,16 @@
   "number": "9.2",
   "section": "Misc Items",
   "question": "New item",
-  "callout": null,
+  "acc_question": "New item",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "9.3",
+  "acc_rules": null,
   "field_id": "754bb04d-3804-4881-8a4b-be07130fadd6",
   "value_type": "textVal"
 }

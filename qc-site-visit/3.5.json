@@ -3,12 +3,16 @@
   "number": "3.5",
   "section": "Tilt Wall",
   "question": "Rebar",
-  "callout": null,
+  "acc_question": "Rebar",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "3.6",
+  "acc_rules": null,
   "field_id": "42568e9f-ee17-454b-ad1b-573a1aec9198",
   "value_type": "textVal"
 }

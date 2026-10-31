@@ -3,12 +3,16 @@
   "number": "10.1",
   "section": "Clayco Signature",
   "question": "Clayco Representative",
-  "callout": null,
+  "acc_question": "Clayco Representative",
   "answer_type": "signature",
   "options": null,
   "required": true,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "end",
+  "acc_rules": null,
   "field_id": "e47864bf-9641-42e9-a69b-aa8d8ebc0742",
   "value_type": "svgVal"
 }

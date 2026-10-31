@@ -3,12 +3,16 @@
   "number": "2.1",
   "section": "Drywall",
   "question": "Control joints installed",
-  "callout": null,
+  "acc_question": "Control joints installed",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "2.2",
+  "acc_rules": null,
   "field_id": "935aa7b0-4cb1-4a90-ac9d-27319e8e3055",
   "value_type": "textVal"
 }

@@ -3,12 +3,16 @@
   "number": "1.3",
   "section": "Concrete",
   "question": "Rebar",
-  "callout": null,
+  "acc_question": "Rebar",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "1.4",
+  "acc_rules": null,
   "field_id": "cde84cd8-9759-4230-a2cf-e6846c882f85",
   "value_type": "textVal"
 }

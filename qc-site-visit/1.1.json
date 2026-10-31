@@ -3,12 +3,16 @@
   "number": "1.1",
   "section": "Concrete",
   "question": "Any cracking",
-  "callout": null,
+  "acc_question": "Any cracking",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "1.2",
+  "acc_rules": null,
   "field_id": "ef128c72-b912-4d67-bbb1-b544ee1ef389",
   "value_type": "textVal"
 }

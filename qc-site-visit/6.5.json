@@ -3,12 +3,16 @@
   "number": "6.5",
   "section": "Roof",
   "question": "HVAC",
-  "callout": null,
+  "acc_question": "HVAC",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "6.6",
+  "acc_rules": null,
   "field_id": "c86c93e2-94a3-455a-970d-5076e8b57c99",
   "value_type": "textVal"
 }

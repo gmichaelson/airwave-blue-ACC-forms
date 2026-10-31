@@ -3,12 +3,16 @@
   "number": "5.5",
   "section": "Docs, Doors and Windows",
   "question": "Window",
-  "callout": null,
+  "acc_question": "Window",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "5.6",
+  "acc_rules": null,
   "field_id": "8cae1e05-7a88-43ae-824b-36b93df8b992",
   "value_type": "textVal"
 }

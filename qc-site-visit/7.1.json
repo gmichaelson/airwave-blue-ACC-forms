@@ -3,12 +3,16 @@
   "number": "7.1",
   "section": "Structural Steel",
   "question": "Columns",
-  "callout": null,
+  "acc_question": "Columns",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "7.2",
+  "acc_rules": null,
   "field_id": "045da58c-50c1-449a-ab42-14b49cafe0a4",
   "value_type": "textVal"
 }

@@ -3,12 +3,16 @@
   "number": "6.7",
   "section": "Roof",
   "question": "Misc. roof",
-  "callout": null,
+  "acc_question": "Misc. roof",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "7.1",
+  "acc_rules": null,
   "field_id": "7aaa6787-425c-4749-9168-fe20bf5cbb54",
   "value_type": "textVal"
 }

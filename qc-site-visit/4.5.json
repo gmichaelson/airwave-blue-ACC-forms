@@ -3,12 +3,16 @@
   "number": "4.5",
   "section": "MEP",
   "question": "Misc. MEP",
-  "callout": null,
+  "acc_question": "Misc. MEP",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "5.1",
+  "acc_rules": null,
   "field_id": "0e79a484-da2f-4c03-83df-7f1f2abf0060",
   "value_type": "textVal"
 }

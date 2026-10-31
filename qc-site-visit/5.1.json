@@ -3,12 +3,16 @@
   "number": "5.1",
   "section": "Docs, Doors and Windows",
   "question": "Dock levelers",
-  "callout": null,
+  "acc_question": "Dock levelers",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "5.2",
+  "acc_rules": null,
   "field_id": "fcd22378-45bb-4cc9-9bfe-9942a553a75f",
   "value_type": "textVal"
 }

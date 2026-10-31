@@ -3,12 +3,16 @@
   "number": "7.2",
   "section": "Structural Steel",
   "question": "Joists",
-  "callout": null,
+  "acc_question": "Joists",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "7.3",
+  "acc_rules": null,
   "field_id": "7283871e-1a99-4216-b3d8-e02889cc98d3",
   "value_type": "textVal"
 }

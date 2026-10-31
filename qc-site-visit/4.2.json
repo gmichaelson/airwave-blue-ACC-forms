@@ -3,12 +3,16 @@
   "number": "4.2",
   "section": "MEP",
   "question": "Electric",
-  "callout": null,
+  "acc_question": "Electric",
   "answer_type": "text",
   "options": null,
   "required": false,
-  "acc_rules": null,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
   "next": "4.3",
+  "acc_rules": null,
   "field_id": "f403c2c9-a1f8-44df-ad94-3014f1b7fd0b",
   "value_type": "textVal"
 }

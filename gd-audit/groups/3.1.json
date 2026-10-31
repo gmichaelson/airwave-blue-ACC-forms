@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "group": "3.1",
+  "section": "Level 2 Permit",
+  "questions": [
+    {
+      "number": "3.1",
+      "question": "Have utilities been positively identified?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "3.2"
+}

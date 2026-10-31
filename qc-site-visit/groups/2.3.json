@@ -1,0 +1,16 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "group": "2.3",
+  "section": "Drywall",
+  "questions": [
+    {
+      "number": "2.3",
+      "question": "Fire caulking",
+      "callout": null,
+      "answer_type": "text",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "3.1"
+}

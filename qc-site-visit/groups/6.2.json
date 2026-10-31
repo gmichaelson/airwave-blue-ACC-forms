@@ -1,0 +1,16 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "group": "6.2",
+  "section": "Roof",
+  "questions": [
+    {
+      "number": "6.2",
+      "question": "Scaffolding",
+      "callout": null,
+      "answer_type": "text",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "6.3"
+}

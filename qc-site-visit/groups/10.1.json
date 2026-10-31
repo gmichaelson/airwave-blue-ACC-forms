@@ -1,0 +1,16 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "group": "10.1",
+  "section": "Clayco Signature",
+  "questions": [
+    {
+      "number": "10.1",
+      "question": "Clayco Representative",
+      "callout": null,
+      "answer_type": "signature",
+      "options": null,
+      "required": true
+    }
+  ],
+  "next": "end"
+}

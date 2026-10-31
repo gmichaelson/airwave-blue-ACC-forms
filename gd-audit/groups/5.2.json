@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "group": "5.2",
+  "section": "Excavation Protection",
+  "questions": [
+    {
+      "number": "5.2",
+      "question": "What is the depth of the excavation?",
+      "callout": "- Excavations greater than 19' in depth require an engineered plan\n- Air monitoring to be done in excavations 4' and deeper",
+      "answer_type": "text",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "5.3"
+}

@@ -1,0 +1,23 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "group": "2.1",
+  "section": "Permit Review",
+  "questions": [
+    {
+      "number": "2.1",
+      "question": "What type of activity is this permit opened for?",
+      "callout": "Should only be one activity per permit",
+      "answer_type": "one_option",
+      "options": [
+        "Trenching/Digging",
+        "Drilling/Driving",
+        "Boring",
+        "Grading",
+        "Installation of stakes or form pins",
+        "Fence post driving"
+      ],
+      "required": false
+    }
+  ],
+  "next": "2.2"
+}

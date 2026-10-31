@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "group": "3.9",
+  "section": "Level 2 Permit",
+  "questions": [
+    {
+      "number": "3.9",
+      "question": "What method of protection is being used?",
+      "callout": null,
+      "answer_type": "text",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "3.10"
+}

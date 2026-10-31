@@ -1,0 +1,32 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "group": "5.4",
+  "section": "Excavation Protection",
+  "questions": [
+    {
+      "number": "5.4",
+      "question": "Tabulated data for trench box received?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    },
+    {
+      "number": "5.5",
+      "question": "If protection is in use, is it installed per the manufacturer's specifications?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    },
+    {
+      "number": "5.6",
+      "question": "Adequate access and egress available?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "5.7"
+}

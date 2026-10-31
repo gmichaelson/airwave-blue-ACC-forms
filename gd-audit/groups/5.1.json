@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "group": "5.1",
+  "section": "Excavation Protection",
+  "questions": [
+    {
+      "number": "5.1",
+      "question": "What soil type is the excavation?",
+      "callout": "Clayco classifies all soil as Type C (1 1/2 : 1)unless otherwise determined by a geotechnical engineer and a report is on file",
+      "answer_type": "text",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "5.2"
+}

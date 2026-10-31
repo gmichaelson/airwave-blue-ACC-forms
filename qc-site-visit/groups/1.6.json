@@ -1,0 +1,16 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "group": "1.6",
+  "section": "Concrete",
+  "questions": [
+    {
+      "number": "1.6",
+      "question": "cylinders are stored in a temperature controlled cure box with lids on the cylinders",
+      "callout": null,
+      "answer_type": "text",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "1.7"
+}

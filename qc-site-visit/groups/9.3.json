@@ -1,0 +1,16 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "group": "9.3",
+  "section": "Misc Items",
+  "questions": [
+    {
+      "number": "9.3",
+      "question": "New item",
+      "callout": null,
+      "answer_type": "text",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "9.4"
+}

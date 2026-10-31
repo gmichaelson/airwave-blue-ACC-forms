@@ -1,0 +1,32 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "group": "4.4",
+  "section": "Ground Disturbance Field Observations",
+  "questions": [
+    {
+      "number": "4.4",
+      "question": "Access/Egress within 25' of workers?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    },
+    {
+      "number": "4.5",
+      "question": "Spoils and other materials minimum of 4' from edge of excavation?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    },
+    {
+      "number": "4.6",
+      "question": "Copy of permit posted at excavation location?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "4.7"
+}

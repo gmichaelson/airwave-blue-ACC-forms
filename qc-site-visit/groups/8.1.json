@@ -1,0 +1,16 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "group": "8.1",
+  "section": "Site Condition, Soil",
+  "questions": [
+    {
+      "number": "8.1",
+      "question": "Soil condition",
+      "callout": null,
+      "answer_type": "text",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "8.2"
+}

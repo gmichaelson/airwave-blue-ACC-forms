@@ -1,0 +1,48 @@
+{
+  "form": "Safety - MSA",
+  "first": "1.1",
+  "groups": [
+    {
+      "group": "1.1",
+      "questions": [
+        "1.1"
+      ]
+    },
+    {
+      "group": "1.2",
+      "questions": [
+        "1.2"
+      ]
+    },
+    {
+      "group": "1.3",
+      "questions": [
+        "1.3"
+      ]
+    },
+    {
+      "group": "1.4",
+      "questions": [
+        "1.4"
+      ]
+    },
+    {
+      "group": "1.5",
+      "questions": [
+        "1.5"
+      ]
+    },
+    {
+      "group": "1.6",
+      "questions": [
+        "1.6"
+      ]
+    },
+    {
+      "group": "1.7",
+      "questions": [
+        "1.7"
+      ]
+    }
+  ]
+}

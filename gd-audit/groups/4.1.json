@@ -1,0 +1,32 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "group": "4.1",
+  "section": "Ground Disturbance Field Observations",
+  "questions": [
+    {
+      "number": "4.1",
+      "question": "Operators certifications verified?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    },
+    {
+      "number": "4.2",
+      "question": "Equipment inspections completed?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    },
+    {
+      "number": "4.3",
+      "question": "Area properly barricaded to protect from personnel and equipment?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "4.4"
+}

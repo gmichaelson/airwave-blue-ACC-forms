@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "group": "3.2",
+  "section": "Level 2 Permit",
+  "questions": [
+    {
+      "number": "3.2",
+      "question": "Method of identification?",
+      "callout": null,
+      "answer_type": "text",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "3.3"
+}

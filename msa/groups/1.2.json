@@ -1,0 +1,19 @@
+{
+  "form": "Safety - MSA",
+  "group": "1.2",
+  "section": "MSA",
+  "questions": [
+    {
+      "number": "1.2",
+      "question": "Documentation",
+      "callout": "All crews have PTSA completed, signed and posted?  PTSAs are done and reviewed with the crew before work starts?  PTSAs cover the activities being done (identify hazards and controls)?  Permits are completed and signed for specific activities (ground disturbance, hot work, roof work, confined space, etc)?  Equipment inspections current for all equipment?",
+      "answer_type": "one_option",
+      "options": [
+        "Compliant",
+        "Non-Compliant"
+      ],
+      "required": true
+    }
+  ],
+  "next": "1.3"
+}

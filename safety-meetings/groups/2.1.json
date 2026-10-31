@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Meetings",
+  "group": "2.1",
+  "section": "Agenda",
+  "questions": [
+    {
+      "number": "2.1",
+      "question": "Attach a copy of the meeting script or agenda and include any notes about the discussion topic",
+      "callout": "NOTE: IF YOU SELECTED \"OTHER\" FOR THE TOPIC IN QUESTION 1.3, BE SURE TO ENTER THE TOPIC OF YOUR MEETING HERE WHEN YOU UPLOAD YOUR SCRIPT/AGENDA (THIS IS ESPECIALLY IMPORTANT FOR TBT)",
+      "answer_type": "text",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "2.2"
+}

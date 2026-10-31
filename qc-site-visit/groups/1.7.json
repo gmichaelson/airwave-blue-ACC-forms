@@ -1,0 +1,16 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "group": "1.7",
+  "section": "Concrete",
+  "questions": [
+    {
+      "number": "1.7",
+      "question": "cure box is plugged in and working. temperature is maintained between 60-80 degrees.",
+      "callout": null,
+      "answer_type": "text",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "1.8"
+}

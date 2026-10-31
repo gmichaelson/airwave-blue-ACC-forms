@@ -1,0 +1,32 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "group": "3.6",
+  "section": "Level 2 Permit",
+  "questions": [
+    {
+      "number": "3.6",
+      "question": "Has the regional safety manager, operations manager, and other appropriate parties reviewed and approved the permitted activity?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    },
+    {
+      "number": "3.7",
+      "question": "Have utility shut off locations been identified?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    },
+    {
+      "number": "3.8",
+      "question": "Are utility protection methods in place, if needed?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "3.9"
+}

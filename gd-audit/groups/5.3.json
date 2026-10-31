@@ -1,0 +1,23 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "group": "5.3",
+  "section": "Excavation Protection",
+  "questions": [
+    {
+      "number": "5.3",
+      "question": "What type of protection is in use?",
+      "callout": null,
+      "answer_type": "one_option",
+      "options": [
+        "Sloping",
+        "Benching",
+        "Shoring",
+        "Shielding",
+        "Trench Box",
+        "Other (if other, enter protection type in notes)"
+      ],
+      "required": false
+    }
+  ],
+  "next": "5.4"
+}

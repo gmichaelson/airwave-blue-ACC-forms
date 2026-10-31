@@ -1,0 +1,32 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "group": "2.8",
+  "section": "Permit Review",
+  "questions": [
+    {
+      "number": "2.8",
+      "question": "Has a walk of the activity been conducted with all affected subs who have utilities in the area?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    },
+    {
+      "number": "2.9",
+      "question": "Has the permit been reviewed and signed by the affected parties?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    },
+    {
+      "number": "2.10",
+      "question": "Has the subcontractor's competent person reviewed and signed the permit?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "2.11"
+}

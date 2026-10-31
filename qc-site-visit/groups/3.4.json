@@ -1,0 +1,16 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "group": "3.4",
+  "section": "Tilt Wall",
+  "questions": [
+    {
+      "number": "3.4",
+      "question": "Reveal condition",
+      "callout": null,
+      "answer_type": "text",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "3.5"
+}

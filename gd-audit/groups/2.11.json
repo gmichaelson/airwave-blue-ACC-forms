@@ -1,0 +1,24 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "group": "2.11",
+  "section": "Permit Review",
+  "questions": [
+    {
+      "number": "2.11",
+      "question": "Have the operators reviewed and signed the permit?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    },
+    {
+      "number": "2.12",
+      "question": "Have all utilities been positively identified in the exaction area?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "2.13"
+}

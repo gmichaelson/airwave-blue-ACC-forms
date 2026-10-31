@@ -1,0 +1,24 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "group": "1.1",
+  "section": "Ground Disturbance",
+  "questions": [
+    {
+      "number": "1.1",
+      "question": "Is there active ground disturbance activity currently in process onsite?",
+      "callout": null,
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true
+    },
+    {
+      "number": "1.2",
+      "question": "If yes, is a completed and approved permit in place?",
+      "callout": "If no, stop work immediately",
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "1.3"
+}

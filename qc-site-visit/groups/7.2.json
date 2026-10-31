@@ -1,0 +1,16 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "group": "7.2",
+  "section": "Structural Steel",
+  "questions": [
+    {
+      "number": "7.2",
+      "question": "Joists",
+      "callout": null,
+      "answer_type": "text",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "7.3"
+}

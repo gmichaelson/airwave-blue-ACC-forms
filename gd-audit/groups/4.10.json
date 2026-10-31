@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "group": "4.10",
+  "section": "Ground Disturbance Field Observations",
+  "questions": [
+    {
+      "number": "4.10",
+      "question": "Is the area free of any signs of tension cracks, bulging, sluffing or any other potential failure issues?",
+      "callout": "If no, evacuate employees out of the excavation immediately",
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": false
+    }
+  ],
+  "next": "5.1"
+}

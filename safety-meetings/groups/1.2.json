@@ -1,0 +1,22 @@
+{
+  "form": "Safety - Meetings",
+  "group": "1.2",
+  "section": "Safety Meetings",
+  "questions": [
+    {
+      "number": "1.2",
+      "question": "Type of meeting",
+      "callout": null,
+      "answer_type": "one_or_more_options",
+      "options": [
+        "Toolbox Talk",
+        "Safety Committee",
+        "Stand Down",
+        "Sub Annual Refresher",
+        "Other"
+      ],
+      "required": true
+    }
+  ],
+  "next": "1.3"
+}

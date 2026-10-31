@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - General Condition Audit",
   "number": "3.1",
   "section": "SIGNAGE",
-  "question": "Is a sign posted at the project entrance showing the address of the project?",
-  "callout": null,
+  "question": "Is there a sign at the project entrance with the project address?",
+  "acc_question": "Is a sign posted at the project entrance showing the address of the project?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "3.2",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "3.2",
   "field_id": "58ecbb00-4918-4a24-889e-76e56fe9861e",
   "value_type": "toggleVal"
 }

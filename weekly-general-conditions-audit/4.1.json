@@ -2,16 +2,22 @@
   "form": "SAFETY - WEEKLY - General Condition Audit",
   "number": "4.1",
   "section": "RESTROOM FACILITIES",
-  "question": "Are there enough facilities available to account for at least one restroom per ten people onsite?  (List the number of people and the number of facilities currently onsite)",
-  "callout": null,
+  "question": "Is there at least one restroom for every ten people on site?",
+  "acc_question": "Are there enough facilities available to account for at least one restroom per ten people onsite?  (List the number of people and the number of facilities currently onsite)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": {
+    "any": "How many people and how many restrooms are on site?"
+  },
+  "only_if": null,
+  "next": "4.2",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "4.2",
   "field_id": "75c0a2cf-1587-4666-a6b7-aa4a5d397a92",
   "value_type": "toggleVal"
 }

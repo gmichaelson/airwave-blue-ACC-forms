@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - General Condition Audit",
   "number": "1.1",
   "section": "GENERAL CONSIDERATIONS",
-  "question": "Is lighting around the site adequate for conditions - inside and outdoors - at all times of day?",
-  "callout": null,
+  "question": "Is lighting around the site adequate, inside and out, at all times of day?",
+  "acc_question": "Is lighting around the site adequate for conditions - inside and outdoors - at all times of day?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "1.2",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "1.2",
   "field_id": "9330cb76-cea6-47d5-990b-4d0fb61490c8",
   "value_type": "toggleVal"
 }

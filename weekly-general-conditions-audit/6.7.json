@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - General Condition Audit",
   "number": "6.7",
   "section": "CORDS AND TOOLS",
-  "question": "Do all drills - except hammer drills - with a chuck of 1/2\" or greater have auto-stop or anti-rotation features?",
-  "callout": null,
+  "question": "Do all drills with a half inch or larger chuck, except hammer drills, have auto-stop or anti-rotation?",
+  "acc_question": "Do all drills - except hammer drills - with a chuck of 1/2\" or greater have auto-stop or anti-rotation features?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "7.1",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "7.1",
   "field_id": "a26a9e5d-95a1-41f0-b8ba-407690514033",
   "value_type": "toggleVal"
 }

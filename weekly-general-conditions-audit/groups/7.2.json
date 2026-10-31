@@ -1,0 +1,35 @@
+{
+  "form": "SAFETY - WEEKLY - General Condition Audit",
+  "group": "7.2",
+  "section": "CHILL ZONES/WARM ZONES",
+  "questions": [
+    {
+      "number": "7.2",
+      "question": "Are the Chill Zones set up with water, shade, and seats?",
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": {
+        "number": "7.1",
+        "answer": "Yes"
+      }
+    },
+    {
+      "number": "7.3",
+      "question": "Is it cold enough to need Warm Zones?",
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "Yes": "How many Warm Zones are set up?"
+      },
+      "only_if": null
+    }
+  ],
+  "next": "end"
+}

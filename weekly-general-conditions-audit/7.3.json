@@ -2,16 +2,22 @@
   "form": "SAFETY - WEEKLY - General Condition Audit",
   "number": "7.3",
   "section": "CHILL ZONES/WARM ZONES",
-  "question": "Is the weather currently cold enough to require the use of Warm Zones?  (If YES, include pictures of at least one Warm Zone and identify how many are currently available in the notes.)",
-  "callout": null,
+  "question": "Is it cold enough to need Warm Zones?",
+  "acc_question": "Is the weather currently cold enough to require the use of Warm Zones?  (If YES, include pictures of at least one Warm Zone and identify how many are currently available in the notes.)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": {
+    "Yes": "How many Warm Zones are set up?"
+  },
+  "only_if": null,
+  "next": "end",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "end",
   "field_id": "88494ffe-6b01-4565-8b79-b9ec1b694307",
   "value_type": "toggleVal"
 }

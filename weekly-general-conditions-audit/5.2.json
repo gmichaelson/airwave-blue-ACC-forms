@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - General Condition Audit",
   "number": "5.2",
   "section": "PERSONAL PROTECTIVE EQUIPMENT (PPE)",
-  "question": "Are any workers performing special tasks outfitted with appropriate PPE for their work - hot work, overhead work, etc?  (Include pictures of workers properly outfitted for special tasks)",
-  "callout": null,
+  "question": "Do workers doing special tasks, like hot work or overhead work, have the right PPE?",
+  "acc_question": "Are any workers performing special tasks outfitted with appropriate PPE for their work - hot work, overhead work, etc?  (Include pictures of workers properly outfitted for special tasks)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "5.3",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "5.3",
   "field_id": "79b5f0a7-474e-43dd-96a3-7c06b713ef26",
   "value_type": "toggleVal"
 }

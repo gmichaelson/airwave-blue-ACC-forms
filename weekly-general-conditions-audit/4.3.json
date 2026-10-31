@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - General Condition Audit",
   "number": "4.3",
   "section": "RESTROOM FACILITIES",
-  "question": "Are hand washing/sanitizing stations available at all restroom facilities? (Upload pictures of these stations)",
-  "callout": null,
+  "question": "Is there a hand washing or sanitizing station at every restroom?",
+  "acc_question": "Are hand washing/sanitizing stations available at all restroom facilities? (Upload pictures of these stations)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "5.1",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "5.1",
   "field_id": "ccb2e1be-c7ad-4134-a0d9-7aa0f47f9589",
   "value_type": "toggleVal"
 }

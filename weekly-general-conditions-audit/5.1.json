@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - General Condition Audit",
   "number": "5.1",
   "section": "PERSONAL PROTECTIVE EQUIPMENT (PPE)",
-  "question": "Are all workers outfitted with appropriate minimum PPE - helmet, glasses, gloves, high-vis outerwear, sturdy work boots?  (Include at least five pictures of workers showing proper PPE)",
-  "callout": null,
+  "question": "Are all workers wearing minimum PPE: helmet, glasses, gloves, high-vis, and work boots?",
+  "acc_question": "Are all workers outfitted with appropriate minimum PPE - helmet, glasses, gloves, high-vis outerwear, sturdy work boots?  (Include at least five pictures of workers showing proper PPE)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "5.2",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "5.2",
   "field_id": "efef0f63-a8b5-46ca-b393-8fd41a264873",
   "value_type": "toggleVal"
 }

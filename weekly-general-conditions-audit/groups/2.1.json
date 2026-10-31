@@ -5,27 +5,36 @@
   "questions": [
     {
       "number": "2.1",
-      "question": "Is the PTSA Board erected in an accessible location with clipboards or other means of holding/displaying PTSAs for each sub/crew?",
-      "callout": null,
+      "question": "Is the PTSA board up in an accessible spot, with a way to hold PTSAs for each sub or crew?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "2.2",
-      "question": "Is there a protected means of making blank forms available to crews and are the blank forms well-stocked?",
-      "callout": null,
+      "question": "Are blank forms protected, available to crews, and well stocked?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "2.3",
-      "question": "Is there an accessible location for crews to submit completed documents?",
-      "callout": null,
+      "question": "Is there an accessible place for crews to turn in completed documents?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "3.1"

@@ -5,27 +5,36 @@
   "questions": [
     {
       "number": "6.1",
-      "question": "Are all tools being used in an appropriate manner with all safeguards in place and operational?  (Include at least five pictures of workers using tools)",
-      "callout": null,
+      "question": "Are all tools used properly with safeguards in place and working?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "6.2",
-      "question": "Are all knives being used onsite of the automatic self-retractive blade type?",
-      "callout": null,
+      "question": "Are all knives on site the automatic self-retracting type?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "6.3",
-      "question": "Are all cords in good shape and properly protected with GFCI protection at their source of power?  (Include at least five pictures of cords in use)",
-      "callout": null,
+      "question": "Are all cords in good shape with GFCI protection at the power source?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "6.4"

@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - General Condition Audit",
   "number": "1.7",
   "section": "GENERAL CONSIDERATIONS",
-  "question": "Are all flammable materials properly stored in appropriate locations?",
-  "callout": null,
+  "question": "Are all flammable materials stored in the right places?",
+  "acc_question": "Are all flammable materials properly stored in appropriate locations?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "1.8",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "1.8",
   "field_id": "f731d8c9-c03b-4f77-9c5f-f5c39188b0cd",
   "value_type": "toggleVal"
 }

@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - General Condition Audit",
   "number": "2.1",
   "section": "DOCUMENTATION",
-  "question": "Is the PTSA Board erected in an accessible location with clipboards or other means of holding/displaying PTSAs for each sub/crew?",
-  "callout": null,
+  "question": "Is the PTSA board up in an accessible spot, with a way to hold PTSAs for each sub or crew?",
+  "acc_question": "Is the PTSA Board erected in an accessible location with clipboards or other means of holding/displaying PTSAs for each sub/crew?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "2.2",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "2.2",
   "field_id": "5052451c-ce82-408d-906f-42f529b7b3a7",
   "value_type": "toggleVal"
 }

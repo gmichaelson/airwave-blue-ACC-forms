@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - General Condition Audit",
   "number": "2.3",
   "section": "DOCUMENTATION",
-  "question": "Is there an accessible location for crews to submit completed documents?",
-  "callout": null,
+  "question": "Is there an accessible place for crews to turn in completed documents?",
+  "acc_question": "Is there an accessible location for crews to submit completed documents?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "3.1",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "3.1",
   "field_id": "824ca237-cf0d-47e1-8fd8-e94654102fd7",
   "value_type": "toggleVal"
 }

@@ -5,19 +5,25 @@
   "questions": [
     {
       "number": "3.4",
-      "question": "Is the OSHA Board posted in a visible area with all material being clean, legible and up to date?",
-      "callout": null,
+      "question": "Is the OSHA board posted where it's visible, clean, legible, and up to date?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "3.5",
-      "question": "Is appropriate signage displayed around the site?  (Upload at least five pictures of site signage, other than what has been shown earlier in the audit)",
-      "callout": null,
+      "question": "Is the right signage displayed around the site?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "4.1"

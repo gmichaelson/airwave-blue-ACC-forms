@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - General Condition Audit",
   "number": "6.2",
   "section": "CORDS AND TOOLS",
-  "question": "Are all knives being used onsite of the automatic self-retractive blade type?",
-  "callout": null,
+  "question": "Are all knives on site the automatic self-retracting type?",
+  "acc_question": "Are all knives being used onsite of the automatic self-retractive blade type?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "6.3",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "6.3",
   "field_id": "d4729627-b0f1-4ce6-894d-221c57c9e7b5",
   "value_type": "toggleVal"
 }

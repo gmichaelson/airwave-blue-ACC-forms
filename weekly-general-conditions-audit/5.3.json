@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - General Condition Audit",
   "number": "5.3",
   "section": "PERSONAL PROTECTIVE EQUIPMENT (PPE)",
-  "question": "Are people that are wearing prescription glasses wearing ones that are Z87 rated or wearing Z87 overglasses?",
-  "callout": null,
+  "question": "Are people with prescription glasses wearing Z87 rated glasses or Z87 overglasses?",
+  "acc_question": "Are people that are wearing prescription glasses wearing ones that are Z87 rated or wearing Z87 overglasses?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "5.4",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "5.4",
   "field_id": "a03c9358-e3b7-44b7-9769-403ec14db98a",
   "value_type": "toggleVal"
 }

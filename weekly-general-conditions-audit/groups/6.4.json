@@ -5,27 +5,36 @@
   "questions": [
     {
       "number": "6.4",
-      "question": "Are all extension cords in good shape and properly protected - elevated at least 7' off the ground by non-conductive material and/rolled up and stored if not in use?  (Include at least five pictures of extension cords)",
-      "callout": null,
+      "question": "Are extension cords in good shape, raised at least 7 feet on non-conductive supports, or rolled up when not in use?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "6.5",
-      "question": "Are cutting tools - saws, grinders - being used with the material properly secured?  (Include pictures of cutting stations)",
-      "callout": null,
+      "question": "Is material secured when saws and grinders are used?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "6.6",
-      "question": "Are any hand-held bandsaws used onsite dual-trigger?",
-      "callout": null,
+      "question": "Are all hand-held bandsaws on site dual-trigger?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "6.7"

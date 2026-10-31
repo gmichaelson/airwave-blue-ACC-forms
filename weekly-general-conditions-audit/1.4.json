@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - General Condition Audit",
   "number": "1.4",
   "section": "GENERAL CONSIDERATIONS",
-  "question": "Are all containers properly labelled with the original manufacturers labeling or appropriate handwritten information? (Include at least five images of container labelling around the site)",
-  "callout": null,
+  "question": "Are all containers labeled with the manufacturer's label or proper handwritten information?",
+  "acc_question": "Are all containers properly labelled with the original manufacturers labeling or appropriate handwritten information? (Include at least five images of container labelling around the site)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "1.5",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "1.5",
   "field_id": "e7da15a1-3291-483c-b478-672a0fce6ce4",
   "value_type": "toggleVal"
 }

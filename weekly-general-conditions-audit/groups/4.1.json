@@ -5,27 +5,38 @@
   "questions": [
     {
       "number": "4.1",
-      "question": "Are there enough facilities available to account for at least one restroom per ten people onsite?  (List the number of people and the number of facilities currently onsite)",
-      "callout": null,
+      "question": "Is there at least one restroom for every ten people on site?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "any": "How many people and how many restrooms are on site?"
+      },
+      "only_if": null
     },
     {
       "number": "4.2",
-      "question": "Are facilities kept clean and well-stocked?  (Upload at pictures of the insides of five separate restroom facilities)",
-      "callout": null,
+      "question": "Are restrooms clean and stocked?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "4.3",
-      "question": "Are hand washing/sanitizing stations available at all restroom facilities? (Upload pictures of these stations)",
-      "callout": null,
+      "question": "Is there a hand washing or sanitizing station at every restroom?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "5.1"

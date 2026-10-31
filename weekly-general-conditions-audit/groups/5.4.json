@@ -5,27 +5,38 @@
   "questions": [
     {
       "number": "5.4",
-      "question": "Is everyone wearing gloves from the Clayco Glove Guide that are appropriate for their task? (Be sure to identify with notes and pictures those that do not have appropriate gloves)",
-      "callout": null,
+      "question": "Is everyone wearing gloves from the Clayco Glove Guide that fit their task?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "No": "Who doesn't have the right gloves?"
+      },
+      "only_if": null
     },
     {
       "number": "5.5",
-      "question": "Are workers performing tasks that create flying debris wearing foam-lined glasses/goggles and face shields?",
-      "callout": null,
+      "question": "Are workers making flying debris wearing foam-lined glasses or goggles and face shields?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "5.6",
-      "question": "Is anyone working with sheet metal or other material with extremely sharp edges working with cut-rated sleeves to protect their arms?",
-      "callout": null,
+      "question": "Are people working with sharp sheet metal or similar wearing cut-rated sleeves?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "6.1"

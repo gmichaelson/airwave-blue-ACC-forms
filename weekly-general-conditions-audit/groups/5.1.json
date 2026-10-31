@@ -5,27 +5,36 @@
   "questions": [
     {
       "number": "5.1",
-      "question": "Are all workers outfitted with appropriate minimum PPE - helmet, glasses, gloves, high-vis outerwear, sturdy work boots?  (Include at least five pictures of workers showing proper PPE)",
-      "callout": null,
+      "question": "Are all workers wearing minimum PPE: helmet, glasses, gloves, high-vis, and work boots?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "5.2",
-      "question": "Are any workers performing special tasks outfitted with appropriate PPE for their work - hot work, overhead work, etc?  (Include pictures of workers properly outfitted for special tasks)",
-      "callout": null,
+      "question": "Do workers doing special tasks, like hot work or overhead work, have the right PPE?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "5.3",
-      "question": "Are people that are wearing prescription glasses wearing ones that are Z87 rated or wearing Z87 overglasses?",
-      "callout": null,
+      "question": "Are people with prescription glasses wearing Z87 rated glasses or Z87 overglasses?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "5.4"

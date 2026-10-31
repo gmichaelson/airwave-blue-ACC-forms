@@ -5,27 +5,36 @@
   "questions": [
     {
       "number": "1.1",
-      "question": "Is lighting around the site adequate for conditions - inside and outdoors - at all times of day?",
-      "callout": null,
+      "question": "Is lighting around the site adequate, inside and out, at all times of day?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "1.2",
-      "question": "Are eyewash stations staged at appropriate locations around the site, filled, and secured against tampering?",
-      "callout": null,
+      "question": "Are eyewash stations staged in the right places, filled, and secured against tampering?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "1.3",
-      "question": "Are all eyewash stations inspected regularly?  (Upload pictures of eyewas station inspection tags)",
-      "callout": null,
+      "question": "Are the eyewash stations inspected regularly?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "1.4"

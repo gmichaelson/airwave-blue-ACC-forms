@@ -2,16 +2,23 @@
   "form": "SAFETY - WEEKLY - General Condition Audit",
   "number": "7.2",
   "section": "CHILL ZONES/WARM ZONES",
-  "question": "Are Chill Zones properly setup/stocked - water, shade, seats for rest?  (Include pictures of these items as well as Chill Zone & Heat Stress signage and other items added to enhance the Chill Zone)",
-  "callout": null,
+  "question": "Are the Chill Zones set up with water, shade, and seats?",
+  "acc_question": "Are Chill Zones properly setup/stocked - water, shade, seats for rest?  (Include pictures of these items as well as Chill Zone & Heat Stress signage and other items added to enhance the Chill Zone)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": {
+    "number": "7.1",
+    "answer": "Yes"
+  },
+  "next": "7.3",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "7.3",
   "field_id": "b6ccefb8-63ec-4d23-86d1-6fff6d8dffd7",
   "value_type": "toggleVal"
 }

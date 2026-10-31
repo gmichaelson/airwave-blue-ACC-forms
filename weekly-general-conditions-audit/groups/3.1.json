@@ -5,27 +5,36 @@
   "questions": [
     {
       "number": "3.1",
-      "question": "Is a sign posted at the project entrance showing the address of the project?",
-      "callout": null,
+      "question": "Is there a sign at the project entrance with the project address?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "3.2",
-      "question": "Is the project entrance set up with appropriate signage?",
-      "callout": null,
+      "question": "Does the project entrance have the right signage?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "3.3",
-      "question": "Are there signs posted at muster/gathering points identifying them as such?",
-      "callout": null,
+      "question": "Are muster points marked with signs?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "3.4"

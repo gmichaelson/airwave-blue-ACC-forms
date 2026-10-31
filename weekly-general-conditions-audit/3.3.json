@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - General Condition Audit",
   "number": "3.3",
   "section": "SIGNAGE",
-  "question": "Are there signs posted at muster/gathering points identifying them as such?",
-  "callout": null,
+  "question": "Are muster points marked with signs?",
+  "acc_question": "Are there signs posted at muster/gathering points identifying them as such?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "3.4",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "3.4",
   "field_id": "df89c731-4dc7-4a2f-a290-cad0e885a0a7",
   "value_type": "toggleVal"
 }

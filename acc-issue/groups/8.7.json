@@ -1,0 +1,22 @@
+{
+  "form": "ACC Issue",
+  "group": "8.7",
+  "section": "Details for Quality Issue > PAYB",
+  "questions": [
+    {
+      "number": "8.7",
+      "question": "Will the rework cost more than a thousand dollars?",
+      "answer_type": "one_option",
+      "options": [
+        "Yes, rework is above $1000",
+        "No, rework is below $1000"
+      ],
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    }
+  ],
+  "next": "8.8"
+}

@@ -1,0 +1,22 @@
+{
+  "form": "ACC Issue",
+  "group": "3.6",
+  "section": "Details for Commissioning",
+  "questions": [
+    {
+      "number": "3.6",
+      "question": "Will the rework cost more than a thousand dollars?",
+      "answer_type": "one_option",
+      "options": [
+        "Yes, rework is above $1000",
+        "No, rework is below $1000"
+      ],
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    }
+  ],
+  "next": "3.7"
+}

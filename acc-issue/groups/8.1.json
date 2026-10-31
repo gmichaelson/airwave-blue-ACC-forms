@@ -1,0 +1,25 @@
+{
+  "form": "ACC Issue",
+  "group": "8.1",
+  "section": "Details for Quality Issue > PAYB",
+  "questions": [
+    {
+      "number": "8.1",
+      "question": "Is it workmanship, damage, material, code, or missed scope?",
+      "answer_type": "one_option",
+      "options": [
+        "Workmanship",
+        "Damage",
+        "Material",
+        "Code Noncompliance",
+        "Missed Scope"
+      ],
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    }
+  ],
+  "next": "8.2"
+}

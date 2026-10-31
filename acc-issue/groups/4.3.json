@@ -1,0 +1,19 @@
+{
+  "form": "ACC Issue",
+  "group": "4.3",
+  "section": "Details for Warranty",
+  "questions": [
+    {
+      "number": "4.3",
+      "question": "When does it need to be fixed by? Say skip if there's no date.",
+      "answer_type": "date",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    }
+  ],
+  "next": "4.4"
+}

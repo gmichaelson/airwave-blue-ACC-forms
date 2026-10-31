@@ -1,0 +1,19 @@
+{
+  "form": "ACC Issue",
+  "group": "1.1",
+  "section": "Issue",
+  "questions": [
+    {
+      "number": "1.1",
+      "question": "What is the issue?",
+      "answer_type": "text",
+      "options": null,
+      "required": true,
+      "say_if": null,
+      "more_info": "Title = 2 to 6 words from the answer (max 100 characters). Description = the full answer.",
+      "follow_up": null,
+      "only_if": null
+    }
+  ],
+  "next": "1.2"
+}

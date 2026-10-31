@@ -1,0 +1,22 @@
+{
+  "form": "ACC Issue",
+  "group": "6.6",
+  "section": "Details for Architect-Engineer issue or punchlist",
+  "questions": [
+    {
+      "number": "6.6",
+      "question": "Is it high or low priority?",
+      "answer_type": "one_option",
+      "options": [
+        "High",
+        "Low"
+      ],
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    }
+  ],
+  "next": "end"
+}

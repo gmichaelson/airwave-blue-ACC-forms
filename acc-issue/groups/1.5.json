@@ -1,0 +1,28 @@
+{
+  "form": "ACC Issue",
+  "group": "1.5",
+  "section": "Issue",
+  "questions": [
+    {
+      "number": "1.5",
+      "question": "Which kind of coordination issue is it?",
+      "answer_type": "one_option",
+      "options": [
+        "Coordination",
+        "Clash"
+      ],
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": {
+        "number": "1.2",
+        "answer": "Coordination"
+      }
+    }
+  ],
+  "next": {
+    "Coordination": "5.1",
+    "Clash": "5.1"
+  }
+}

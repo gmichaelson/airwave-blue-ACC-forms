@@ -1,0 +1,30 @@
+{
+  "form": "ACC Issue",
+  "group": "1.7",
+  "section": "Issue",
+  "questions": [
+    {
+      "number": "1.7",
+      "question": "Which kind of rework issue is it?",
+      "answer_type": "one_option",
+      "options": [
+        "Design",
+        "Product",
+        "Workmanship"
+      ],
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": {
+        "number": "1.2",
+        "answer": "Rework"
+      }
+    }
+  ],
+  "next": {
+    "Design": "5.1",
+    "Product": "5.1",
+    "Workmanship": "5.1"
+  }
+}

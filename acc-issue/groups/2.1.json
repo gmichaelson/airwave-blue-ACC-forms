@@ -1,0 +1,19 @@
+{
+  "form": "ACC Issue",
+  "group": "2.1",
+  "section": "Details for Safety",
+  "questions": [
+    {
+      "number": "2.1",
+      "question": "Who's responsible for fixing it? A company or a person.",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    }
+  ],
+  "next": "2.2"
+}

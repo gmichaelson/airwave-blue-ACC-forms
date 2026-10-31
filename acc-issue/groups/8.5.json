@@ -1,0 +1,22 @@
+{
+  "form": "ACC Issue",
+  "group": "8.5",
+  "section": "Details for Quality Issue > PAYB",
+  "questions": [
+    {
+      "number": "8.5",
+      "question": "Does it go against the contract requirements?",
+      "answer_type": "one_option",
+      "options": [
+        "Yes, it deviated from contract requirements.",
+        "No, it adhered to contract requirements."
+      ],
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    }
+  ],
+  "next": "8.6"
+}

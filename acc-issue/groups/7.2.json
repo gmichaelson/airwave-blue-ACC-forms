@@ -1,0 +1,19 @@
+{
+  "form": "ACC Issue",
+  "group": "7.2",
+  "section": "Details for Clayco Operations",
+  "questions": [
+    {
+      "number": "7.2",
+      "question": "When does it need to be fixed by? Say skip if there's no date.",
+      "answer_type": "date",
+      "options": null,
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    }
+  ],
+  "next": "end"
+}

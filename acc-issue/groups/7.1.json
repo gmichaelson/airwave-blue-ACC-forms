@@ -1,0 +1,19 @@
+{
+  "form": "ACC Issue",
+  "group": "7.1",
+  "section": "Details for Clayco Operations",
+  "questions": [
+    {
+      "number": "7.1",
+      "question": "Who's responsible for fixing it? A company or a person.",
+      "answer_type": "text",
+      "options": null,
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    }
+  ],
+  "next": "7.2"
+}

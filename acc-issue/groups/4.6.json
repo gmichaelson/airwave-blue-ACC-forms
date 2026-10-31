@@ -1,0 +1,27 @@
+{
+  "form": "ACC Issue",
+  "group": "4.6",
+  "section": "Details for Warranty",
+  "questions": [
+    {
+      "number": "4.6",
+      "question": "Who's the field operations manager?",
+      "answer_type": "one_option",
+      "options": [
+        "Jerry Wenzel",
+        "Jody Dillon",
+        "Mark Whitrock",
+        "Doug Dobbs",
+        "Doug Fry",
+        "Steve Besse",
+        "John Elizarraras"
+      ],
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    }
+  ],
+  "next": "4.7"
+}

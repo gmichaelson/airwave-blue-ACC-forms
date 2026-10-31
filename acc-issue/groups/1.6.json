@@ -1,0 +1,32 @@
+{
+  "form": "ACC Issue",
+  "group": "1.6",
+  "section": "Issue",
+  "questions": [
+    {
+      "number": "1.6",
+      "question": "Which kind of architect-engineer issue is it?",
+      "answer_type": "one_option",
+      "options": [
+        "Design",
+        "Issue",
+        "Observation_General",
+        "Punchlist"
+      ],
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": {
+        "number": "1.2",
+        "answer": "Architect-Engineer"
+      }
+    }
+  ],
+  "next": {
+    "Design": "5.1",
+    "Issue": "6.1",
+    "Observation_General": "5.1",
+    "Punchlist": "6.1"
+  }
+}

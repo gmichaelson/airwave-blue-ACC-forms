@@ -1,0 +1,28 @@
+{
+  "form": "ACC Issue",
+  "group": "1.4",
+  "section": "Issue",
+  "questions": [
+    {
+      "number": "1.4",
+      "question": "Which kind of warranty issue is it?",
+      "answer_type": "one_option",
+      "options": [
+        "Warranty",
+        "1 Year Warranty Walk"
+      ],
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": {
+        "number": "1.2",
+        "answer": "Warranty"
+      }
+    }
+  ],
+  "next": {
+    "Warranty": "4.1",
+    "1 Year Warranty Walk": "4.1"
+  }
+}

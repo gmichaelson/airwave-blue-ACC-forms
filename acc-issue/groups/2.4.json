@@ -1,0 +1,23 @@
+{
+  "form": "ACC Issue",
+  "group": "2.4",
+  "section": "Details for Safety",
+  "questions": [
+    {
+      "number": "2.4",
+      "question": "How urgent is it? High, medium, or low?",
+      "answer_type": "one_option",
+      "options": [
+        "HIGH - complete immediately",
+        "MEDIUM - complete within 48 hours",
+        "LOW - complete within week"
+      ],
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    }
+  ],
+  "next": "end"
+}

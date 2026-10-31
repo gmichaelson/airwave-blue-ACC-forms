@@ -1,0 +1,22 @@
+{
+  "form": "ACC Issue",
+  "group": "4.8",
+  "section": "Details for Warranty",
+  "questions": [
+    {
+      "number": "4.8",
+      "question": "Is it ops or non-ops?",
+      "answer_type": "one_option",
+      "options": [
+        "Ops",
+        "Non-Ops"
+      ],
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    }
+  ],
+  "next": "end"
+}

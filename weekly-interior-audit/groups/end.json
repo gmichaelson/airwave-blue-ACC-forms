@@ -1,0 +1,26 @@
+{
+  "form": "SAFETY - WEEKLY - Interior Audit",
+  "group": "end",
+  "section": "Finish",
+  "questions": [
+    {
+      "number": "end",
+      "question": "Anything else to add?",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    }
+  ],
+  "finish": [
+    "If the Tech adds something, add it to Description in professional wording, save, and ask \"Anything else?\" Repeat until the Tech says no or that's it.",
+    "If nothing was ever added to Description, store `Interior Audit [Location]` there.",
+    "Call update_job with the line `Status: Complete` (exactly that, nothing after it) and `Current question: done`.",
+    "Send one message: the Data table (every field read from the Job description, in a table), a blank line, then the closing line \"Got it. The weekly interior safety audit is saved in this job.\" Never send a summary instead of the table.",
+    "Stop. The form is finished."
+  ],
+  "next": "done"
+}

@@ -2,6 +2,7 @@
   "form": "01 - Quality Control Site Visit",
   "group": "7.1",
   "section": "Structural Steel",
+  "group_question": "Structural steel: columns, joists, decking?",
   "questions": [
     {
       "number": "7.1",
@@ -13,7 +14,40 @@
       "more_info": null,
       "follow_up": null,
       "only_if": null
+    },
+    {
+      "number": "7.2",
+      "question": "Joists",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "7.3",
+      "question": "Decking",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "7.4",
+      "question": "Misc. structural steel",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
-  "next": "7.2"
+  "next": "8.1"
 }

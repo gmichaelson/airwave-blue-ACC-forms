@@ -2,6 +2,7 @@
   "form": "01 - Quality Control Site Visit",
   "group": "9.1",
   "section": "Misc Items",
+  "group_question": "Anything else you saw that didn't fit those sections?",
   "questions": [
     {
       "number": "9.1",
@@ -13,7 +14,106 @@
       "more_info": null,
       "follow_up": null,
       "only_if": null
+    },
+    {
+      "number": "9.2",
+      "question": "New item",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "9.3",
+      "question": "New item",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "9.4",
+      "question": "New Item",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "9.5",
+      "question": "New Item",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "9.6",
+      "question": "New Item",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "9.7",
+      "question": "New Item",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "9.8",
+      "question": "New Item",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "9.9",
+      "question": "New Item",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "9.10",
+      "question": "New Item",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
-  "next": "9.2"
+  "next": "10.1"
 }

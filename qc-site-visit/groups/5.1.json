@@ -2,6 +2,7 @@
   "form": "01 - Quality Control Site Visit",
   "group": "5.1",
   "section": "Docs, Doors and Windows",
+  "group_question": "Docks, doors, and windows: levelers, doors, jambs, windows, opening heights?",
   "questions": [
     {
       "number": "5.1",
@@ -13,7 +14,73 @@
       "more_info": null,
       "follow_up": null,
       "only_if": null
+    },
+    {
+      "number": "5.2",
+      "question": "Joints around dock levelers",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "5.3",
+      "question": "Doors",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "5.4",
+      "question": "Door jams",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "5.5",
+      "question": "Window",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "5.6",
+      "question": "Door opening height",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "5.7",
+      "question": "Misc. doors",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
-  "next": "5.2"
+  "next": "6.1"
 }

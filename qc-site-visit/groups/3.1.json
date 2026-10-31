@@ -2,6 +2,7 @@
   "form": "01 - Quality Control Site Visit",
   "group": "3.1",
   "section": "Tilt Wall",
+  "group_question": "Tilt wall: surface, joint spacing, patching, reveals, rebar?",
   "questions": [
     {
       "number": "3.1",
@@ -13,7 +14,62 @@
       "more_info": null,
       "follow_up": null,
       "only_if": null
+    },
+    {
+      "number": "3.2",
+      "question": "Joint spacing",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "3.3",
+      "question": "Patching",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "3.4",
+      "question": "Reveal condition",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "3.5",
+      "question": "Rebar",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "3.6",
+      "question": "Misc. Tilt Wall",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
-  "next": "3.2"
+  "next": "4.1"
 }

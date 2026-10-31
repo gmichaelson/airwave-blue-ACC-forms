@@ -2,7 +2,7 @@
   "form": "Safety - MSA",
   "number": "1.5",
   "section": "MSA",
-  "question": "Material Handling",
+  "question": "Material handling: no more than 50 pounds per person, carts or lifts used, proper lifting. Compliant or non-compliant?",
   "acc_question": "Material Handling",
   "answer_type": "one_option",
   "options": [
@@ -12,7 +12,9 @@
   "required": true,
   "say_if": null,
   "more_info": "Are workers lifting no more than 50 lbs per person?  Mechanical means in place for lifting, carrying, pushing and pulling (carts, dollies, wheels, cranes, etc)?  Workers using proper lifting technique?  Workers who perform work in awkward postures take breaks throughout the day to stretch?",
-  "follow_up": null,
+  "follow_up": {
+    "Non-Compliant": "What did you see?"
+  },
   "only_if": null,
   "next": "1.6",
   "acc_rules": null,

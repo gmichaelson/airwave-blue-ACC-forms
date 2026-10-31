@@ -2,6 +2,7 @@
   "form": "01 - Quality Control Site Visit",
   "group": "6.1",
   "section": "Roof",
+  "group_question": "Roof: access, scaffolding, stored items, condition, HVAC, roof hatch?",
   "questions": [
     {
       "number": "6.1",
@@ -13,7 +14,73 @@
       "more_info": null,
       "follow_up": null,
       "only_if": null
+    },
+    {
+      "number": "6.2",
+      "question": "Scaffolding",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "6.3",
+      "question": "Items stored on roof",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "6.4",
+      "question": "General condition",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "6.5",
+      "question": "HVAC",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "6.6",
+      "question": "Roof hatch",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "6.7",
+      "question": "Misc. roof",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
-  "next": "6.2"
+  "next": "7.1"
 }

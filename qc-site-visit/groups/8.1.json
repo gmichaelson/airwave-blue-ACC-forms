@@ -2,6 +2,7 @@
   "form": "01 - Quality Control Site Visit",
   "group": "8.1",
   "section": "Site Condition, Soil",
+  "group_question": "Site and soil condition?",
   "questions": [
     {
       "number": "8.1",
@@ -13,7 +14,18 @@
       "more_info": null,
       "follow_up": null,
       "only_if": null
+    },
+    {
+      "number": "8.2",
+      "question": "General site condition",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
-  "next": "8.2"
+  "next": "9.1"
 }

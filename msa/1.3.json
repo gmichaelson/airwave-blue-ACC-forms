@@ -2,7 +2,7 @@
   "form": "Safety - MSA",
   "number": "1.3",
   "section": "MSA",
-  "question": "Housekeeping & Slips, Trips and Falls",
+  "question": "Housekeeping and slips, trips, and falls: trash, staging areas, cords, clear walkways, and hazards marked. Compliant or non-compliant?",
   "acc_question": "Housekeeping & Slips, Trips and Falls",
   "answer_type": "one_option",
   "options": [
@@ -12,7 +12,9 @@
   "required": true,
   "say_if": null,
   "more_info": "Is trashed picked up off the ground?  Are trash cans emptied to the dumpster daily/when full?  Are storing/staging areas orderly?  Cords up off the ground?  Are walkways and walking paths clear and free of hazards?  Are there designated walkways where equipment/vehicle traffic is in the same area?  Are hazards like mud, water, snow and ice cleared or contained by warning lines?  Are signs or markers in place identifying trip hazards, changes in elevation or other hazards that can not be eliminated?",
-  "follow_up": null,
+  "follow_up": {
+    "Non-Compliant": "What did you see?"
+  },
   "only_if": null,
   "next": "1.4",
   "acc_rules": null,

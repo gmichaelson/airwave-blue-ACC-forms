@@ -2,6 +2,7 @@
   "form": "01 - Quality Control Site Visit",
   "group": "4.1",
   "section": "MEP",
+  "group_question": "MEP: fire, electric, water, waste?",
   "questions": [
     {
       "number": "4.1",
@@ -13,7 +14,51 @@
       "more_info": null,
       "follow_up": null,
       "only_if": null
+    },
+    {
+      "number": "4.2",
+      "question": "Electric",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "4.3",
+      "question": "Water",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "4.4",
+      "question": "Waste",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "4.5",
+      "question": "Misc. MEP",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
-  "next": "4.2"
+  "next": "5.1"
 }

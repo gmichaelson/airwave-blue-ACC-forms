@@ -2,6 +2,7 @@
   "form": "01 - Quality Control Site Visit",
   "group": "2.1",
   "section": "Drywall",
+  "group_question": "Drywall: control joints, fire caulking, anything else?",
   "questions": [
     {
       "number": "2.1",
@@ -13,7 +14,29 @@
       "more_info": null,
       "follow_up": null,
       "only_if": null
+    },
+    {
+      "number": "2.2",
+      "question": "Misc. drywall info",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "2.3",
+      "question": "Fire caulking",
+      "answer_type": "text",
+      "options": null,
+      "required": false,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
-  "next": "2.2"
+  "next": "3.1"
 }

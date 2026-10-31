@@ -5,7 +5,7 @@
   "questions": [
     {
       "number": "1.6",
-      "question": "Elevated Work/Fall Protection",
+      "question": "Elevated work and fall protection: right protection in place and used properly, access zones set up, gear in good shape. Compliant or non-compliant?",
       "answer_type": "one_option",
       "options": [
         "Compliant",
@@ -14,7 +14,9 @@
       "required": true,
       "say_if": null,
       "more_info": "Are proper fall protection means and methods in place where fall protection equipment is required? Is fall protection equipment being used per the manufacturers guidelines? Are Controlled Access Zones properly set up in order to restrict access to areas where fall protection equipment is required? Is all fall protection equipment in proper working condition?",
-      "follow_up": null,
+      "follow_up": {
+        "Non-Compliant": "What did you see?"
+      },
       "only_if": null
     }
   ],

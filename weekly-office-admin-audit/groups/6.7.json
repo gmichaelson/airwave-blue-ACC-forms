@@ -5,11 +5,17 @@
   "questions": [
     {
       "number": "6.7",
-      "question": "If you have any subcontractors with 150 or more people onsite, do each of those subs have at least THREE full time safety representative onsite that meets the requirements laid out in the S&H Code? (If you do not have any of these subs, select N/A)",
-      "callout": null,
+      "question": "Does each of those subs have at least three full-time safety reps on site who meet the Safety and Health Code?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": {
+        "number": "6.6",
+        "answer": "Yes"
+      }
     }
   ],
   "next": "7.1"

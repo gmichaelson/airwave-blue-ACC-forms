@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Office Admin Audit",
   "number": "5.4",
   "section": "SUBCONTRACTOR ONBOARDING DOCUMENTATION",
-  "question": "Are all subcontractors and tiered subs included and information current on the project's Competent Person List? (Include a picture of the list)",
-  "callout": null,
+  "question": "Are all subs and tiered subs on the Competent Person List, with current information?",
+  "acc_question": "Are all subcontractors and tiered subs included and information current on the project's Competent Person List? (Include a picture of the list)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "5.5",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "5.5",
   "field_id": "575844cf-1cf6-4114-b05b-2977e24eda1b",
   "value_type": "toggleVal"
 }

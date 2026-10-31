@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Office Admin Audit",
   "number": "2.3",
   "section": "ORIENTATION AREA",
-  "question": "Is the Work Rules Acknowledgement QR code printed and available to be scanned by workers at the start of orientation?  (Include picture of printed QR sheets)",
-  "callout": null,
+  "question": "Is the Work Rules Acknowledgement QR code printed and ready to scan at the start of orientation?",
+  "acc_question": "Is the Work Rules Acknowledgement QR code printed and available to be scanned by workers at the start of orientation?  (Include picture of printed QR sheets)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "2.4",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "2.4",
   "field_id": "9e40725b-91ef-4e3b-882f-4f57770e0eca",
   "value_type": "toggleVal"
 }

@@ -5,27 +5,36 @@
   "questions": [
     {
       "number": "3.7",
-      "question": "Is the Nurse's area set up, stocked and in good order?  (Include picture of the Nurse's area)",
-      "callout": null,
+      "question": "Is the nurse's area set up, stocked, and in good order?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "3.8",
-      "question": "Is the SDS Binder available to all and current with all chemicals onsite represented in the binder? (Include a picture of the SDS Binder)",
-      "callout": null,
+      "question": "Is the SDS binder available and current for every chemical on site?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "3.9",
-      "question": "Are recent Safety Alerts posted in a spot where they are easy to read and accessible for workers to review?  (Include a picture of the posted Safety Alerts)",
-      "callout": null,
+      "question": "Are recent Safety Alerts posted where workers can easily read them?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "4.1"

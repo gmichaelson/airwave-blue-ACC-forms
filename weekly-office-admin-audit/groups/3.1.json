@@ -5,27 +5,36 @@
   "questions": [
     {
       "number": "3.1",
-      "question": "Is a copy of the Incident Reporting Checklist posted in an accessible location? (Include a picture of the checklist)",
-      "callout": null,
+      "question": "Is the Incident Reporting Checklist posted where people can get to it?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "3.2",
-      "question": "Is a copy of the OSHA Inspection Checklist posted in an accessible location? (Include a picture of the checklist)",
-      "callout": null,
+      "question": "Is the OSHA Inspection Checklist posted where people can get to it?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "3.3",
-      "question": "Is a copy of the Government Agency Inspection Checklist posted in an accessible location? (Upload a picture of the checklist)",
-      "callout": null,
+      "question": "Is the Government Agency Inspection Checklist posted where people can get to it?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "3.4"

@@ -5,19 +5,25 @@
   "questions": [
     {
       "number": "5.4",
-      "question": "Are all subcontractors and tiered subs included and information current on the project's Competent Person List? (Include a picture of the list)",
-      "callout": null,
+      "question": "Are all subs and tiered subs on the Competent Person List, with current information?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "5.5",
-      "question": "Are all subcontractors and tiered subs included and information current on the project's Safety Representative List? (Include a picture of the list)",
-      "callout": null,
+      "question": "Are all subs and tiered subs on the Safety Representative List, with current information?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "6.1"

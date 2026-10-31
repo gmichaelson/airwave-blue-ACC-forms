@@ -2,16 +2,22 @@
   "form": "SAFETY - WEEKLY - Office Admin Audit",
   "number": "7.3",
   "section": "STRETCH & FLEX AND TOOLBOX TALKS",
-  "question": "Is at least one site-wide Toolbox Talk held each week? (List the time and location of TBTs in the Notes.  Include a picture/PDF of the latest TBT)",
-  "callout": null,
+  "question": "Is at least one site-wide toolbox talk held each week?",
+  "acc_question": "Is at least one site-wide Toolbox Talk held each week? (List the time and location of TBTs in the Notes.  Include a picture/PDF of the latest TBT)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": {
+    "Yes": "What time and where are the toolbox talks?"
+  },
+  "only_if": null,
+  "next": "7.4",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "7.4",
   "field_id": "08ce0429-4780-46bd-99eb-78052aaac5a3",
   "value_type": "toggleVal"
 }

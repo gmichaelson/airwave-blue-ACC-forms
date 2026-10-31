@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Office Admin Audit",
   "number": "3.6",
   "section": "INCIDENT PREPAREDNESS",
-  "question": "Is the First Aid Kit fully stocked and all items within the appropriate expiration date? (Include a picture of the first aid kit)",
-  "callout": null,
+  "question": "Is the first aid kit fully stocked with nothing expired?",
+  "acc_question": "Is the First Aid Kit fully stocked and all items within the appropriate expiration date? (Include a picture of the first aid kit)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "3.7",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "3.7",
   "field_id": "5c57d532-21cd-4c41-88c7-4d7ee1ace531",
   "value_type": "toggleVal"
 }

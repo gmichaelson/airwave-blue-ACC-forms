@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Office Admin Audit",
   "number": "2.1",
   "section": "ORIENTATION AREA",
-  "question": "Is the orientation area clean/well organized and set up with adequate space for people to sit and view the screen comfortably?  (Include picture of orientation area)",
-  "callout": null,
+  "question": "Is the orientation area clean and organized, with room for people to sit and see the screen?",
+  "acc_question": "Is the orientation area clean/well organized and set up with adequate space for people to sit and view the screen comfortably?  (Include picture of orientation area)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "2.2",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "2.2",
   "field_id": "ab328078-1304-4f1e-90ed-4d9ea2e4a2a4",
   "value_type": "toggleVal"
 }

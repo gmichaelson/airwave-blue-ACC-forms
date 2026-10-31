@@ -1,0 +1,35 @@
+{
+  "form": "SAFETY - WEEKLY - Office Admin Audit",
+  "group": "6.5",
+  "section": "SUBCONTRACTOR SAFETY",
+  "questions": [
+    {
+      "number": "6.5",
+      "question": "Does each of those subs have at least two full-time safety reps on site who meet the Safety and Health Code?",
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": {
+        "number": "6.4",
+        "answer": "Yes"
+      }
+    },
+    {
+      "number": "6.6",
+      "question": "Do any subs have 150 or more people on site, including tiered subs?",
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "Yes": "Which companies?"
+      },
+      "only_if": null
+    }
+  ],
+  "next": "6.7"
+}

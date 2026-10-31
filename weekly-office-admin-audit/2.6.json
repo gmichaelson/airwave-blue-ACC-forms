@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Office Admin Audit",
   "number": "2.6",
   "section": "ORIENTATION AREA",
-  "question": "Is there a good selection of hands-on/demonstration material available and well-organized for use in orientations (knives, PPE, barricades, tools, etc)?  (Include pictures of these items)",
-  "callout": null,
+  "question": "Is there good hands-on demo material, like knives, PPE, barricades, and tools, organized for orientation?",
+  "acc_question": "Is there a good selection of hands-on/demonstration material available and well-organized for use in orientations (knives, PPE, barricades, tools, etc)?  (Include pictures of these items)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "2.7",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "2.7",
   "field_id": "d0a74157-65d2-4fb3-a691-447b9be6cf46",
   "value_type": "toggleVal"
 }

@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Office Admin Audit",
   "number": "2.4",
   "section": "ORIENTATION AREA",
-  "question": "Is there an alternative method available for people to complete their Work Rules Acknowledgement in WorkSafe, if they can't/won't use their phone - extra phone, tablet or computer?  (Include a picture of the backup device)",
-  "callout": null,
+  "question": "Is there a backup device, like a spare phone, tablet, or computer, for the Work Rules Acknowledgement in WorkSafe?",
+  "acc_question": "Is there an alternative method available for people to complete their Work Rules Acknowledgement in WorkSafe, if they can't/won't use their phone - extra phone, tablet or computer?  (Include a picture of the backup device)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "2.5",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "2.5",
   "field_id": "e1e5ccfa-3f54-4898-926d-bb90b75167f5",
   "value_type": "toggleVal"
 }

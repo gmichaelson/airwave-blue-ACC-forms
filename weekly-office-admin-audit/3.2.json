@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Office Admin Audit",
   "number": "3.2",
   "section": "INCIDENT PREPAREDNESS",
-  "question": "Is a copy of the OSHA Inspection Checklist posted in an accessible location? (Include a picture of the checklist)",
-  "callout": null,
+  "question": "Is the OSHA Inspection Checklist posted where people can get to it?",
+  "acc_question": "Is a copy of the OSHA Inspection Checklist posted in an accessible location? (Include a picture of the checklist)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "3.3",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "3.3",
   "field_id": "2094d4b5-9c33-45e6-8652-17c8aaa617be",
   "value_type": "toggleVal"
 }

@@ -2,16 +2,22 @@
   "form": "SAFETY - WEEKLY - Office Admin Audit",
   "number": "7.1",
   "section": "STRETCH & FLEX AND TOOLBOX TALKS",
-  "question": "Are all subcontractor workers onsite participating in Stretch & Flex each day?  (List the time and location of S&F in the Notes)",
-  "callout": null,
+  "question": "Are all sub workers doing Stretch and Flex each day?",
+  "acc_question": "Are all subcontractor workers onsite participating in Stretch & Flex each day?  (List the time and location of S&F in the Notes)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": {
+    "any": "What time and where is Stretch and Flex?"
+  },
+  "only_if": null,
+  "next": "7.2",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "7.2",
   "field_id": "acf02572-e10f-4e9c-819d-b2f6ca1f6a8b",
   "value_type": "toggleVal"
 }

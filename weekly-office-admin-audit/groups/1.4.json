@@ -5,11 +5,14 @@
   "questions": [
     {
       "number": "1.4",
-      "question": "Is the trailer identified by signage?  Is all appropriate signage displayed inside and outside the trailer in an organized manner? (Include pictures of signage in and around the trailer)",
-      "callout": null,
+      "question": "Is the trailer marked with a sign, and is the right signage organized inside and out?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "2.1"

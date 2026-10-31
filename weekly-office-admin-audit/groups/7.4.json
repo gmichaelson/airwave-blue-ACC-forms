@@ -5,27 +5,38 @@
   "questions": [
     {
       "number": "7.4",
-      "question": "Are TBTs conducted in both English and Spanish, if needed?",
-      "callout": null,
+      "question": "Are toolbox talks given in English and Spanish when needed?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "7.5",
-      "question": "Can everyone in the crowd see and hear what is being said in both S&F and TBT - adequate lighting and speaker system?",
-      "callout": null,
+      "question": "Can everyone see and hear during Stretch and Flex and toolbox talks, with enough lighting and a speaker system?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "7.6",
-      "question": "Is there anything that needs to be done to improve how S&F and/or TBTs are conducted?",
-      "callout": null,
+      "question": "Does anything need to change to improve Stretch and Flex or toolbox talks?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "Yes": "What should change?"
+      },
+      "only_if": null
     }
   ],
   "next": "end"

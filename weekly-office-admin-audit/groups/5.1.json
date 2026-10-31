@@ -5,27 +5,40 @@
   "questions": [
     {
       "number": "5.1",
-      "question": "Is the subcontractor onboarding matrix/log up to date? (Include a picture/PDF of the current matrix)",
-      "callout": null,
+      "question": "Is the subcontractor onboarding matrix up to date?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "5.2",
-      "question": "Are the five most recent subs to start onsite listed on the onboarding matrix? (List the last five subs in the notes)",
-      "callout": null,
+      "question": "Are the five most recent subs to start on site on the onboarding matrix?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "any": "Who are the last five subs?"
+      },
+      "only_if": null
     },
     {
       "number": "5.3",
-      "question": "Is everyone currently working onsite marked in GREEN in the OK TO WORK column of the Insurance Log for the project? (If any are RED, list them in the notes.  Include a picture/PDF of the current Insurance Log)",
-      "callout": null,
+      "question": "Is everyone on site marked green in the OK TO WORK column of the Insurance Log?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "No": "Which ones are red?"
+      },
+      "only_if": null
     }
   ],
   "next": "5.4"

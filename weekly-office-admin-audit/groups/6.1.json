@@ -5,28 +5,30 @@
   "questions": [
     {
       "number": "6.1",
-      "question": "Is your project currently active with at least one subcontractor performing work onsite?  (In the Notes, provide an approximate count of the number of subcontractor companies onsite AND the total number of people onstie - subs + Clayco)",
-      "callout": null,
+      "question": "Is at least one subcontractor working on site right now?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "any": "About how many sub companies are on site, and how many people total, subs plus Clayco?"
+      },
+      "only_if": null
     },
     {
       "number": "6.2",
-      "question": "Do you have any subcontractors that currently have 25-74 people working onsite - including tiered subs?  If YES, list those companies in the Notes.",
-      "callout": null,
+      "question": "Do any subs have 25 to 74 people on site, including tiered subs?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
-    },
-    {
-      "number": "6.3",
-      "question": "If you have any subcontractors with 25-74 people onsite, do each of those subs have at least ONE full time safety representative onsite that meets the requirements laid out in the S&H Code? (If you do not have any of these subs, select N/A)",
-      "callout": null,
-      "answer_type": "yes_no_na",
-      "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "Yes": "Which companies?"
+      },
+      "only_if": null
     }
   ],
-  "next": "6.4"
+  "next": "6.3"
 }

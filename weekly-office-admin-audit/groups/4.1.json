@@ -5,27 +5,36 @@
   "questions": [
     {
       "number": "4.1",
-      "question": "Are all crews completing good quality PTSAs each day for the scope of work they are performing?  Are they completed and reviewed with the crew by the foreman and signed by all workers on the crew?  (Include pictures of five GOOD PTSAs from the last week)",
-      "callout": null,
+      "question": "Are all crews doing good quality PTSAs each day, reviewed by the foreman and signed by the whole crew?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "4.2",
-      "question": "Are any deficient PTSAs being addressed each morning by the Clayco Project Team?  (Include pictures of five BAD/DEFICIENT PTSAs that have been corrected/addressed from the last week)",
-      "callout": null,
+      "question": "Is the Clayco project team addressing deficient PTSAs each morning?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "4.3",
-      "question": "Are all subcontractors submitting weekly Safety Audits? (Include five pictures/PDFs of completed audits from this week)",
-      "callout": null,
+      "question": "Are all subcontractors turning in weekly safety audits?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "4.4"

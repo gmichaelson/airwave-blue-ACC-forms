@@ -5,11 +5,14 @@
   "questions": [
     {
       "number": "4.7",
-      "question": "Has all paperwork been collected, scanned and saved to the project's folder in the K:Drive in an organized manner with a backlog of no more than one week's documentation?  (Include a picture of the Safety Folder in the project's K:Drive folder showing the general organization of the folder)",
-      "callout": null,
+      "question": "Is all paperwork scanned and saved to the project's K drive folder, with no more than a week of backlog?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "5.1"

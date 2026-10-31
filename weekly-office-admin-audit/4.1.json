@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Office Admin Audit",
   "number": "4.1",
   "section": "PAPERWORK & DOCUMENTATION",
-  "question": "Are all crews completing good quality PTSAs each day for the scope of work they are performing?  Are they completed and reviewed with the crew by the foreman and signed by all workers on the crew?  (Include pictures of five GOOD PTSAs from the last week)",
-  "callout": null,
+  "question": "Are all crews doing good quality PTSAs each day, reviewed by the foreman and signed by the whole crew?",
+  "acc_question": "Are all crews completing good quality PTSAs each day for the scope of work they are performing?  Are they completed and reviewed with the crew by the foreman and signed by all workers on the crew?  (Include pictures of five GOOD PTSAs from the last week)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "4.2",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "4.2",
   "field_id": "104ae92b-d3a2-44e6-bd40-ae3cb0fcd9ba",
   "value_type": "toggleVal"
 }

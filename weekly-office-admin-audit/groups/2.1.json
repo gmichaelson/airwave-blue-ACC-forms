@@ -5,27 +5,36 @@
   "questions": [
     {
       "number": "2.1",
-      "question": "Is the orientation area clean/well organized and set up with adequate space for people to sit and view the screen comfortably?  (Include picture of orientation area)",
-      "callout": null,
+      "question": "Is the orientation area clean and organized, with room for people to sit and see the screen?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "2.2",
-      "question": "Are stickers, wallet cards, T-shirts and other handouts organized and well-stocked to provide material for workers participating in orientation?  (Include pictures of material storage/organization)",
-      "callout": null,
+      "question": "Are stickers, wallet cards, T-shirts, and other handouts organized and stocked?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "2.3",
-      "question": "Is the Work Rules Acknowledgement QR code printed and available to be scanned by workers at the start of orientation?  (Include picture of printed QR sheets)",
-      "callout": null,
+      "question": "Is the Work Rules Acknowledgement QR code printed and ready to scan at the start of orientation?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "2.4"

@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Office Admin Audit",
   "number": "2.7",
   "section": "ORIENTATION AREA",
-  "question": "Are wallet cards provided to everyone during orientation and Safety & Health Code books provided to all Foremen at First Day, First Hour training?",
-  "callout": null,
+  "question": "Does everyone get a wallet card at orientation, and do all foremen get a Safety and Health Code book at First Day, First Hour training?",
+  "acc_question": "Are wallet cards provided to everyone during orientation and Safety & Health Code books provided to all Foremen at First Day, First Hour training?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "3.1",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "3.1",
   "field_id": "e2725fc2-409b-4a7a-9ccd-aae43c113f83",
   "value_type": "toggleVal"
 }

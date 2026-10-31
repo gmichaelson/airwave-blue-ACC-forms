@@ -5,27 +5,40 @@
   "questions": [
     {
       "number": "7.1",
-      "question": "Are all subcontractor workers onsite participating in Stretch & Flex each day?  (List the time and location of S&F in the Notes)",
-      "callout": null,
+      "question": "Are all sub workers doing Stretch and Flex each day?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "any": "What time and where is Stretch and Flex?"
+      },
+      "only_if": null
     },
     {
       "number": "7.2",
-      "question": "Are all Clayco employees participating in S&F each day?",
-      "callout": null,
+      "question": "Are all Clayco employees doing Stretch and Flex each day?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "7.3",
-      "question": "Is at least one site-wide Toolbox Talk held each week? (List the time and location of TBTs in the Notes.  Include a picture/PDF of the latest TBT)",
-      "callout": null,
+      "question": "Is at least one site-wide toolbox talk held each week?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "Yes": "What time and where are the toolbox talks?"
+      },
+      "only_if": null
     }
   ],
   "next": "7.4"

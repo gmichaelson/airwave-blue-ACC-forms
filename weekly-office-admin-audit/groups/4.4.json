@@ -5,27 +5,36 @@
   "questions": [
     {
       "number": "4.4",
-      "question": "Are all subcontractors submitting Toolbox Talks they are conducting with their crews each week? (Include five pictures/PDFs of completed sub TBTs from this week)",
-      "callout": null,
+      "question": "Are all subcontractors turning in the toolbox talks they hold each week?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "4.5",
-      "question": "Are all subcontractors performing hot work, ground disturbance or roof work completing appropriate Safe Work Permits for that activity? (Include five pictures/PDFs of completed Safe Work Permits from this week)",
-      "callout": null,
+      "question": "Are subs doing hot work, ground disturbance, or roof work completing Safe Work Permits?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "4.6",
-      "question": "Are crews completing inspections for the equipment they are using, prior to starting work?  (Include five pictures/PDFs of equipment inspections from this week)",
-      "callout": null,
+      "question": "Are crews inspecting their equipment before starting work?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "4.7"

@@ -5,27 +5,38 @@
   "questions": [
     {
       "number": "2.4",
-      "question": "Is there an alternative method available for people to complete their Work Rules Acknowledgement in WorkSafe, if they can't/won't use their phone - extra phone, tablet or computer?  (Include a picture of the backup device)",
-      "callout": null,
+      "question": "Is there a backup device, like a spare phone, tablet, or computer, for the Work Rules Acknowledgement in WorkSafe?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "2.5",
-      "question": "Is the site-specific orientation slide deck up to date and in use? (Identify the date of last revision of the deck in the notes)",
-      "callout": null,
+      "question": "Is the site-specific orientation deck up to date and in use?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "any": "What's the last revision date of the deck?"
+      },
+      "only_if": null
     },
     {
       "number": "2.6",
-      "question": "Is there a good selection of hands-on/demonstration material available and well-organized for use in orientations (knives, PPE, barricades, tools, etc)?  (Include pictures of these items)",
-      "callout": null,
+      "question": "Is there good hands-on demo material, like knives, PPE, barricades, and tools, organized for orientation?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "2.7"

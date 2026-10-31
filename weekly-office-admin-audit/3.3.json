@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Office Admin Audit",
   "number": "3.3",
   "section": "INCIDENT PREPAREDNESS",
-  "question": "Is a copy of the Government Agency Inspection Checklist posted in an accessible location? (Upload a picture of the checklist)",
-  "callout": null,
+  "question": "Is the Government Agency Inspection Checklist posted where people can get to it?",
+  "acc_question": "Is a copy of the Government Agency Inspection Checklist posted in an accessible location? (Upload a picture of the checklist)",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "3.4",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "3.4",
   "field_id": "d74ef194-74f2-45c8-ba75-44232c7b446d",
   "value_type": "toggleVal"
 }

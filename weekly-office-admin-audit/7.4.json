@@ -2,16 +2,20 @@
   "form": "SAFETY - WEEKLY - Office Admin Audit",
   "number": "7.4",
   "section": "STRETCH & FLEX AND TOOLBOX TALKS",
-  "question": "Are TBTs conducted in both English and Spanish, if needed?",
-  "callout": null,
+  "question": "Are toolbox talks given in English and Spanish when needed?",
+  "acc_question": "Are TBTs conducted in both English and Spanish, if needed?",
   "answer_type": "yes_no_na",
   "options": null,
   "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "7.5",
   "acc_rules": [
     "If Yes: ACC needs a photo for this answer.",
     "If No: ACC needs a photo for this answer."
   ],
-  "next": "7.5",
   "field_id": "35349939-f047-4acd-ad3b-110207752e49",
   "value_type": "toggleVal"
 }

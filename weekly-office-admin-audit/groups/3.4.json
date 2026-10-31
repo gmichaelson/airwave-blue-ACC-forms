@@ -5,27 +5,38 @@
   "questions": [
     {
       "number": "3.4",
-      "question": "Is a copy of the project's Emergency Action Plan (EAP) posted in an accessible location? (Include a picture of the EAP and list the last revision date in the Notes)",
-      "callout": null,
+      "question": "Is the project's Emergency Action Plan posted where people can get to it?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": {
+        "Yes": "What's the last revision date of the plan?"
+      },
+      "only_if": null
     },
     {
       "number": "3.5",
-      "question": "Is a copy of the Emergency Contact Phone Number List posted in an accessible location? (Include a picture of the list)",
-      "callout": null,
+      "question": "Is the Emergency Contact Phone Number List posted where people can get to it?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     },
     {
       "number": "3.6",
-      "question": "Is the First Aid Kit fully stocked and all items within the appropriate expiration date? (Include a picture of the first aid kit)",
-      "callout": null,
+      "question": "Is the first aid kit fully stocked with nothing expired?",
       "answer_type": "yes_no_na",
       "options": null,
-      "required": true
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
     }
   ],
   "next": "3.7"

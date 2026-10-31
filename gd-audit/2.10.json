@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "2.10",
+  "section": "Permit Review",
+  "question": "Has the subcontractor's competent person reviewed and signed the permit?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "2.11",
+  "field_id": "76612bf9-2093-495d-a554-c32c6cf07154",
+  "value_type": "toggleVal"
+}

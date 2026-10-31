@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "2.4",
+  "section": "Permit Review",
+  "question": "Have known utilities been identified on the permit?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "2.5",
+  "field_id": "59b8028d-3e6c-4990-a58a-ef267d7644a6",
+  "value_type": "toggleVal"
+}

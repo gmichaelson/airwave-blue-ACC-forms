@@ -1,0 +1,17 @@
+{
+  "form": "Safety - MSA",
+  "number": "1.6",
+  "section": "MSA",
+  "question": "Elevated Work/Fall Protection",
+  "callout": "Are proper fall protection means and methods in place where fall protection equipment is required? Is fall protection equipment being used per the manufacturers guidelines? Are Controlled Access Zones properly set up in order to restrict access to areas where fall protection equipment is required? Is all fall protection equipment in proper working condition?",
+  "answer_type": "one_option",
+  "options": [
+    "Compliant",
+    "Non-Compliant"
+  ],
+  "required": true,
+  "acc_rules": null,
+  "next": "1.7",
+  "field_id": "42b9395f-eb78-4813-be98-46a7735e44ec",
+  "value_type": "choiceVal"
+}

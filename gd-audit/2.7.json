@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "2.7",
+  "section": "Permit Review",
+  "question": "Has 811 or other utility locate company been contacted?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "2.8",
+  "field_id": "94b7a230-6b37-4853-b7b7-da49fc8c4397",
+  "value_type": "toggleVal"
+}

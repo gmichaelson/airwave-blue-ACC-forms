@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "4.2",
+  "section": "Ground Disturbance Field Observations",
+  "question": "Equipment inspections completed?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "4.3",
+  "field_id": "5b736ba1-9d52-415e-ae6e-395e98f004a6",
+  "value_type": "toggleVal"
+}

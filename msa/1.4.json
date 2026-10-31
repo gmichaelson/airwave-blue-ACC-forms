@@ -1,0 +1,17 @@
+{
+  "form": "Safety - MSA",
+  "number": "1.4",
+  "section": "MSA",
+  "question": "Tool and Equipment Use",
+  "callout": "Are workers trained to use the tools/equipment they are using?  Are tools/equipment inspected before use?  Tools/equipment being used or operated per manufacturer's guidelines?  All guards and safety devices in place and operational?",
+  "answer_type": "one_option",
+  "options": [
+    "Compliant",
+    "Non-Compliant"
+  ],
+  "required": true,
+  "acc_rules": null,
+  "next": "1.5",
+  "field_id": "39af7da6-7675-41d0-89e8-e2b6568696a7",
+  "value_type": "choiceVal"
+}

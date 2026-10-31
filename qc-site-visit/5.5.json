@@ -1,0 +1,14 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "number": "5.5",
+  "section": "Docs, Doors and Windows",
+  "question": "Window",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "5.6",
+  "field_id": "8cae1e05-7a88-43ae-824b-36b93df8b992",
+  "value_type": "textVal"
+}

@@ -1,0 +1,14 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "number": "7.3",
+  "section": "Structural Steel",
+  "question": "Decking",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "7.4",
+  "field_id": "570df4ba-39fe-481c-8293-d0a2d8ddcd52",
+  "value_type": "textVal"
+}

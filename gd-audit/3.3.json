@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "3.3",
+  "section": "Level 2 Permit",
+  "question": "Is the distance from ground disturbance activity to utilities identified?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "3.4",
+  "field_id": "d5fc8c46-ea50-4626-819d-0e487a880938",
+  "value_type": "toggleVal"
+}

@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "4.5",
+  "section": "Ground Disturbance Field Observations",
+  "question": "Spoils and other materials minimum of 4' from edge of excavation?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "4.6",
+  "field_id": "f8c02d7c-3a72-4241-a676-9b1a15de27a3",
+  "value_type": "toggleVal"
+}

@@ -1,0 +1,14 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "number": "2.1",
+  "section": "Drywall",
+  "question": "Control joints installed",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "2.2",
+  "field_id": "935aa7b0-4cb1-4a90-ac9d-27319e8e3055",
+  "value_type": "textVal"
+}

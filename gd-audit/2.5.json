@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "2.5",
+  "section": "Permit Review",
+  "question": "Is a photo of the as-builts/site utility map with excavation area identified attached to the permit?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "2.6",
+  "field_id": "be97eb20-81f0-4467-94b3-0bec0a7e24f4",
+  "value_type": "toggleVal"
+}

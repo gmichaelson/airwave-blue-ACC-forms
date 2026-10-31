@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "4.8",
+  "section": "Ground Disturbance Field Observations",
+  "question": "If fall protection is required, is it in place and being used properly?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "4.9",
+  "field_id": "a7c204c1-7da0-493e-86fd-a2da475b089e",
+  "value_type": "toggleVal"
+}

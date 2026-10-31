@@ -1,0 +1,14 @@
+{
+  "form": "Safety - MSA",
+  "number": "1.7",
+  "section": "MSA",
+  "question": "Worker/Crew Observation",
+  "callout": "Select a crew and spend a few minutes watching how they work.  Are they set up and performing work safely?  Are there things they need to change?  Make a few notes of what you see and pictures to illustrate what was going on?  After watching, discuss what you saw with the crew - good things, as well as those that need improvement.",
+  "answer_type": "text",
+  "options": null,
+  "required": true,
+  "acc_rules": null,
+  "next": "end",
+  "field_id": "dc8203ea-c1e9-49a3-9e8b-cabb6be988d1",
+  "value_type": "textVal"
+}

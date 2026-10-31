@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "3.1",
+  "section": "Level 2 Permit",
+  "question": "Have utilities been positively identified?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "3.2",
+  "field_id": "0e410d54-e13e-43b8-b237-6c454a32266e",
+  "value_type": "toggleVal"
+}

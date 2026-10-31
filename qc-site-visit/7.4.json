@@ -1,0 +1,14 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "number": "7.4",
+  "section": "Structural Steel",
+  "question": "Misc. structural steel",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "8.1",
+  "field_id": "0d74cb0a-6277-4bd5-bbf7-8f68ac2e4b4d",
+  "value_type": "textVal"
+}

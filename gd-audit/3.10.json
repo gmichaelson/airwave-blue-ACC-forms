@@ -1,0 +1,14 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "3.10",
+  "section": "Level 2 Permit",
+  "question": "Have emergency contacts other than 9-1-1 been identified?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "4.1",
+  "field_id": "6f9b4d55-7036-4500-87fd-dbf3137983f4",
+  "value_type": "toggleVal"
+}

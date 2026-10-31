@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "5.7",
+  "section": "Excavation Protection",
+  "question": "Is excavation adequately protected at the end of each shift?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "end",
+  "field_id": "d3aaf322-8590-4165-86b2-e7f6b1bb88d9",
+  "value_type": "toggleVal"
+}

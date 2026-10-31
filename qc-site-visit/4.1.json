@@ -1,0 +1,14 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "number": "4.1",
+  "section": "MEP",
+  "question": "Fire",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "4.2",
+  "field_id": "53d568e5-4903-49c4-9634-2e1baca1907b",
+  "value_type": "textVal"
+}

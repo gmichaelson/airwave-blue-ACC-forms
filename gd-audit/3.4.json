@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "3.4",
+  "section": "Level 2 Permit",
+  "question": "Are photos of the identified utilities attached to the permit?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "3.5",
+  "field_id": "7d36c405-db84-4a3f-b6c4-99723207a036",
+  "value_type": "toggleVal"
+}

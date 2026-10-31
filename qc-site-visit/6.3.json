@@ -1,0 +1,14 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "number": "6.3",
+  "section": "Roof",
+  "question": "Items stored on roof",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "6.4",
+  "field_id": "ea7e221d-d48a-46ed-b690-e2a85e56cacd",
+  "value_type": "textVal"
+}

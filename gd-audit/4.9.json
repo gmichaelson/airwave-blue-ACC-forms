@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "4.9",
+  "section": "Ground Disturbance Field Observations",
+  "question": "Has the competent person inspected the excavation prior to beginning work?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "4.10",
+  "field_id": "f0eb81cc-e0a9-4614-b3ba-4dd72db9c934",
+  "value_type": "toggleVal"
+}

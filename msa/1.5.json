@@ -1,0 +1,17 @@
+{
+  "form": "Safety - MSA",
+  "number": "1.5",
+  "section": "MSA",
+  "question": "Material Handling",
+  "callout": "Are workers lifting no more than 50 lbs per person?  Mechanical means in place for lifting, carrying, pushing and pulling (carts, dollies, wheels, cranes, etc)?  Workers using proper lifting technique?  Workers who perform work in awkward postures take breaks throughout the day to stretch?",
+  "answer_type": "one_option",
+  "options": [
+    "Compliant",
+    "Non-Compliant"
+  ],
+  "required": true,
+  "acc_rules": null,
+  "next": "1.6",
+  "field_id": "0460ee46-c0bb-4959-9eca-44f9ba95e046",
+  "value_type": "choiceVal"
+}

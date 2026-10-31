@@ -1,0 +1,14 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "number": "6.1",
+  "section": "Roof",
+  "question": "Access",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "6.2",
+  "field_id": "8953da52-f779-4c58-9aff-78b975519f3e",
+  "value_type": "textVal"
+}

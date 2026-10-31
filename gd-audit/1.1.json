@@ -1,0 +1,14 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "1.1",
+  "section": "Ground Disturbance",
+  "question": "Is there active ground disturbance activity currently in process onsite?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "acc_rules": null,
+  "next": "1.2",
+  "field_id": "5f2f6fb3-c910-4f04-97c8-8593643b0ca1",
+  "value_type": "toggleVal"
+}

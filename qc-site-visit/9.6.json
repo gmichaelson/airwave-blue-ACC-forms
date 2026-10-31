@@ -1,0 +1,14 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "number": "9.6",
+  "section": "Misc Items",
+  "question": "New Item",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "9.7",
+  "field_id": "7ebaa127-e5de-43e7-9236-d03554e1d492",
+  "value_type": "textVal"
+}

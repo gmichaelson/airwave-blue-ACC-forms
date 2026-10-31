@@ -1,0 +1,14 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "3.9",
+  "section": "Level 2 Permit",
+  "question": "What method of protection is being used?",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "3.10",
+  "field_id": "ecaff2a5-f1c5-4b19-b96c-8ecf00c1b33b",
+  "value_type": "textVal"
+}

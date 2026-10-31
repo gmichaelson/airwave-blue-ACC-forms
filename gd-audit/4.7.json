@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "4.7",
+  "section": "Ground Disturbance Field Observations",
+  "question": "PVC markers installed for located utilities and newly installed utilities?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "4.8",
+  "field_id": "e8675345-3fc2-438a-87fd-93d1c7613244",
+  "value_type": "toggleVal"
+}

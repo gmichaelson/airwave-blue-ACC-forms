@@ -1,0 +1,14 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "number": "5.2",
+  "section": "Docs, Doors and Windows",
+  "question": "Joints around dock levelers",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "5.3",
+  "field_id": "ffa82310-7d98-4fb8-93aa-9df07068cebe",
+  "value_type": "textVal"
+}

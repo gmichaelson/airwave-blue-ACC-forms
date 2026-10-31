@@ -1,0 +1,14 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "number": "8.1",
+  "section": "Site Condition, Soil",
+  "question": "Soil condition",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "8.2",
+  "field_id": "439b4913-455c-4a38-85cc-10c166f37953",
+  "value_type": "textVal"
+}

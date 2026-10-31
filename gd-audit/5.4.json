@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "5.4",
+  "section": "Excavation Protection",
+  "question": "Tabulated data for trench box received?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "5.5",
+  "field_id": "738b9689-d603-4902-aebd-988be6a4d4ee",
+  "value_type": "toggleVal"
+}

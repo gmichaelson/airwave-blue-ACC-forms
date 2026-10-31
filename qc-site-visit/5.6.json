@@ -1,0 +1,14 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "number": "5.6",
+  "section": "Docs, Doors and Windows",
+  "question": "Door opening height",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "5.7",
+  "field_id": "1347a3d3-a53f-49f6-95da-2660565203ed",
+  "value_type": "textVal"
+}

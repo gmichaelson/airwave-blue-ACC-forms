@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "3.6",
+  "section": "Level 2 Permit",
+  "question": "Has the regional safety manager, operations manager, and other appropriate parties reviewed and approved the permitted activity?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "3.7",
+  "field_id": "0325190f-c316-4bdf-8702-edcd6e7ed0b6",
+  "value_type": "toggleVal"
+}

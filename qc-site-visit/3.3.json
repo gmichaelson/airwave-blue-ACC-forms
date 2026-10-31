@@ -1,0 +1,14 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "number": "3.3",
+  "section": "Tilt Wall",
+  "question": "Patching",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "3.4",
+  "field_id": "0e9373ac-3fe1-40a1-b3cb-b48a7283804e",
+  "value_type": "textVal"
+}

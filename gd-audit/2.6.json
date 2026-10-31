@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "2.6",
+  "section": "Permit Review",
+  "question": "Are photos of the layout of excavation and known utilities attached utilizing proper utility layout colors with paint or flags?",
+  "callout": "White: Proposed excavation\nPink: Temporary survey markings\nRed: Electric (powerlines, cables, conduit, lighting cables)\nYellow: Gas, oil, steam, petroleum or gaseous materials\nOrange: Communication, alarm, signal lines, cables, conduits\nBlue: Potable water\nPurple: Reclaimed water, irrigation and slurry lines\nGreen: Sewer and drain lines",
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "2.7",
+  "field_id": "f5d4ce40-ee25-4dea-af8c-df5c5d422ca7",
+  "value_type": "toggleVal"
+}

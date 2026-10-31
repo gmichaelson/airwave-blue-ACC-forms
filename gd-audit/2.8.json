@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "2.8",
+  "section": "Permit Review",
+  "question": "Has a walk of the activity been conducted with all affected subs who have utilities in the area?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "2.9",
+  "field_id": "73a2ad95-e6aa-4483-89be-ec00d62aec0b",
+  "value_type": "toggleVal"
+}

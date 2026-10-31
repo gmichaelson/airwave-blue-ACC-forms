@@ -1,0 +1,14 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "number": "3.2",
+  "section": "Tilt Wall",
+  "question": "Joint spacing",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "3.3",
+  "field_id": "ff34d519-00a7-4b85-a130-17a09b93956d",
+  "value_type": "textVal"
+}

@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "2.12",
+  "section": "Permit Review",
+  "question": "Have all utilities been positively identified in the exaction area?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "2.13",
+  "field_id": "8a8aa773-1f06-4e4a-ad70-3d5853efae86",
+  "value_type": "toggleVal"
+}

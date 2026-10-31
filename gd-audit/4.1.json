@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "4.1",
+  "section": "Ground Disturbance Field Observations",
+  "question": "Operators certifications verified?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "4.2",
+  "field_id": "d868ee5a-0b66-48e9-86a5-e930bae95cab",
+  "value_type": "toggleVal"
+}

@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "5.5",
+  "section": "Excavation Protection",
+  "question": "If protection is in use, is it installed per the manufacturer's specifications?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "5.6",
+  "field_id": "61c578d7-de9a-4be8-bafb-dec35f00c229",
+  "value_type": "toggleVal"
+}

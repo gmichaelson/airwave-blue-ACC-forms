@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "3.8",
+  "section": "Level 2 Permit",
+  "question": "Are utility protection methods in place, if needed?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "3.9",
+  "field_id": "39a19e55-11c0-4f7f-a75d-d7cc8cc1bd7c",
+  "value_type": "toggleVal"
+}

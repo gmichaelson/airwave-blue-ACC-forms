@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "4.6",
+  "section": "Ground Disturbance Field Observations",
+  "question": "Copy of permit posted at excavation location?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "4.7",
+  "field_id": "f377150b-6b79-4ceb-b3bd-a044d06441a2",
+  "value_type": "toggleVal"
+}

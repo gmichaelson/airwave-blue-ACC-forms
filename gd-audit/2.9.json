@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "2.9",
+  "section": "Permit Review",
+  "question": "Has the permit been reviewed and signed by the affected parties?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "2.10",
+  "field_id": "ccd276cc-bd2d-459f-87c8-e1586a96f208",
+  "value_type": "toggleVal"
+}

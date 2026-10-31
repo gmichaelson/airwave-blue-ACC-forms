@@ -1,0 +1,14 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "number": "5.1",
+  "section": "Docs, Doors and Windows",
+  "question": "Dock levelers",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "5.2",
+  "field_id": "fcd22378-45bb-4cc9-9bfe-9942a553a75f",
+  "value_type": "textVal"
+}

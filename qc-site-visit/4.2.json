@@ -1,0 +1,14 @@
+{
+  "form": "01 - Quality Control Site Visit",
+  "number": "4.2",
+  "section": "MEP",
+  "question": "Electric",
+  "callout": null,
+  "answer_type": "text",
+  "options": null,
+  "required": false,
+  "acc_rules": null,
+  "next": "4.3",
+  "field_id": "f403c2c9-a1f8-44df-ad94-3014f1b7fd0b",
+  "value_type": "textVal"
+}

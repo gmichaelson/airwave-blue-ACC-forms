@@ -1,0 +1,16 @@
+{
+  "form": "Safety - Ground Disturbance Audit",
+  "number": "4.3",
+  "section": "Ground Disturbance Field Observations",
+  "question": "Area properly barricaded to protect from personnel and equipment?",
+  "callout": null,
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": false,
+  "acc_rules": [
+    "If No: ACC needs a linked issue for this answer."
+  ],
+  "next": "4.4",
+  "field_id": "11cec159-53df-4a44-8575-a6959de8354d",
+  "value_type": "toggleVal"
+}

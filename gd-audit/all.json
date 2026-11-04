@@ -1,0 +1,470 @@
+{
+ "form": "Safety - Ground Disturbance Audit",
+ "first": "1.1",
+ "groups": [
+  {
+   "group": "1.1",
+   "section": "Ground Disturbance",
+   "questions": [
+    {
+     "number": "1.1",
+     "question": "Is there active ground disturbance activity currently in process onsite?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.2",
+     "question": "If yes, is a completed and approved permit in place?",
+     "answer_type": "yes_no_na"
+    }
+   ],
+   "next": "1.3"
+  },
+  {
+   "group": "1.3",
+   "section": "Ground Disturbance",
+   "questions": [
+    {
+     "number": "1.3",
+     "question": "How many separate ground disturbance activities are currently in progress?",
+     "answer_type": "number"
+    }
+   ],
+   "next": "2.1"
+  },
+  {
+   "group": "2.1",
+   "section": "Permit Review",
+   "questions": [
+    {
+     "number": "2.1",
+     "question": "What type of activity is this permit opened for?",
+     "answer_type": "one_option",
+     "options": [
+      "Trenching/Digging",
+      "Drilling/Driving",
+      "Boring",
+      "Grading",
+      "Installation of stakes or form pins",
+      "Fence post driving"
+     ]
+    }
+   ],
+   "next": "2.2"
+  },
+  {
+   "group": "2.2",
+   "section": "Permit Review",
+   "questions": [
+    {
+     "number": "2.2",
+     "question": "Is each portion of the activity section completed?",
+     "answer_type": "yes_no_na"
+    },
+    {
+     "number": "2.3",
+     "question": "Has the daily review been completed by Clayco and the subcontractor?",
+     "answer_type": "yes_no_na"
+    },
+    {
+     "number": "2.4",
+     "question": "Have known utilities been identified on the permit?",
+     "answer_type": "yes_no_na"
+    }
+   ],
+   "next": "2.5"
+  },
+  {
+   "group": "2.5",
+   "section": "Permit Review",
+   "questions": [
+    {
+     "number": "2.5",
+     "question": "Is a photo of the as-builts/site utility map with excavation area identified attached to the permit?",
+     "answer_type": "yes_no_na"
+    },
+    {
+     "number": "2.6",
+     "question": "Are photos of the layout of excavation and known utilities attached utilizing proper utility layout colors with paint or flags?",
+     "answer_type": "yes_no_na"
+    },
+    {
+     "number": "2.7",
+     "question": "Has 811 or other utility locate company been contacted?",
+     "answer_type": "yes_no_na"
+    }
+   ],
+   "next": "2.8"
+  },
+  {
+   "group": "2.8",
+   "section": "Permit Review",
+   "questions": [
+    {
+     "number": "2.8",
+     "question": "Has a walk of the activity been conducted with all affected subs who have utilities in the area?",
+     "answer_type": "yes_no_na"
+    },
+    {
+     "number": "2.9",
+     "question": "Has the permit been reviewed and signed by the affected parties?",
+     "answer_type": "yes_no_na"
+    },
+    {
+     "number": "2.10",
+     "question": "Has the subcontractor's competent person reviewed and signed the permit?",
+     "answer_type": "yes_no_na"
+    }
+   ],
+   "next": "2.11"
+  },
+  {
+   "group": "2.11",
+   "section": "Permit Review",
+   "questions": [
+    {
+     "number": "2.11",
+     "question": "Have the operators reviewed and signed the permit?",
+     "answer_type": "yes_no_na"
+    },
+    {
+     "number": "2.12",
+     "question": "Have all utilities been positively identified in the exaction area?",
+     "answer_type": "yes_no_na"
+    }
+   ],
+   "next": "2.13"
+  },
+  {
+   "group": "2.13",
+   "section": "Permit Review",
+   "questions": [
+    {
+     "number": "2.13",
+     "question": "Is the Ground Disturbance activity level 1 or level 2?",
+     "answer_type": "one_option",
+     "options": [
+      "Level 1",
+      "Level 2"
+     ]
+    }
+   ],
+   "next": "3.1"
+  },
+  {
+   "group": "3.1",
+   "section": "Level 2 Permit",
+   "only_if": {
+    "number": "2.13",
+    "answer": "Level 2"
+   },
+   "questions": [
+    {
+     "number": "3.1",
+     "question": "Have utilities been positively identified?",
+     "answer_type": "yes_no_na",
+     "only_if": {
+      "number": "2.13",
+      "answer": "Level 2"
+     }
+    }
+   ],
+   "next": "3.2"
+  },
+  {
+   "group": "3.2",
+   "section": "Level 2 Permit",
+   "only_if": {
+    "number": "2.13",
+    "answer": "Level 2"
+   },
+   "questions": [
+    {
+     "number": "3.2",
+     "question": "Method of identification?",
+     "answer_type": "text",
+     "only_if": {
+      "number": "2.13",
+      "answer": "Level 2"
+     }
+    }
+   ],
+   "next": "3.3"
+  },
+  {
+   "group": "3.3",
+   "section": "Level 2 Permit",
+   "only_if": {
+    "number": "2.13",
+    "answer": "Level 2"
+   },
+   "questions": [
+    {
+     "number": "3.3",
+     "question": "Is the distance from ground disturbance activity to utilities identified?",
+     "answer_type": "yes_no_na",
+     "only_if": {
+      "number": "2.13",
+      "answer": "Level 2"
+     }
+    },
+    {
+     "number": "3.4",
+     "question": "Are photos of the identified utilities attached to the permit?",
+     "answer_type": "yes_no_na",
+     "only_if": {
+      "number": "2.13",
+      "answer": "Level 2"
+     }
+    },
+    {
+     "number": "3.5",
+     "question": "Is the activity within the HOT Zone (within 15' of live utility)? If yes, what is the distance from the closest utility to the ground disturbance activity?",
+     "answer_type": "yes_no_na",
+     "only_if": {
+      "number": "2.13",
+      "answer": "Level 2"
+     },
+     "follow_up": {
+      "Yes": "How far is the closest utility?"
+     }
+    }
+   ],
+   "next": "3.6"
+  },
+  {
+   "group": "3.6",
+   "section": "Level 2 Permit",
+   "only_if": {
+    "number": "2.13",
+    "answer": "Level 2"
+   },
+   "questions": [
+    {
+     "number": "3.6",
+     "question": "Has the regional safety manager, operations manager, and other appropriate parties reviewed and approved the permitted activity?",
+     "answer_type": "yes_no_na",
+     "only_if": {
+      "number": "2.13",
+      "answer": "Level 2"
+     }
+    },
+    {
+     "number": "3.7",
+     "question": "Have utility shut off locations been identified?",
+     "answer_type": "yes_no_na",
+     "only_if": {
+      "number": "2.13",
+      "answer": "Level 2"
+     }
+    },
+    {
+     "number": "3.8",
+     "question": "Are utility protection methods in place, if needed?",
+     "answer_type": "yes_no_na",
+     "only_if": {
+      "number": "2.13",
+      "answer": "Level 2"
+     }
+    }
+   ],
+   "next": "3.9"
+  },
+  {
+   "group": "3.9",
+   "section": "Level 2 Permit",
+   "only_if": {
+    "number": "2.13",
+    "answer": "Level 2"
+   },
+   "questions": [
+    {
+     "number": "3.9",
+     "question": "What method of protection is being used?",
+     "answer_type": "text",
+     "only_if": {
+      "number": "2.13",
+      "answer": "Level 2"
+     }
+    }
+   ],
+   "next": "3.10"
+  },
+  {
+   "group": "3.10",
+   "section": "Level 2 Permit",
+   "only_if": {
+    "number": "2.13",
+    "answer": "Level 2"
+   },
+   "questions": [
+    {
+     "number": "3.10",
+     "question": "Have emergency contacts other than 9-1-1 been identified?",
+     "answer_type": "yes_no_na",
+     "only_if": {
+      "number": "2.13",
+      "answer": "Level 2"
+     }
+    }
+   ],
+   "next": "4.1"
+  },
+  {
+   "group": "4.1",
+   "section": "Ground Disturbance Field Observations",
+   "questions": [
+    {
+     "number": "4.1",
+     "question": "Operators certifications verified?",
+     "answer_type": "yes_no_na"
+    },
+    {
+     "number": "4.2",
+     "question": "Equipment inspections completed?",
+     "answer_type": "yes_no_na"
+    },
+    {
+     "number": "4.3",
+     "question": "Area properly barricaded to protect from personnel and equipment?",
+     "answer_type": "yes_no_na"
+    }
+   ],
+   "next": "4.4"
+  },
+  {
+   "group": "4.4",
+   "section": "Ground Disturbance Field Observations",
+   "questions": [
+    {
+     "number": "4.4",
+     "question": "Access/Egress within 25' of workers?",
+     "answer_type": "yes_no_na"
+    },
+    {
+     "number": "4.5",
+     "question": "Spoils and other materials minimum of 4' from edge of excavation?",
+     "answer_type": "yes_no_na"
+    },
+    {
+     "number": "4.6",
+     "question": "Copy of permit posted at excavation location?",
+     "answer_type": "yes_no_na"
+    }
+   ],
+   "next": "4.7"
+  },
+  {
+   "group": "4.7",
+   "section": "Ground Disturbance Field Observations",
+   "questions": [
+    {
+     "number": "4.7",
+     "question": "PVC markers installed for located utilities and newly installed utilities?",
+     "answer_type": "yes_no_na"
+    },
+    {
+     "number": "4.8",
+     "question": "If fall protection is required, is it in place and being used properly?",
+     "answer_type": "yes_no_na"
+    },
+    {
+     "number": "4.9",
+     "question": "Has the competent person inspected the excavation prior to beginning work?",
+     "answer_type": "yes_no_na"
+    }
+   ],
+   "next": "4.10"
+  },
+  {
+   "group": "4.10",
+   "section": "Ground Disturbance Field Observations",
+   "questions": [
+    {
+     "number": "4.10",
+     "question": "Is the area free of any signs of tension cracks, bulging, sluffing or any other potential failure issues?",
+     "answer_type": "yes_no_na"
+    }
+   ],
+   "next": "5.1"
+  },
+  {
+   "group": "5.1",
+   "section": "Excavation Protection",
+   "questions": [
+    {
+     "number": "5.1",
+     "question": "What soil type is the excavation?",
+     "answer_type": "text"
+    }
+   ],
+   "next": "5.2"
+  },
+  {
+   "group": "5.2",
+   "section": "Excavation Protection",
+   "questions": [
+    {
+     "number": "5.2",
+     "question": "What is the depth of the excavation?",
+     "answer_type": "text"
+    }
+   ],
+   "next": "5.3"
+  },
+  {
+   "group": "5.3",
+   "section": "Excavation Protection",
+   "questions": [
+    {
+     "number": "5.3",
+     "question": "What type of protection is in use?",
+     "answer_type": "one_option",
+     "options": [
+      "Sloping",
+      "Benching",
+      "Shoring",
+      "Shielding",
+      "Trench Box",
+      "Other (if other, enter protection type in notes)"
+     ]
+    }
+   ],
+   "next": "5.4"
+  },
+  {
+   "group": "5.4",
+   "section": "Excavation Protection",
+   "questions": [
+    {
+     "number": "5.4",
+     "question": "Tabulated data for trench box received?",
+     "answer_type": "yes_no_na"
+    },
+    {
+     "number": "5.5",
+     "question": "If protection is in use, is it installed per the manufacturer's specifications?",
+     "answer_type": "yes_no_na"
+    },
+    {
+     "number": "5.6",
+     "question": "Adequate access and egress available?",
+     "answer_type": "yes_no_na"
+    }
+   ],
+   "next": "5.7"
+  },
+  {
+   "group": "5.7",
+   "section": "Excavation Protection",
+   "questions": [
+    {
+     "number": "5.7",
+     "question": "Is excavation adequately protected at the end of each shift?",
+     "answer_type": "yes_no_na"
+    }
+   ],
+   "next": "finish"
+  }
+ ]
+}

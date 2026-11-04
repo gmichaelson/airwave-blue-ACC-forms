@@ -1,0 +1,375 @@
+{
+ "form": "SAFETY - WEEKLY - Exterior Audit",
+ "first": "1.1",
+ "groups": [
+  {
+   "group": "1.1",
+   "section": "HOUSEKEEPING, STORAGE & STAGING",
+   "questions": [
+    {
+     "number": "1.1",
+     "question": "Is the area free of trash, materials, and other debris on the ground?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.2",
+     "question": "Are there enough trash cans around the area?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.3",
+     "question": "Are the trash cans emptied often enough that they don't pile up or spill?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "1.4"
+  },
+  {
+   "group": "1.4",
+   "section": "HOUSEKEEPING, STORAGE & STAGING",
+   "questions": [
+    {
+     "number": "1.4",
+     "question": "Are walking and working areas clear of slip and trip hazards like trash, standing water, ice, or mud?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.5",
+     "question": "Are laydown areas set up and marked?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.6",
+     "question": "Are materials stored properly: on dunnage, steel on 6x6 dunnage, and pipe and rolling stock chocked?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "1.7"
+  },
+  {
+   "group": "1.7",
+   "section": "HOUSEKEEPING, STORAGE & STAGING",
+   "questions": [
+    {
+     "number": "1.7",
+     "question": "Is there a fire extinguisher near each laydown area?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "2.1"
+  },
+  {
+   "group": "2.1",
+   "section": "ROADWAYS, TRAFFIC CONTROL & WALK PATHS",
+   "questions": [
+    {
+     "number": "2.1",
+     "question": "Is a traffic plan in place?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "2.2",
+     "question": "Are walk paths marked and separated from traffic?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "2.3",
+     "question": "Are roadways clear and in good shape?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "2.4"
+  },
+  {
+   "group": "2.4",
+   "section": "ROADWAYS, TRAFFIC CONTROL & WALK PATHS",
+   "questions": [
+    {
+     "number": "2.4",
+     "question": "Is the lighting adequate?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "2.5",
+     "question": "Are spotters in use?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "Yes": "How are the spotters identified?"
+     },
+     "required": true
+    },
+    {
+     "number": "2.6",
+     "question": "Is any work happening in active roadways?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "Yes": "How is the traffic control plan being followed?"
+     },
+     "required": true
+    }
+   ],
+   "next": "2.7"
+  },
+  {
+   "group": "2.7",
+   "section": "ROADWAYS, TRAFFIC CONTROL & WALK PATHS",
+   "questions": [
+    {
+     "number": "2.7",
+     "question": "Is there a clear emergency access path?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "3.1"
+  },
+  {
+   "group": "3.1",
+   "section": "FALL PROTECTION",
+   "questions": [
+    {
+     "number": "3.1",
+     "question": "Is anyone working 6 feet or more above a lower level, including in aerial lifts?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "Yes": "What type of work, and where?"
+     },
+     "required": true
+    },
+    {
+     "number": "3.2",
+     "question": "Are elevation changes of 19 inches or more protected with a ramp, stairs, warning line, or other means?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "3.3",
+     "question": "Are all open holes 2 inches or larger covered, secured, and signed?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "3.4"
+  },
+  {
+   "group": "3.4",
+   "section": "FALL PROTECTION",
+   "questions": [
+    {
+     "number": "3.4",
+     "question": "Are guard rails and cables set up properly: top rail at 42 inches plus or minus 3, mid rail, toe board, 200 pound rating, and 3 cable clamps?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "3.5",
+     "question": "Are any scaffolds in use, with signed inspection tags and used properly?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "3.6",
+     "question": "Are aerial lifts in use by people with training on file?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "Yes": "About how many aerial lifts are on site?"
+     },
+     "required": true
+    }
+   ],
+   "next": "3.7"
+  },
+  {
+   "group": "3.7",
+   "section": "FALL PROTECTION",
+   "questions": [
+    {
+     "number": "3.7",
+     "question": "Are all aerial lifts inspected before use each day?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "3.8",
+     "question": "Is anyone using personal fall arrest gear, and is it inspected and fitted properly?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "3.9",
+     "question": "Is the fall protection equipment right for the situation, like the lanyard type and edge protection?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "4.1"
+  },
+  {
+   "group": "4.1",
+   "section": "GROUND DISTURBANCE",
+   "questions": [
+    {
+     "number": "4.1",
+     "question": "Is there active ground disturbance on site?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "Yes": "How many, and where?"
+     },
+     "required": true
+    },
+    {
+     "number": "4.2",
+     "question": "Is the site utility map posted?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "4.3",
+     "question": "Are ground disturbance permits in place for all operations?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "4.4"
+  },
+  {
+   "group": "4.4",
+   "section": "GROUND DISTURBANCE",
+   "questions": [
+    {
+     "number": "4.4",
+     "question": "Are spoils at least 4 feet back from the edge?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "4.5",
+     "question": "Is there access and egress within 25 feet of workers?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "4.6",
+     "question": "Are excavation walls protected by sloping, shoring, or a trench box?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "4.7"
+  },
+  {
+   "group": "4.7",
+   "section": "GROUND DISTURBANCE",
+   "questions": [
+    {
+     "number": "4.7",
+     "question": "Is tabulated data on site for the protective systems?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "4.8",
+     "question": "Do excavations 6 feet or deeper have fall protection?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "4.9",
+     "question": "Is there snow fence or a hard barricade around excavations when they're unattended?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "5.1"
+  },
+  {
+   "group": "5.1",
+   "section": "EQUIPMENT",
+   "questions": [
+    {
+     "number": "5.1",
+     "question": "Are any cranes in use?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "Yes": "How many, what are they doing, and where?"
+     },
+     "required": true
+    },
+    {
+     "number": "5.2",
+     "question": "Are all crane inspections up to date?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "5.3",
+     "question": "Does each crane have a controlled access zone for the swing radius and load?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "5.4"
+  },
+  {
+   "group": "5.4",
+   "section": "EQUIPMENT",
+   "questions": [
+    {
+     "number": "5.4",
+     "question": "Is all other equipment inspected each day and free of leaks or damage?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "5.5",
+     "question": "Do operators have training certificates on file and stickers on their helmets?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "5.6",
+     "question": "Are operators of mobile equipment wearing seatbelts?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "5.7"
+  },
+  {
+   "group": "5.7",
+   "section": "EQUIPMENT",
+   "questions": [
+    {
+     "number": "5.7",
+     "question": "Does all mobile equipment have working backup alarms, horns, lights, mirrors, and signals?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "5.8",
+     "question": "Does all mobile equipment have a fire extinguisher the operator can reach?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "5.9",
+     "question": "Are aerial lifts used on firm, level ground with crush protection over the controls?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "finish"
+  }
+ ]
+}

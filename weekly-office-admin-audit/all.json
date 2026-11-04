@@ -1,0 +1,454 @@
+{
+ "form": "SAFETY - WEEKLY - Office Admin Audit",
+ "first": "1.1",
+ "groups": [
+  {
+   "group": "1.1",
+   "section": "TRAILER",
+   "questions": [
+    {
+     "number": "1.1",
+     "question": "Is the inside of the safety trailer clean and organized?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.2",
+     "question": "Is the outside of the safety trailer clean and free of trash and clutter?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.3",
+     "question": "Is there at least one inspected, accessible fire extinguisher in the trailer?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "1.4"
+  },
+  {
+   "group": "1.4",
+   "section": "TRAILER",
+   "questions": [
+    {
+     "number": "1.4",
+     "question": "Is the trailer marked with a sign, and is the right signage organized inside and out?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "2.1"
+  },
+  {
+   "group": "2.1",
+   "section": "ORIENTATION AREA",
+   "questions": [
+    {
+     "number": "2.1",
+     "question": "Is the orientation area clean and organized, with room for people to sit and see the screen?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "2.2",
+     "question": "Are stickers, wallet cards, T-shirts, and other handouts organized and stocked?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "2.3",
+     "question": "Is the Work Rules Acknowledgement QR code printed and ready to scan at the start of orientation?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "2.4"
+  },
+  {
+   "group": "2.4",
+   "section": "ORIENTATION AREA",
+   "questions": [
+    {
+     "number": "2.4",
+     "question": "Is there a backup device, like a spare phone, tablet, or computer, for the Work Rules Acknowledgement in WorkSafe?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "2.5",
+     "question": "Is the site-specific orientation deck up to date and in use?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "any": "What's the last revision date of the deck?"
+     },
+     "required": true
+    },
+    {
+     "number": "2.6",
+     "question": "Is there good hands-on demo material, like knives, PPE, barricades, and tools, organized for orientation?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "2.7"
+  },
+  {
+   "group": "2.7",
+   "section": "ORIENTATION AREA",
+   "questions": [
+    {
+     "number": "2.7",
+     "question": "Does everyone get a wallet card at orientation, and do all foremen get a Safety and Health Code book at First Day, First Hour training?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "3.1"
+  },
+  {
+   "group": "3.1",
+   "section": "INCIDENT PREPAREDNESS",
+   "questions": [
+    {
+     "number": "3.1",
+     "question": "Is the Incident Reporting Checklist posted where people can get to it?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "3.2",
+     "question": "Is the OSHA Inspection Checklist posted where people can get to it?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "3.3",
+     "question": "Is the Government Agency Inspection Checklist posted where people can get to it?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "3.4"
+  },
+  {
+   "group": "3.4",
+   "section": "INCIDENT PREPAREDNESS",
+   "questions": [
+    {
+     "number": "3.4",
+     "question": "Is the project's Emergency Action Plan posted where people can get to it?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "Yes": "What's the last revision date of the plan?"
+     },
+     "required": true
+    },
+    {
+     "number": "3.5",
+     "question": "Is the Emergency Contact Phone Number List posted where people can get to it?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "3.6",
+     "question": "Is the first aid kit fully stocked with nothing expired?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "3.7"
+  },
+  {
+   "group": "3.7",
+   "section": "INCIDENT PREPAREDNESS",
+   "questions": [
+    {
+     "number": "3.7",
+     "question": "Is the nurse's area set up, stocked, and in good order?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "3.8",
+     "question": "Is the SDS binder available and current for every chemical on site?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "3.9",
+     "question": "Are recent Safety Alerts posted where workers can easily read them?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "4.1"
+  },
+  {
+   "group": "4.1",
+   "section": "PAPERWORK & DOCUMENTATION",
+   "questions": [
+    {
+     "number": "4.1",
+     "question": "Are all crews doing good quality PTSAs each day, reviewed by the foreman and signed by the whole crew?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "4.2",
+     "question": "Is the Clayco project team addressing deficient PTSAs each morning?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "4.3",
+     "question": "Are all subcontractors turning in weekly safety audits?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "4.4"
+  },
+  {
+   "group": "4.4",
+   "section": "PAPERWORK & DOCUMENTATION",
+   "questions": [
+    {
+     "number": "4.4",
+     "question": "Are all subcontractors turning in the toolbox talks they hold each week?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "4.5",
+     "question": "Are subs doing hot work, ground disturbance, or roof work completing Safe Work Permits?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "4.6",
+     "question": "Are crews inspecting their equipment before starting work?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "4.7"
+  },
+  {
+   "group": "4.7",
+   "section": "PAPERWORK & DOCUMENTATION",
+   "questions": [
+    {
+     "number": "4.7",
+     "question": "Is all paperwork scanned and saved to the project's K drive folder, with no more than a week of backlog?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "5.1"
+  },
+  {
+   "group": "5.1",
+   "section": "SUBCONTRACTOR ONBOARDING DOCUMENTATION",
+   "questions": [
+    {
+     "number": "5.1",
+     "question": "Is the subcontractor onboarding matrix up to date?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "5.2",
+     "question": "Are the five most recent subs to start on site on the onboarding matrix?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "any": "Who are the last five subs?"
+     },
+     "required": true
+    },
+    {
+     "number": "5.3",
+     "question": "Is everyone on site marked green in the OK TO WORK column of the Insurance Log?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "No": "Which ones are red?"
+     },
+     "required": true
+    }
+   ],
+   "next": "5.4"
+  },
+  {
+   "group": "5.4",
+   "section": "SUBCONTRACTOR ONBOARDING DOCUMENTATION",
+   "questions": [
+    {
+     "number": "5.4",
+     "question": "Are all subs and tiered subs on the Competent Person List, with current information?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "5.5",
+     "question": "Are all subs and tiered subs on the Safety Representative List, with current information?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "6.1"
+  },
+  {
+   "group": "6.1",
+   "section": "SUBCONTRACTOR SAFETY",
+   "questions": [
+    {
+     "number": "6.1",
+     "question": "Is at least one subcontractor working on site right now?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "any": "About how many sub companies are on site, and how many people total, subs plus Clayco?"
+     },
+     "required": true
+    },
+    {
+     "number": "6.2",
+     "question": "Do any subs have 25 to 74 people on site, including tiered subs?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "Yes": "Which companies?"
+     },
+     "required": true
+    }
+   ],
+   "next": "6.3"
+  },
+  {
+   "group": "6.3",
+   "section": "SUBCONTRACTOR SAFETY",
+   "questions": [
+    {
+     "number": "6.3",
+     "question": "Does each of those subs have at least one full-time safety rep on site who meets the Safety and Health Code?",
+     "answer_type": "yes_no_na",
+     "only_if": {
+      "number": "6.2",
+      "answer": "Yes"
+     },
+     "required": true
+    },
+    {
+     "number": "6.4",
+     "question": "Do any subs have 75 to 149 people on site, including tiered subs?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "Yes": "Which companies?"
+     },
+     "required": true
+    }
+   ],
+   "next": "6.5"
+  },
+  {
+   "group": "6.5",
+   "section": "SUBCONTRACTOR SAFETY",
+   "questions": [
+    {
+     "number": "6.5",
+     "question": "Does each of those subs have at least two full-time safety reps on site who meet the Safety and Health Code?",
+     "answer_type": "yes_no_na",
+     "only_if": {
+      "number": "6.4",
+      "answer": "Yes"
+     },
+     "required": true
+    },
+    {
+     "number": "6.6",
+     "question": "Do any subs have 150 or more people on site, including tiered subs?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "Yes": "Which companies?"
+     },
+     "required": true
+    }
+   ],
+   "next": "6.7"
+  },
+  {
+   "group": "6.7",
+   "section": "SUBCONTRACTOR SAFETY",
+   "questions": [
+    {
+     "number": "6.7",
+     "question": "Does each of those subs have at least three full-time safety reps on site who meet the Safety and Health Code?",
+     "answer_type": "yes_no_na",
+     "only_if": {
+      "number": "6.6",
+      "answer": "Yes"
+     },
+     "required": true
+    }
+   ],
+   "next": "7.1"
+  },
+  {
+   "group": "7.1",
+   "section": "STRETCH & FLEX AND TOOLBOX TALKS",
+   "questions": [
+    {
+     "number": "7.1",
+     "question": "Are all sub workers doing Stretch and Flex each day?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "any": "What time and where is Stretch and Flex?"
+     },
+     "required": true
+    },
+    {
+     "number": "7.2",
+     "question": "Are all Clayco employees doing Stretch and Flex each day?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "7.3",
+     "question": "Is at least one site-wide toolbox talk held each week?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "Yes": "What time and where are the toolbox talks?"
+     },
+     "required": true
+    }
+   ],
+   "next": "7.4"
+  },
+  {
+   "group": "7.4",
+   "section": "STRETCH & FLEX AND TOOLBOX TALKS",
+   "questions": [
+    {
+     "number": "7.4",
+     "question": "Are toolbox talks given in English and Spanish when needed?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "7.5",
+     "question": "Can everyone see and hear during Stretch and Flex and toolbox talks, with enough lighting and a speaker system?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "7.6",
+     "question": "Does anything need to change to improve Stretch and Flex or toolbox talks?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "Yes": "What should change?"
+     },
+     "required": true
+    }
+   ],
+   "next": "finish"
+  }
+ ]
+}

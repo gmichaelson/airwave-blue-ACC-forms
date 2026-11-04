@@ -1,0 +1,132 @@
+{
+ "form": "Safety - MSA",
+ "first": "1.1",
+ "groups": [
+  {
+   "group": "1.1",
+   "section": "MSA",
+   "questions": [
+    {
+     "number": "1.1",
+     "question": "Who's on this walk? Say everyone's name.",
+     "answer_type": "text",
+     "required": true
+    }
+   ],
+   "next": "1.2"
+  },
+  {
+   "group": "1.2",
+   "section": "MSA",
+   "questions": [
+    {
+     "number": "1.2",
+     "question": "Documentation: are PTSAs done, signed, posted, and reviewed with crews, permits signed, and equipment inspections current? Compliant or non-compliant?",
+     "answer_type": "one_option",
+     "options": [
+      "Compliant",
+      "Non-Compliant"
+     ],
+     "follow_up": {
+      "Non-Compliant": "What did you see?"
+     },
+     "required": true
+    }
+   ],
+   "next": "1.3"
+  },
+  {
+   "group": "1.3",
+   "section": "MSA",
+   "questions": [
+    {
+     "number": "1.3",
+     "question": "Housekeeping and slips, trips, and falls: trash, staging areas, cords, clear walkways, and hazards marked. Compliant or non-compliant?",
+     "answer_type": "one_option",
+     "options": [
+      "Compliant",
+      "Non-Compliant"
+     ],
+     "follow_up": {
+      "Non-Compliant": "What did you see?"
+     },
+     "required": true
+    }
+   ],
+   "next": "1.4"
+  },
+  {
+   "group": "1.4",
+   "section": "MSA",
+   "questions": [
+    {
+     "number": "1.4",
+     "question": "Tool and equipment use: trained workers, tools inspected and used per the manufacturer, guards in place. Compliant or non-compliant?",
+     "answer_type": "one_option",
+     "options": [
+      "Compliant",
+      "Non-Compliant"
+     ],
+     "follow_up": {
+      "Non-Compliant": "What did you see?"
+     },
+     "required": true
+    }
+   ],
+   "next": "1.5"
+  },
+  {
+   "group": "1.5",
+   "section": "MSA",
+   "questions": [
+    {
+     "number": "1.5",
+     "question": "Material handling: no more than 50 pounds per person, carts or lifts used, proper lifting. Compliant or non-compliant?",
+     "answer_type": "one_option",
+     "options": [
+      "Compliant",
+      "Non-Compliant"
+     ],
+     "follow_up": {
+      "Non-Compliant": "What did you see?"
+     },
+     "required": true
+    }
+   ],
+   "next": "1.6"
+  },
+  {
+   "group": "1.6",
+   "section": "MSA",
+   "questions": [
+    {
+     "number": "1.6",
+     "question": "Elevated work and fall protection: right protection in place and used properly, access zones set up, gear in good shape. Compliant or non-compliant?",
+     "answer_type": "one_option",
+     "options": [
+      "Compliant",
+      "Non-Compliant"
+     ],
+     "follow_up": {
+      "Non-Compliant": "What did you see?"
+     },
+     "required": true
+    }
+   ],
+   "next": "1.7"
+  },
+  {
+   "group": "1.7",
+   "section": "MSA",
+   "questions": [
+    {
+     "number": "1.7",
+     "question": "Pick a crew and watch them work for a few minutes. What did you see, good and bad?",
+     "answer_type": "text",
+     "required": true
+    }
+   ],
+   "next": "finish"
+  }
+ ]
+}

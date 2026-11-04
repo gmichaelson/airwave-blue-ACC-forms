@@ -1,0 +1,351 @@
+{
+ "form": "01 - Quality Control Site Visit",
+ "first": "1.1",
+ "groups": [
+  {
+   "group": "1.1",
+   "section": "Concrete",
+   "group_question": "Concrete: any cracking, joints and caulking, rebar, testing, cylinders, or cure box?",
+   "questions": [
+    {
+     "number": "1.1",
+     "question": "Any cracking",
+     "answer_type": "text"
+    },
+    {
+     "number": "1.2",
+     "question": "Joint Condition and Caulking",
+     "answer_type": "text"
+    },
+    {
+     "number": "1.3",
+     "question": "Rebar",
+     "answer_type": "text"
+    },
+    {
+     "number": "1.4",
+     "question": "All concrete test being performed. slump, air, temp, unit weight.",
+     "answer_type": "text"
+    },
+    {
+     "number": "1.5",
+     "question": "correct number of cylinders being made (4X8s or 6X12s) and at the specified frequency",
+     "answer_type": "text"
+    },
+    {
+     "number": "1.6",
+     "question": "cylinders are stored in a temperature controlled cure box with lids on the cylinders",
+     "answer_type": "text"
+    },
+    {
+     "number": "1.7",
+     "question": "cure box is plugged in and working. temperature is maintained between 60-80 degrees.",
+     "answer_type": "text"
+    },
+    {
+     "number": "1.8",
+     "question": "Misc. Concrete",
+     "answer_type": "text"
+    }
+   ],
+   "next": "2.1"
+  },
+  {
+   "group": "2.1",
+   "section": "Drywall",
+   "group_question": "Drywall: control joints, fire caulking, anything else?",
+   "questions": [
+    {
+     "number": "2.1",
+     "question": "Control joints installed",
+     "answer_type": "text"
+    },
+    {
+     "number": "2.2",
+     "question": "Misc. drywall info",
+     "answer_type": "text"
+    },
+    {
+     "number": "2.3",
+     "question": "Fire caulking",
+     "answer_type": "text"
+    }
+   ],
+   "next": "3.1"
+  },
+  {
+   "group": "3.1",
+   "section": "Tilt Wall",
+   "group_question": "Tilt wall: surface, joint spacing, patching, reveals, rebar?",
+   "questions": [
+    {
+     "number": "3.1",
+     "question": "Surface condition",
+     "answer_type": "text"
+    },
+    {
+     "number": "3.2",
+     "question": "Joint spacing",
+     "answer_type": "text"
+    },
+    {
+     "number": "3.3",
+     "question": "Patching",
+     "answer_type": "text"
+    },
+    {
+     "number": "3.4",
+     "question": "Reveal condition",
+     "answer_type": "text"
+    },
+    {
+     "number": "3.5",
+     "question": "Rebar",
+     "answer_type": "text"
+    },
+    {
+     "number": "3.6",
+     "question": "Misc. Tilt Wall",
+     "answer_type": "text"
+    }
+   ],
+   "next": "4.1"
+  },
+  {
+   "group": "4.1",
+   "section": "MEP",
+   "group_question": "MEP: fire, electric, water, waste?",
+   "questions": [
+    {
+     "number": "4.1",
+     "question": "Fire",
+     "answer_type": "text"
+    },
+    {
+     "number": "4.2",
+     "question": "Electric",
+     "answer_type": "text"
+    },
+    {
+     "number": "4.3",
+     "question": "Water",
+     "answer_type": "text"
+    },
+    {
+     "number": "4.4",
+     "question": "Waste",
+     "answer_type": "text"
+    },
+    {
+     "number": "4.5",
+     "question": "Misc. MEP",
+     "answer_type": "text"
+    }
+   ],
+   "next": "5.1"
+  },
+  {
+   "group": "5.1",
+   "section": "Docs, Doors and Windows",
+   "group_question": "Docks, doors, and windows: levelers, doors, jambs, windows, opening heights?",
+   "questions": [
+    {
+     "number": "5.1",
+     "question": "Dock levelers",
+     "answer_type": "text"
+    },
+    {
+     "number": "5.2",
+     "question": "Joints around dock levelers",
+     "answer_type": "text"
+    },
+    {
+     "number": "5.3",
+     "question": "Doors",
+     "answer_type": "text"
+    },
+    {
+     "number": "5.4",
+     "question": "Door jams",
+     "answer_type": "text"
+    },
+    {
+     "number": "5.5",
+     "question": "Window",
+     "answer_type": "text"
+    },
+    {
+     "number": "5.6",
+     "question": "Door opening height",
+     "answer_type": "text"
+    },
+    {
+     "number": "5.7",
+     "question": "Misc. doors",
+     "answer_type": "text"
+    }
+   ],
+   "next": "6.1"
+  },
+  {
+   "group": "6.1",
+   "section": "Roof",
+   "group_question": "Roof: access, scaffolding, stored items, condition, HVAC, roof hatch?",
+   "questions": [
+    {
+     "number": "6.1",
+     "question": "Access",
+     "answer_type": "text"
+    },
+    {
+     "number": "6.2",
+     "question": "Scaffolding",
+     "answer_type": "text"
+    },
+    {
+     "number": "6.3",
+     "question": "Items stored on roof",
+     "answer_type": "text"
+    },
+    {
+     "number": "6.4",
+     "question": "General condition",
+     "answer_type": "text"
+    },
+    {
+     "number": "6.5",
+     "question": "HVAC",
+     "answer_type": "text"
+    },
+    {
+     "number": "6.6",
+     "question": "Roof hatch",
+     "answer_type": "text"
+    },
+    {
+     "number": "6.7",
+     "question": "Misc. roof",
+     "answer_type": "text"
+    }
+   ],
+   "next": "7.1"
+  },
+  {
+   "group": "7.1",
+   "section": "Structural Steel",
+   "group_question": "Structural steel: columns, joists, decking?",
+   "questions": [
+    {
+     "number": "7.1",
+     "question": "Columns",
+     "answer_type": "text"
+    },
+    {
+     "number": "7.2",
+     "question": "Joists",
+     "answer_type": "text"
+    },
+    {
+     "number": "7.3",
+     "question": "Decking",
+     "answer_type": "text"
+    },
+    {
+     "number": "7.4",
+     "question": "Misc. structural steel",
+     "answer_type": "text"
+    }
+   ],
+   "next": "8.1"
+  },
+  {
+   "group": "8.1",
+   "section": "Site Condition, Soil",
+   "group_question": "Site and soil condition?",
+   "questions": [
+    {
+     "number": "8.1",
+     "question": "Soil condition",
+     "answer_type": "text"
+    },
+    {
+     "number": "8.2",
+     "question": "General site condition",
+     "answer_type": "text"
+    }
+   ],
+   "next": "9.1"
+  },
+  {
+   "group": "9.1",
+   "section": "Misc Items",
+   "group_question": "Anything else you saw that didn't fit those sections?",
+   "questions": [
+    {
+     "number": "9.1",
+     "question": "New item",
+     "answer_type": "text"
+    },
+    {
+     "number": "9.2",
+     "question": "New item",
+     "answer_type": "text"
+    },
+    {
+     "number": "9.3",
+     "question": "New item",
+     "answer_type": "text"
+    },
+    {
+     "number": "9.4",
+     "question": "New Item",
+     "answer_type": "text"
+    },
+    {
+     "number": "9.5",
+     "question": "New Item",
+     "answer_type": "text"
+    },
+    {
+     "number": "9.6",
+     "question": "New Item",
+     "answer_type": "text"
+    },
+    {
+     "number": "9.7",
+     "question": "New Item",
+     "answer_type": "text"
+    },
+    {
+     "number": "9.8",
+     "question": "New Item",
+     "answer_type": "text"
+    },
+    {
+     "number": "9.9",
+     "question": "New Item",
+     "answer_type": "text"
+    },
+    {
+     "number": "9.10",
+     "question": "New Item",
+     "answer_type": "text"
+    }
+   ],
+   "next": "10.1"
+  },
+  {
+   "group": "10.1",
+   "section": "Clayco Signature",
+   "questions": [
+    {
+     "number": "10.1",
+     "question": "Who's the Clayco representative signing this?",
+     "answer_type": "signature",
+     "required": true
+    }
+   ],
+   "next": "finish"
+  }
+ ]
+}

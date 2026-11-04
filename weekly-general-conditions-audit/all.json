@@ -1,0 +1,336 @@
+{
+ "form": "SAFETY - WEEKLY - General Condition Audit",
+ "first": "1.1",
+ "groups": [
+  {
+   "group": "1.1",
+   "section": "GENERAL CONSIDERATIONS",
+   "questions": [
+    {
+     "number": "1.1",
+     "question": "Is lighting around the site adequate, inside and out, at all times of day?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.2",
+     "question": "Are eyewash stations staged in the right places, filled, and secured against tampering?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.3",
+     "question": "Are the eyewash stations inspected regularly?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "1.4"
+  },
+  {
+   "group": "1.4",
+   "section": "GENERAL CONSIDERATIONS",
+   "questions": [
+    {
+     "number": "1.4",
+     "question": "Are all containers labeled with the manufacturer's label or proper handwritten information?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.5",
+     "question": "Are fire extinguishers staged properly: at each stair landing, 25 to 75 feet from flammable storage, within 100 feet of any work, and on all mobile equipment?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.6",
+     "question": "Are all fire extinguishers inspected monthly and tagged as current?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "1.7"
+  },
+  {
+   "group": "1.7",
+   "section": "GENERAL CONSIDERATIONS",
+   "questions": [
+    {
+     "number": "1.7",
+     "question": "Are all flammable materials stored in the right places?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.8",
+     "question": "Do fuel storage areas have secondary and spill containment?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.9",
+     "question": "Are flammable storage cabinets grounded and within capacity?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "2.1"
+  },
+  {
+   "group": "2.1",
+   "section": "DOCUMENTATION",
+   "questions": [
+    {
+     "number": "2.1",
+     "question": "Is the PTSA board up in an accessible spot, with a way to hold PTSAs for each sub or crew?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "2.2",
+     "question": "Are blank forms protected, available to crews, and well stocked?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "2.3",
+     "question": "Is there an accessible place for crews to turn in completed documents?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "3.1"
+  },
+  {
+   "group": "3.1",
+   "section": "SIGNAGE",
+   "questions": [
+    {
+     "number": "3.1",
+     "question": "Is there a sign at the project entrance with the project address?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "3.2",
+     "question": "Does the project entrance have the right signage?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "3.3",
+     "question": "Are muster points marked with signs?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "3.4"
+  },
+  {
+   "group": "3.4",
+   "section": "SIGNAGE",
+   "questions": [
+    {
+     "number": "3.4",
+     "question": "Is the OSHA board posted where it's visible, clean, legible, and up to date?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "3.5",
+     "question": "Is the right signage displayed around the site?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "4.1"
+  },
+  {
+   "group": "4.1",
+   "section": "RESTROOM FACILITIES",
+   "questions": [
+    {
+     "number": "4.1",
+     "question": "Is there at least one restroom for every ten people on site?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "any": "How many people and how many restrooms are on site?"
+     },
+     "required": true
+    },
+    {
+     "number": "4.2",
+     "question": "Are restrooms clean and stocked?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "4.3",
+     "question": "Is there a hand washing or sanitizing station at every restroom?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "5.1"
+  },
+  {
+   "group": "5.1",
+   "section": "PERSONAL PROTECTIVE EQUIPMENT (PPE)",
+   "questions": [
+    {
+     "number": "5.1",
+     "question": "Are all workers wearing minimum PPE: helmet, glasses, gloves, high-vis, and work boots?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "5.2",
+     "question": "Do workers doing special tasks, like hot work or overhead work, have the right PPE?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "5.3",
+     "question": "Are people with prescription glasses wearing Z87 rated glasses or Z87 overglasses?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "5.4"
+  },
+  {
+   "group": "5.4",
+   "section": "PERSONAL PROTECTIVE EQUIPMENT (PPE)",
+   "questions": [
+    {
+     "number": "5.4",
+     "question": "Is everyone wearing gloves from the Clayco Glove Guide that fit their task?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "No": "Who doesn't have the right gloves?"
+     },
+     "required": true
+    },
+    {
+     "number": "5.5",
+     "question": "Are workers making flying debris wearing foam-lined glasses or goggles and face shields?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "5.6",
+     "question": "Are people working with sharp sheet metal or similar wearing cut-rated sleeves?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "6.1"
+  },
+  {
+   "group": "6.1",
+   "section": "CORDS AND TOOLS",
+   "questions": [
+    {
+     "number": "6.1",
+     "question": "Are all tools used properly with safeguards in place and working?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "6.2",
+     "question": "Are all knives on site the automatic self-retracting type?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "6.3",
+     "question": "Are all cords in good shape with GFCI protection at the power source?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "6.4"
+  },
+  {
+   "group": "6.4",
+   "section": "CORDS AND TOOLS",
+   "questions": [
+    {
+     "number": "6.4",
+     "question": "Are extension cords in good shape, raised at least 7 feet on non-conductive supports, or rolled up when not in use?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "6.5",
+     "question": "Is material secured when saws and grinders are used?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "6.6",
+     "question": "Are all hand-held bandsaws on site dual-trigger?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "6.7"
+  },
+  {
+   "group": "6.7",
+   "section": "CORDS AND TOOLS",
+   "questions": [
+    {
+     "number": "6.7",
+     "question": "Do all drills with a half inch or larger chuck, except hammer drills, have auto-stop or anti-rotation?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "7.1"
+  },
+  {
+   "group": "7.1",
+   "section": "CHILL ZONES/WARM ZONES",
+   "questions": [
+    {
+     "number": "7.1",
+     "question": "Is it warm enough to need Chill Zones, 80 degrees or more with the heat index?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "Yes": "How many Chill Zones are set up?"
+     },
+     "required": true
+    }
+   ],
+   "next": "7.2"
+  },
+  {
+   "group": "7.2",
+   "section": "CHILL ZONES/WARM ZONES",
+   "questions": [
+    {
+     "number": "7.2",
+     "question": "Are the Chill Zones set up with water, shade, and seats?",
+     "answer_type": "yes_no_na",
+     "only_if": {
+      "number": "7.1",
+      "answer": "Yes"
+     },
+     "required": true
+    },
+    {
+     "number": "7.3",
+     "question": "Is it cold enough to need Warm Zones?",
+     "answer_type": "yes_no_na",
+     "follow_up": {
+      "Yes": "How many Warm Zones are set up?"
+     },
+     "required": true
+    }
+   ],
+   "next": "finish"
+  }
+ ]
+}

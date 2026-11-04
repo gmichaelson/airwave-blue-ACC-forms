@@ -1,0 +1,100 @@
+{
+ "form": "Safety - Meetings",
+ "first": "1.1",
+ "groups": [
+  {
+   "group": "1.1",
+   "section": "Safety Meetings",
+   "questions": [
+    {
+     "number": "1.1",
+     "question": "What day was the meeting? Say today if it was today.",
+     "answer_type": "date",
+     "required": true
+    }
+   ],
+   "next": "1.2"
+  },
+  {
+   "group": "1.2",
+   "section": "Safety Meetings",
+   "questions": [
+    {
+     "number": "1.2",
+     "question": "What type of meeting was it? Toolbox talk, safety committee, stand down, sub annual refresher, or other?",
+     "answer_type": "one_or_more_options",
+     "options": [
+      "Toolbox Talk",
+      "Safety Committee",
+      "Stand Down",
+      "Sub Annual Refresher",
+      "Other"
+     ],
+     "required": true
+    }
+   ],
+   "next": "1.3"
+  },
+  {
+   "group": "1.3",
+   "section": "Safety Meetings",
+   "group_question": "What was the topic?",
+   "questions": [
+    {
+     "number": "1.3",
+     "question": "Topic, first list: work rules, PPE, ergonomics, housekeeping, fall protection, tool safety, equipment safety, air quality, weather, or other.",
+     "answer_type": "one_or_more_options",
+     "options": [
+      "Work Rules",
+      "PPE",
+      "Ergonomics",
+      "Housekeeping",
+      "Fall Protection",
+      "Tool Safety",
+      "Equipment Safety",
+      "Air Quality",
+      "Weather",
+      "Other"
+     ],
+     "required": true
+    },
+    {
+     "number": "1.4",
+     "question": "Topic, second list: holiday, safety alert, or other.",
+     "answer_type": "one_or_more_options",
+     "options": [
+      "Holiday",
+      "Safety Alert",
+      "Other"
+     ],
+     "required": true
+    }
+   ],
+   "next": "2.1"
+  },
+  {
+   "group": "2.1",
+   "section": "Agenda",
+   "questions": [
+    {
+     "number": "2.1",
+     "question": "Any notes about what was discussed?",
+     "answer_type": "text"
+    }
+   ],
+   "next": "2.2"
+  },
+  {
+   "group": "2.2",
+   "section": "Agenda",
+   "questions": [
+    {
+     "number": "2.2",
+     "question": "Anything to note about the sign-in sheets, like how many people signed? Say skip if not.",
+     "answer_type": "text"
+    }
+   ],
+   "next": "finish"
+  }
+ ]
+}

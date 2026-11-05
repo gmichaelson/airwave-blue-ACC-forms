@@ -1,0 +1,41 @@
+{
+  "form": "Safety - Hand Safety Audit",
+  "group": "1.7",
+  "section": "Review of Jobsite",
+  "questions": [
+    {
+      "number": "1.7",
+      "question": "For workers observed using tools/materials that could cause a \"Struck By\" type injury (.e.g hammer, forms, steel) are they keeping hands/arms away from and out of the line of fire?",
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "1.8",
+      "question": "Are proper tools being used that will prevent a hand injury?",
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "1.9",
+      "question": "Do workers using auto retracting blades, working around metal studs/ductwork/electrical gear/MEP Boxes, grinders have proper arm protection (cut-resistant A-5 sleeves, for example) when needed?",
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    }
+  ],
+  "next": "1.10"
+}

@@ -1,0 +1,18 @@
+{
+  "form": "Safety - Hand Safety Audit",
+  "number": "1.9",
+  "section": "Review of Jobsite",
+  "question": "Do workers using auto retracting blades, working around metal studs/ductwork/electrical gear/MEP Boxes, grinders have proper arm protection (cut-resistant A-5 sleeves, for example) when needed?",
+  "acc_question": "Do workers using auto retracting blades, working around metal studs/ductwork/electrical gear/MEP Boxes, grinders have proper arm protection (cut-resistant A-5 sleeves, for example) when needed?",
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "1.10",
+  "acc_rules": "A No needs a linked issue in ACC.",
+  "field_id": "009c3e1f-13c6-407d-891b-e8519ee0d5ba",
+  "value_type": "toggleVal"
+}

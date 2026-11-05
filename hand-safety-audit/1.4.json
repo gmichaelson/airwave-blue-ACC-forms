@@ -1,0 +1,18 @@
+{
+  "form": "Safety - Hand Safety Audit",
+  "number": "1.4",
+  "section": "Review of Jobsite",
+  "question": "Do the subs have ample supply of approved HexArmor gloves on site for their workers?",
+  "acc_question": "Do the subs have ample supply of approved HexArmor gloves on site for their workers?",
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "1.5",
+  "acc_rules": "A No needs a linked issue in ACC.",
+  "field_id": "59258b12-3aa6-459a-bf42-2d7a746c8562",
+  "value_type": "toggleVal"
+}

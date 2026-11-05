@@ -1,0 +1,142 @@
+{
+ "form": "Safety - Hand Safety Audit",
+ "first": "1.1",
+ "groups": [
+  {
+   "group": "1.1",
+   "section": "Review of Jobsite",
+   "questions": [
+    {
+     "number": "1.1",
+     "question": "Are all workers you observed wearing the approved gloves, or gloves approved via variance, for the work they are doing? (minimum HexArmor Approved Gloves)",
+     "acc_question": "Are all workers you observed wearing the approved gloves, or gloves approved via variance, for the work they are doing? (minimum HexArmor Approved Gloves)",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.2",
+     "question": "Was hand safety and applicable precautions listed as a line item in the daily PTSA for companies you observed? Pinch points specifically?",
+     "acc_question": "Was hand safety and applicable precautions listed as a line item in the daily PTSA for companies you observed? Pinch points specifically?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.3",
+     "question": "Is there an ample supply (minimum dozen of each size) of HexArmor gloves (i.e. warm gloves, welding) available in the Clayco trailer?",
+     "acc_question": "Is there an ample supply (minimum dozen of each size) of HexArmor gloves (i.e. warm gloves, welding) available in the Clayco trailer?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "1.4"
+  },
+  {
+   "group": "1.4",
+   "section": "Review of Jobsite",
+   "questions": [
+    {
+     "number": "1.4",
+     "question": "Do the subs have ample supply of approved HexArmor gloves on site for their workers?",
+     "acc_question": "Do the subs have ample supply of approved HexArmor gloves on site for their workers?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.5",
+     "question": "Are the workers you observed properly gripping items using their whole hand and not putting their hands or other body parts in the \"line of fire\" from something that could cut, puncture, or pinch them?",
+     "acc_question": "Are the workers you observed properly gripping items using their whole hand and not putting their hands or other body parts in the \"line of fire\" from something that could cut, puncture, or pinch them?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.6",
+     "question": "Are workers using appropriate cutting tools (Auto-retracting blades) and cutting away from their body?",
+     "acc_question": "Are workers using appropriate cutting tools (Auto-retracting blades) and cutting away from their body?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "1.7"
+  },
+  {
+   "group": "1.7",
+   "section": "Review of Jobsite",
+   "questions": [
+    {
+     "number": "1.7",
+     "question": "For workers observed using tools/materials that could cause a \"Struck By\" type injury (.e.g hammer, forms, steel) are they keeping hands/arms away from and out of the line of fire?",
+     "acc_question": "For workers observed using tools/materials that could cause a \"Struck By\" type injury (.e.g hammer, forms, steel) are they keeping hands/arms away from and out of the line of fire?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.8",
+     "question": "Are proper tools being used that will prevent a hand injury?",
+     "acc_question": "Are proper tools being used that will prevent a hand injury?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.9",
+     "question": "Do workers using auto retracting blades, working around metal studs/ductwork/electrical gear/MEP Boxes, grinders have proper arm protection (cut-resistant A-5 sleeves, for example) when needed?",
+     "acc_question": "Do workers using auto retracting blades, working around metal studs/ductwork/electrical gear/MEP Boxes, grinders have proper arm protection (cut-resistant A-5 sleeves, for example) when needed?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "1.10"
+  },
+  {
+   "group": "1.10",
+   "section": "Review of Jobsite",
+   "questions": [
+    {
+     "number": "1.10",
+     "question": "Are there backup auto retracting blades on site for workers?",
+     "acc_question": "Are there backup auto retracting blades on site for workers?",
+     "answer_type": "yes_no_na",
+     "required": true
+    },
+    {
+     "number": "1.11",
+     "question": "Are all Clayco project members wearing approved HexArmor Gloves?",
+     "acc_question": "Are all Clayco project members wearing approved HexArmor Gloves?",
+     "answer_type": "yes_no_na",
+     "required": true
+    }
+   ],
+   "next": "1.12"
+  },
+  {
+   "group": "1.12",
+   "section": "Review of Jobsite",
+   "questions": [
+    {
+     "number": "1.12",
+     "question": "Crew observation: what did you see when you watched a crew, focusing on hand placement?",
+     "acc_question": "Crew Observation - Stop and watch a crew and provide feedback, focusing on hand placement.",
+     "answer_type": "text",
+     "required": true
+    }
+   ],
+   "next": "1.13"
+  },
+  {
+   "group": "1.13",
+   "section": "Review of Jobsite",
+   "questions": [
+    {
+     "number": "1.13",
+     "question": "Who's on this walk? Say everyone's name.",
+     "acc_question": "List the names of all team members participating in this walk.  MUST INCLUDE A PICTURE OF THE TEAM POSED TOGETHER FOR THIS WALK WITH THIS ITEM.",
+     "answer_type": "text",
+     "required": true,
+     "say_if": {
+      "any": "The form needs a photo of the team together for this item. Take it with the photo button."
+     }
+    }
+   ],
+   "next": "finish"
+  }
+ ]
+}

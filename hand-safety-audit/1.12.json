@@ -1,0 +1,18 @@
+{
+  "form": "Safety - Hand Safety Audit",
+  "number": "1.12",
+  "section": "Review of Jobsite",
+  "question": "Crew observation: what did you see when you watched a crew, focusing on hand placement?",
+  "acc_question": "Crew Observation - Stop and watch a crew and provide feedback, focusing on hand placement.",
+  "answer_type": "text",
+  "options": null,
+  "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "1.13",
+  "acc_rules": null,
+  "field_id": "6d18bf47-cf9d-4fba-a757-92adbe477286",
+  "value_type": "textVal"
+}

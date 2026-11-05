@@ -1,0 +1,18 @@
+{
+  "form": "Safety - Hand Safety Audit",
+  "number": "1.10",
+  "section": "Review of Jobsite",
+  "question": "Are there backup auto retracting blades on site for workers?",
+  "acc_question": "Are there backup auto retracting blades on site for workers?",
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "1.11",
+  "acc_rules": "A No needs a linked issue in ACC.",
+  "field_id": "2df95bec-10d5-4895-83db-5b723e1ad664",
+  "value_type": "toggleVal"
+}

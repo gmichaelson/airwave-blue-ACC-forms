@@ -1,0 +1,18 @@
+{
+  "form": "Safety - Hand Safety Audit",
+  "number": "1.8",
+  "section": "Review of Jobsite",
+  "question": "Are proper tools being used that will prevent a hand injury?",
+  "acc_question": "Are proper tools being used that will prevent a hand injury?",
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "1.9",
+  "acc_rules": "A No needs a linked issue in ACC.",
+  "field_id": "1867d3a2-dc48-4b8e-afee-73a8a87b5fc1",
+  "value_type": "toggleVal"
+}

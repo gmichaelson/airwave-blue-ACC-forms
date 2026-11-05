@@ -1,0 +1,18 @@
+{
+  "form": "Safety - Hand Safety Audit",
+  "number": "1.11",
+  "section": "Review of Jobsite",
+  "question": "Are all Clayco project members wearing approved HexArmor Gloves?",
+  "acc_question": "Are all Clayco project members wearing approved HexArmor Gloves?",
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "1.12",
+  "acc_rules": "A No needs a linked issue in ACC.",
+  "field_id": "e2788635-89e7-aeb0-ef31-1a9fe4181098",
+  "value_type": "toggleVal"
+}

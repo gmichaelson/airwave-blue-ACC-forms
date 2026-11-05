@@ -1,0 +1,8 @@
+{
+  "form": "Safety - Hand Safety Audit",
+  "group": "finish",
+  "section": "Finish",
+  "questions": [],
+  "say": "Got it. The hand safety audit is saved.",
+  "next": "done"
+}

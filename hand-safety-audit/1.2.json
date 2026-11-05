@@ -1,0 +1,18 @@
+{
+  "form": "Safety - Hand Safety Audit",
+  "number": "1.2",
+  "section": "Review of Jobsite",
+  "question": "Was hand safety and applicable precautions listed as a line item in the daily PTSA for companies you observed? Pinch points specifically?",
+  "acc_question": "Was hand safety and applicable precautions listed as a line item in the daily PTSA for companies you observed? Pinch points specifically?",
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "1.3",
+  "acc_rules": "A No needs a linked issue in ACC.",
+  "field_id": "1eb46397-e590-435b-8472-5bdf34741f37",
+  "value_type": "toggleVal"
+}

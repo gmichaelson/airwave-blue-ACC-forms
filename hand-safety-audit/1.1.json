@@ -1,0 +1,18 @@
+{
+  "form": "Safety - Hand Safety Audit",
+  "number": "1.1",
+  "section": "Review of Jobsite",
+  "question": "Are all workers you observed wearing the approved gloves, or gloves approved via variance, for the work they are doing? (minimum HexArmor Approved Gloves)",
+  "acc_question": "Are all workers you observed wearing the approved gloves, or gloves approved via variance, for the work they are doing? (minimum HexArmor Approved Gloves)",
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "1.2",
+  "acc_rules": "A No needs a linked issue in ACC.",
+  "field_id": "646bedf2-7ad2-45e5-a389-391c66f8c871",
+  "value_type": "toggleVal"
+}

@@ -1,0 +1,41 @@
+{
+  "form": "Safety - Hand Safety Audit",
+  "group": "1.4",
+  "section": "Review of Jobsite",
+  "questions": [
+    {
+      "number": "1.4",
+      "question": "Do the subs have ample supply of approved HexArmor gloves on site for their workers?",
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "1.5",
+      "question": "Are the workers you observed properly gripping items using their whole hand and not putting their hands or other body parts in the \"line of fire\" from something that could cut, puncture, or pinch them?",
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    },
+    {
+      "number": "1.6",
+      "question": "Are workers using appropriate cutting tools (Auto-retracting blades) and cutting away from their body?",
+      "answer_type": "yes_no_na",
+      "options": null,
+      "required": true,
+      "say_if": null,
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    }
+  ],
+  "next": "1.7"
+}

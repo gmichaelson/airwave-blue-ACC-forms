@@ -1,0 +1,20 @@
+{
+  "form": "Safety - Hand Safety Audit",
+  "number": "1.13",
+  "section": "Review of Jobsite",
+  "question": "Who's on this walk? Say everyone's name.",
+  "acc_question": "List the names of all team members participating in this walk.  MUST INCLUDE A PICTURE OF THE TEAM POSED TOGETHER FOR THIS WALK WITH THIS ITEM.",
+  "answer_type": "text",
+  "options": null,
+  "required": true,
+  "say_if": {
+    "any": "The form needs a photo of the team together for this item. Take it with the photo button."
+  },
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "finish",
+  "acc_rules": "Needs a photo of the team together.",
+  "field_id": "2af50bcd-efed-4784-8c44-229b3bb4fa62",
+  "value_type": "textVal"
+}

@@ -1,0 +1,21 @@
+{
+  "form": "Safety - Hand Safety Audit",
+  "group": "1.13",
+  "section": "Review of Jobsite",
+  "questions": [
+    {
+      "number": "1.13",
+      "question": "Who's on this walk? Say everyone's name.",
+      "answer_type": "text",
+      "options": null,
+      "required": true,
+      "say_if": {
+        "any": "The form needs a photo of the team together for this item. Take it with the photo button."
+      },
+      "more_info": null,
+      "follow_up": null,
+      "only_if": null
+    }
+  ],
+  "next": "finish"
+}

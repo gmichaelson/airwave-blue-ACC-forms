@@ -1,0 +1,18 @@
+{
+  "form": "Safety - Hand Safety Audit",
+  "number": "1.6",
+  "section": "Review of Jobsite",
+  "question": "Are workers using appropriate cutting tools (Auto-retracting blades) and cutting away from their body?",
+  "acc_question": "Are workers using appropriate cutting tools (Auto-retracting blades) and cutting away from their body?",
+  "answer_type": "yes_no_na",
+  "options": null,
+  "required": true,
+  "say_if": null,
+  "more_info": null,
+  "follow_up": null,
+  "only_if": null,
+  "next": "1.7",
+  "acc_rules": "A No needs a linked issue in ACC.",
+  "field_id": "0b03c236-8355-433b-8426-8fe0e48bb9d5",
+  "value_type": "toggleVal"
+}
